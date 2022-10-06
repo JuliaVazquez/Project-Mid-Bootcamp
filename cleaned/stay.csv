@@ -1,0 +1,1145 @@
+,accommodation_type,avg_days,year,month
+0,Hotels,2.22,2022,Aug
+1,Hotels,2.12,2022,Jul
+2,Hotels,1.85,2022,Jun
+3,Hotels,1.73,2022,May
+4,Hotels,1.8,2022,Apr
+5,Hotels,1.91,2022,Mar
+6,Hotels,1.8,2022,Feb
+7,Hotels,1.86,2022,Jan
+8,Hotels,1.94,2021,Dec
+9,Hotels,1.89,2021,Nov
+10,Hotels,1.87,2021,Oct
+11,Hotels,2.01,2021,Sep
+12,Hotels,2.32,2021,Aug
+13,Hotels,2.17,2021,Jul
+14,Hotels,1.92,2021,Jun
+15,Hotels,1.85,2021,May
+16,Hotels,1.91,2021,Apr
+17,Hotels,2.02,2021,Mar
+18,Hotels,2.38,2021,Feb
+19,Hotels,2.54,2021,Jan
+20,Hotels,2.34,2020,Dec
+21,Hotels,2.5,2020,Nov
+22,Hotels,1.95,2020,Oct
+23,Hotels,1.98,2020,Sep
+24,Hotels,2.32,2020,Aug
+25,Hotels,2.3,2020,Jul
+26,Hotels,2.05,2020,Jun
+27,Hotels,3.61,2020,May
+28,Hotels,0,2020,Apr
+29,Hotels,2.03,2020,Mar
+30,Hotels,1.88,2020,Feb
+31,Hotels,1.88,2020,Jan
+32,Hotels,1.92,2019,Dec
+33,Hotels,2.07,2019,Nov
+34,Hotels,1.91,2019,Oct
+35,Hotels,1.96,2019,Sep
+36,Hotels,2.36,2019,Aug
+37,Hotels,2.26,2019,Jul
+38,Hotels,1.9,2019,Jun
+39,Hotels,1.8,2019,May
+40,Hotels,1.89,2019,Apr
+41,Hotels,1.95,2019,Mar
+42,Hotels,1.84,2019,Feb
+43,Hotels,1.87,2019,Jan
+44,Hotels,1.87,2018,Dec
+45,Hotels,2.11,2018,Nov
+46,Hotels,1.98,2018,Oct
+47,Hotels,1.98,2018,Sep
+48,Hotels,2.35,2018,Aug
+49,Hotels,2.26,2018,Jul
+50,Hotels,1.91,2018,Jun
+51,Hotels,1.78,2018,May
+52,Hotels,1.92,2018,Apr
+53,Hotels,1.85,2018,Mar
+54,Hotels,1.79,2018,Feb
+55,Hotels,1.85,2018,Jan
+56,Hotels,1.9,2017,Dec
+57,Hotels,1.95,2017,Nov
+58,Hotels,1.89,2017,Oct
+59,Hotels,1.92,2017,Sep
+60,Hotels,2.29,2017,Aug
+61,Hotels,2.15,2017,Jul
+62,Hotels,1.86,2017,Jun
+63,Hotels,1.71,2017,May
+64,Hotels,1.84,2017,Apr
+65,Hotels,1.84,2017,Mar
+66,Hotels,1.73,2017,Feb
+67,Hotels,1.78,2017,Jan
+68,Hotels,1.89,2016,Dec
+69,Hotels,1.96,2016,Nov
+70,Hotels,1.9,2016,Oct
+71,Hotels,1.87,2016,Sep
+72,Hotels,2.17,2016,Aug
+73,Hotels,2.06,2016,Jul
+74,Hotels,1.73,2016,Jun
+75,Hotels,1.66,2016,May
+76,Hotels,1.71,2016,Apr
+77,Hotels,1.88,2016,Mar
+78,Hotels,1.83,2016,Feb
+79,Hotels,1.78,2016,Jan
+80,Hotels,1.8,2015,Dec
+81,Hotels,1.87,2015,Nov
+82,Hotels,1.85,2015,Oct
+83,Hotels,1.85,2015,Sep
+84,Hotels,2.15,2015,Aug
+85,Hotels,1.94,2015,Jul
+86,Hotels,1.74,2015,Jun
+87,Hotels,1.69,2015,May
+88,Hotels,1.8,2015,Apr
+89,Hotels,1.88,2015,Mar
+90,Hotels,1.8,2015,Feb
+91,Hotels,1.82,2015,Jan
+92,Hotels,1.83,2014,Dec
+93,Hotels,2.03,2014,Nov
+94,Hotels,1.93,2014,Oct
+95,Hotels,1.91,2014,Sep
+96,Hotels,2.14,2014,Aug
+97,Hotels,2.02,2014,Jul
+98,Hotels,1.84,2014,Jun
+99,Hotels,1.77,2014,May
+100,Hotels,1.81,2014,Apr
+101,Hotels,2,2014,Mar
+102,Hotels,1.85,2014,Feb
+103,Hotels,2,2014,Jan
+104,Hotels,1.96,2013,Dec
+105,Hotels,2.08,2013,Nov
+106,Hotels,1.96,2013,Oct
+107,Hotels,1.98,2013,Sep
+108,Hotels,2.23,2013,Aug
+109,Hotels,2.1,2013,Jul
+110,Hotels,1.81,2013,Jun
+111,Hotels,1.83,2013,May
+112,Hotels,1.91,2013,Apr
+113,Hotels,1.96,2013,Mar
+114,Hotels,1.99,2013,Feb
+115,Hotels,1.95,2013,Jan
+116,Hotels,1.93,2012,Dec
+117,Hotels,2.11,2012,Nov
+118,Hotels,2.03,2012,Oct
+119,Hotels,2.01,2012,Sep
+120,Hotels,2.33,2012,Aug
+121,Hotels,2.25,2012,Jul
+122,Hotels,1.98,2012,Jun
+123,Hotels,1.93,2012,May
+124,Hotels,1.96,2012,Apr
+125,Hotels,1.98,2012,Mar
+126,Hotels,1.86,2012,Feb
+127,Hotels,1.92,2012,Jan
+128,Hotels,2.02,2011,Dec
+129,Hotels,2.15,2011,Nov
+130,Hotels,2.1,2011,Oct
+131,Hotels,2.09,2011,Sep
+132,Hotels,2.32,2011,Aug
+133,Hotels,2.28,2011,Jul
+134,Hotels,2.04,2011,Jun
+135,Hotels,2.03,2011,May
+136,Hotels,2.12,2011,Apr
+137,Hotels,2.05,2011,Mar
+138,Hotels,1.99,2011,Feb
+139,Hotels,1.98,2011,Jan
+140,Hotels,2.01,2010,Dec
+141,Hotels,2.1,2010,Nov
+142,Hotels,2.12,2010,Oct
+143,Hotels,2.19,2010,Sep
+144,Hotels,2.42,2010,Aug
+145,Hotels,2.26,2010,Jul
+146,Hotels,2.08,2010,Jun
+147,Hotels,1.99,2010,May
+148,Hotels,2.09,2010,Apr
+149,Hotels,2.06,2010,Mar
+150,Hotels,2,2010,Feb
+151,Hotels,2.02,2010,Jan
+152,Hotels,2,2009,Dec
+153,Hotels,2.14,2009,Nov
+154,Hotels,2.11,2009,Oct
+155,Hotels,2.17,2009,Sep
+156,Hotels,2.44,2009,Aug
+157,Hotels,2.36,2009,Jul
+158,Hotels,2.15,2009,Jun
+159,Hotels,2.07,2009,May
+160,Hotels,2.13,2009,Apr
+161,Hotels,2.13,2009,Mar
+162,Hotels,2.03,2009,Feb
+163,Hotels,2.06,2009,Jan
+164,Hotels,2.1,2008,Dec
+165,Hotels,2.17,2008,Nov
+166,Hotels,2.15,2008,Oct
+167,Hotels,2.21,2008,Sep
+168,Hotels,2.45,2008,Aug
+169,Hotels,2.38,2008,Jul
+170,Hotels,2.16,2008,Jun
+171,Hotels,2.07,2008,May
+172,Hotels,2.06,2008,Apr
+173,Hotels,2.19,2008,Mar
+174,Hotels,2.07,2008,Feb
+175,Hotels,2.07,2008,Jan
+176,Hotels,2.05,2007,Dec
+177,Hotels,2.12,2007,Nov
+178,Hotels,2.08,2007,Oct
+179,Hotels,2.13,2007,Sep
+180,Hotels,2.44,2007,Aug
+181,Hotels,2.3,2007,Jul
+182,Hotels,2.11,2007,Jun
+183,Hotels,1.98,2007,May
+184,Hotels,2.07,2007,Apr
+185,Hotels,2.01,2007,Mar
+186,Hotels,1.98,2007,Feb
+187,Hotels,2,2007,Jan
+188,Hotels,2.02,2006,Dec
+189,Hotels,2.03,2006,Nov
+190,Hotels,2.1,2006,Oct
+191,Hotels,2.14,2006,Sep
+192,Hotels,2.52,2006,Aug
+193,Hotels,2.42,2006,Jul
+194,Hotels,2.06,2006,Jun
+195,Hotels,1.98,2006,May
+196,Hotels,2.02,2006,Apr
+197,Hotels,2,2006,Mar
+198,Hotels,1.96,2006,Feb
+199,Hotels,1.97,2006,Jan
+200,Hotels,1.98,2005,Dec
+201,Hotels,2.02,2005,Nov
+202,Hotels,2.07,2005,Oct
+203,Hotels,2.19,2005,Sep
+204,Hotels,2.5,2005,Aug
+205,Hotels,2.32,2005,Jul
+206,Hotels,2.09,2005,Jun
+207,Hotels,2,2005,May
+208,Hotels,1.96,2005,Apr
+209,Hotels,2.06,2005,Mar
+210,Hotels,1.92,2005,Feb
+211,Hotels,2.03,2005,Jan
+212,Hotels,2.05,2004,Dec
+213,Hotels,2.03,2004,Nov
+214,Hotels,2.05,2004,Oct
+215,Hotels,2.18,2004,Sep
+216,Hotels,2.43,2004,Aug
+217,Hotels,2.3,2004,Jul
+218,Hotels,2.12,2004,Jun
+219,Hotels,2.01,2004,May
+220,Hotels,2,2004,Apr
+221,Hotels,2.03,2004,Mar
+222,Hotels,1.98,2004,Feb
+223,Hotels,1.99,2004,Jan
+224,Hotels,1.97,2003,Dec
+225,Hotels,2.09,2003,Nov
+226,Hotels,2.09,2003,Oct
+227,Hotels,2.09,2003,Sep
+228,Hotels,2.42,2003,Aug
+229,Hotels,2.24,2003,Jul
+230,Hotels,2.03,2003,Jun
+231,Hotels,2,2003,May
+232,Hotels,1.97,2003,Apr
+233,Hotels,1.99,2003,Mar
+234,Hotels,2.03,2003,Feb
+235,Hotels,2.04,2003,Jan
+236,Hotels,2.19,2002,Dec
+237,Hotels,2.39,2002,Nov
+238,Hotels,2.39,2002,Oct
+239,Hotels,2.43,2002,Sep
+240,Hotels,2.66,2002,Aug
+241,Hotels,2.55,2002,Jul
+242,Hotels,2.32,2002,Jun
+243,Hotels,2.32,2002,May
+244,Hotels,2.29,2002,Apr
+245,Hotels,2.32,2002,Mar
+246,Hotels,2.14,2002,Feb
+247,Hotels,2.05,2002,Jan
+248,Hotels,2.09,2001,Dec
+249,Hotels,2.15,2001,Nov
+250,Hotels,2.22,2001,Oct
+251,Hotels,2.35,2001,Sep
+252,Hotels,2.7,2001,Aug
+253,Hotels,2.51,2001,Jul
+254,Hotels,2.2,2001,Jun
+255,Hotels,2.18,2001,May
+256,Hotels,2.24,2001,Apr
+257,Hotels,2.18,2001,Mar
+258,Hotels,2.06,2001,Feb
+259,Hotels,2.17,2001,Jan
+260,Campings,3.72,2022,Aug
+261,Campings,3.94,2022,Jul
+262,Campings,2.92,2022,Jun
+263,Campings,3.36,2022,May
+264,Campings,2.3,2022,Apr
+265,Campings,1.85,2022,Mar
+266,Campings,1.75,2022,Feb
+267,Campings,1.49,2022,Jan
+268,Campings,1.61,2021,Dec
+269,Campings,1.6,2021,Nov
+270,Campings,1.85,2021,Oct
+271,Campings,3.84,2021,Sep
+272,Campings,3.59,2021,Aug
+273,Campings,3.94,2021,Jul
+274,Campings,3.11,2021,Jun
+275,Campings,1.88,2021,May
+276,Campings,2.07,2021,Apr
+277,Campings,1.85,2021,Mar
+278,Campings,2.26,2021,Feb
+279,Campings,2.2,2021,Jan
+280,Campings,.,2020,Dec
+281,Campings,1.98,2020,Nov
+282,Campings,1.9,2020,Oct
+283,Campings,4.21,2020,Sep
+284,Campings,4,2020,Aug
+285,Campings,3.92,2020,Jul
+286,Campings,3.14,2020,Jun
+287,Campings,.,2020,May
+288,Campings,0,2020,Apr
+289,Campings,1.52,2020,Mar
+290,Campings,1.66,2020,Feb
+291,Campings,1.78,2020,Jan
+292,Campings,1.91,2019,Dec
+293,Campings,1.85,2019,Nov
+294,Campings,1.75,2019,Oct
+295,Campings,3.5,2019,Sep
+296,Campings,3.76,2019,Aug
+297,Campings,4.13,2019,Jul
+298,Campings,3.1,2019,Jun
+299,Campings,2.01,2019,May
+300,Campings,2.43,2019,Apr
+301,Campings,1.84,2019,Mar
+302,Campings,1.52,2019,Feb
+303,Campings,2.09,2019,Jan
+304,Campings,2.04,2018,Dec
+305,Campings,1.99,2018,Nov
+306,Campings,2.46,2018,Oct
+307,Campings,3.03,2018,Sep
+308,Campings,3.7,2018,Aug
+309,Campings,4,2018,Jul
+310,Campings,3.37,2018,Jun
+311,Campings,2.6,2018,May
+312,Campings,2.27,2018,Apr
+313,Campings,2.41,2018,Mar
+314,Campings,2.11,2018,Feb
+315,Campings,1.69,2018,Jan
+316,Campings,2.17,2017,Dec
+317,Campings,2.04,2017,Nov
+318,Campings,2,2017,Oct
+319,Campings,3.22,2017,Sep
+320,Campings,3.66,2017,Aug
+321,Campings,3.85,2017,Jul
+322,Campings,2.99,2017,Jun
+323,Campings,2.23,2017,May
+324,Campings,2.43,2017,Apr
+325,Campings,1.68,2017,Mar
+326,Campings,1.74,2017,Feb
+327,Campings,2.18,2017,Jan
+328,Campings,1.52,2016,Dec
+329,Campings,1.83,2016,Nov
+330,Campings,2.14,2016,Oct
+331,Campings,2.71,2016,Sep
+332,Campings,3.68,2016,Aug
+333,Campings,3.72,2016,Jul
+334,Campings,3.4,2016,Jun
+335,Campings,2.69,2016,May
+336,Campings,2.82,2016,Apr
+337,Campings,2.77,2016,Mar
+338,Campings,1.74,2016,Feb
+339,Campings,1.9,2016,Jan
+340,Campings,2.08,2015,Dec
+341,Campings,1.69,2015,Nov
+342,Campings,1.99,2015,Oct
+343,Campings,3.76,2015,Sep
+344,Campings,3.86,2015,Aug
+345,Campings,3.62,2015,Jul
+346,Campings,3.12,2015,Jun
+347,Campings,2.74,2015,May
+348,Campings,3.16,2015,Apr
+349,Campings,1.94,2015,Mar
+350,Campings,1.86,2015,Feb
+351,Campings,1.97,2015,Jan
+352,Campings,2.31,2014,Dec
+353,Campings,1.61,2014,Nov
+354,Campings,1.75,2014,Oct
+355,Campings,3.89,2014,Sep
+356,Campings,3.66,2014,Aug
+357,Campings,3.92,2014,Jul
+358,Campings,3.53,2014,Jun
+359,Campings,2.32,2014,May
+360,Campings,2.51,2014,Apr
+361,Campings,1.87,2014,Mar
+362,Campings,1.37,2014,Feb
+363,Campings,1.43,2014,Jan
+364,Campings,2.06,2013,Dec
+365,Campings,1.71,2013,Nov
+366,Campings,1.83,2013,Oct
+367,Campings,3.33,2013,Sep
+368,Campings,3.62,2013,Aug
+369,Campings,3.83,2013,Jul
+370,Campings,3.44,2013,Jun
+371,Campings,2.47,2013,May
+372,Campings,3.08,2013,Apr
+373,Campings,2.91,2013,Mar
+374,Campings,1.75,2013,Feb
+375,Campings,1.8,2013,Jan
+376,Campings,2.03,2012,Dec
+377,Campings,1.76,2012,Nov
+378,Campings,1.83,2012,Oct
+379,Campings,3.52,2012,Sep
+380,Campings,3.77,2012,Aug
+381,Campings,3.81,2012,Jul
+382,Campings,3.69,2012,Jun
+383,Campings,3.09,2012,May
+384,Campings,3.15,2012,Apr
+385,Campings,1.57,2012,Mar
+386,Campings,1.73,2012,Feb
+387,Campings,1.87,2012,Jan
+388,Campings,1.97,2011,Dec
+389,Campings,1.53,2011,Nov
+390,Campings,1.73,2011,Oct
+391,Campings,3.61,2011,Sep
+392,Campings,3.74,2011,Aug
+393,Campings,3.61,2011,Jul
+394,Campings,3.8,2011,Jun
+395,Campings,2.95,2011,May
+396,Campings,3.02,2011,Apr
+397,Campings,1.9,2011,Mar
+398,Campings,1.58,2011,Feb
+399,Campings,1.63,2011,Jan
+400,Campings,2.19,2010,Dec
+401,Campings,1.98,2010,Nov
+402,Campings,2.23,2010,Oct
+403,Campings,3.54,2010,Sep
+404,Campings,3.68,2010,Aug
+405,Campings,3.71,2010,Jul
+406,Campings,3.59,2010,Jun
+407,Campings,2.37,2010,May
+408,Campings,2.65,2010,Apr
+409,Campings,1.73,2010,Mar
+410,Campings,1.77,2010,Feb
+411,Campings,1.87,2010,Jan
+412,Campings,2.06,2009,Dec
+413,Campings,2.04,2009,Nov
+414,Campings,2.18,2009,Oct
+415,Campings,4.27,2009,Sep
+416,Campings,3.88,2009,Aug
+417,Campings,4.08,2009,Jul
+418,Campings,3.64,2009,Jun
+419,Campings,3.66,2009,May
+420,Campings,3.18,2009,Apr
+421,Campings,1.84,2009,Mar
+422,Campings,1.62,2009,Feb
+423,Campings,1.34,2009,Jan
+424,Campings,1.95,2008,Dec
+425,Campings,1.94,2008,Nov
+426,Campings,2.36,2008,Oct
+427,Campings,4.61,2008,Sep
+428,Campings,3.73,2008,Aug
+429,Campings,3.88,2008,Jul
+430,Campings,3.64,2008,Jun
+431,Campings,3.05,2008,May
+432,Campings,4.18,2008,Apr
+433,Campings,3.19,2008,Mar
+434,Campings,1.56,2008,Feb
+435,Campings,1.32,2008,Jan
+436,Campings,2.03,2007,Dec
+437,Campings,2.1,2007,Nov
+438,Campings,2,2007,Oct
+439,Campings,3.55,2007,Sep
+440,Campings,3.67,2007,Aug
+441,Campings,3.94,2007,Jul
+442,Campings,3.46,2007,Jun
+443,Campings,2.46,2007,May
+444,Campings,2.73,2007,Apr
+445,Campings,5.31,2007,Mar
+446,Campings,1.93,2007,Feb
+447,Campings,2,2007,Jan
+448,Campings,2.11,2006,Dec
+449,Campings,1.69,2006,Nov
+450,Campings,2.28,2006,Oct
+451,Campings,3.66,2006,Sep
+452,Campings,3.66,2006,Aug
+453,Campings,3.97,2006,Jul
+454,Campings,3.73,2006,Jun
+455,Campings,2.42,2006,May
+456,Campings,2.57,2006,Apr
+457,Campings,1.6,2006,Mar
+458,Campings,1.66,2006,Feb
+459,Campings,1.71,2006,Jan
+460,Campings,2.53,2005,Dec
+461,Campings,4.05,2005,Nov
+462,Campings,2.87,2005,Oct
+463,Campings,3.68,2005,Sep
+464,Campings,3.54,2005,Aug
+465,Campings,3.54,2005,Jul
+466,Campings,2.95,2005,Jun
+467,Campings,2.21,2005,May
+468,Campings,2.28,2005,Apr
+469,Campings,3.84,2005,Mar
+470,Campings,2.97,2005,Feb
+471,Campings,2.04,2005,Jan
+472,Campings,2.34,2004,Dec
+473,Campings,1.95,2004,Nov
+474,Campings,2.65,2004,Oct
+475,Campings,4.01,2004,Sep
+476,Campings,3.65,2004,Aug
+477,Campings,3.5,2004,Jul
+478,Campings,4,2004,Jun
+479,Campings,2.37,2004,May
+480,Campings,2.72,2004,Apr
+481,Campings,1.71,2004,Mar
+482,Campings,1.83,2004,Feb
+483,Campings,1.61,2004,Jan
+484,Campings,3.44,2003,Dec
+485,Campings,1.8,2003,Nov
+486,Campings,..,2003,Oct
+487,Campings,3.63,2003,Sep
+488,Campings,3.98,2003,Aug
+489,Campings,4.39,2003,Jul
+490,Campings,3.29,2003,Jun
+491,Campings,2.1,2003,May
+492,Campings,2.94,2003,Apr
+493,Campings,1.64,2003,Mar
+494,Campings,4.57,2003,Feb
+495,Campings,6.39,2003,Jan
+496,Campings,4.42,2002,Dec
+497,Campings,1.93,2002,Nov
+498,Campings,2.04,2002,Oct
+499,Campings,3.52,2002,Sep
+500,Campings,4.28,2002,Aug
+501,Campings,4,2002,Jul
+502,Campings,3.91,2002,Jun
+503,Campings,2.87,2002,May
+504,Campings,2.21,2002,Apr
+505,Campings,2.99,2002,Mar
+506,Campings,2.04,2002,Feb
+507,Campings,1.6,2002,Jan
+508,Campings,3.11,2001,Dec
+509,Campings,1.99,2001,Nov
+510,Campings,2.48,2001,Oct
+511,Campings,3.41,2001,Sep
+512,Campings,3.89,2001,Aug
+513,Campings,4.25,2001,Jul
+514,Campings,3.61,2001,Jun
+515,Campings,2.79,2001,May
+516,Campings,2.7,2001,Apr
+517,Campings,1.41,2001,Mar
+518,Campings,1.76,2001,Feb
+519,Campings,2,2001,Jan
+520,Apartments,4.21,2022,Aug
+521,Apartments,3.69,2022,Jul
+522,Apartments,2.67,2022,Jun
+523,Apartments,2.35,2022,May
+524,Apartments,2.26,2022,Apr
+525,Apartments,3.02,2022,Mar
+526,Apartments,2.74,2022,Feb
+527,Apartments,3.39,2022,Jan
+528,Apartments,3.25,2021,Dec
+529,Apartments,3.28,2021,Nov
+530,Apartments,2.65,2021,Oct
+531,Apartments,3.26,2021,Sep
+532,Apartments,4.6,2021,Aug
+533,Apartments,4.15,2021,Jul
+534,Apartments,3.14,2021,Jun
+535,Apartments,2.53,2021,May
+536,Apartments,2.8,2021,Apr
+537,Apartments,2.78,2021,Mar
+538,Apartments,8.41,2021,Feb
+539,Apartments,5.59,2021,Jan
+540,Apartments,5.44,2020,Dec
+541,Apartments,4.81,2020,Nov
+542,Apartments,3.18,2020,Oct
+543,Apartments,3.26,2020,Sep
+544,Apartments,4.6,2020,Aug
+545,Apartments,4.25,2020,Jul
+546,Apartments,3.9,2020,Jun
+547,Apartments,5.92,2020,May
+548,Apartments,0,2020,Apr
+549,Apartments,4.89,2020,Mar
+550,Apartments,3.02,2020,Feb
+551,Apartments,3.29,2020,Jan
+552,Apartments,2.73,2019,Dec
+553,Apartments,2.4,2019,Nov
+554,Apartments,2.17,2019,Oct
+555,Apartments,2.98,2019,Sep
+556,Apartments,4.48,2019,Aug
+557,Apartments,4.54,2019,Jul
+558,Apartments,3.01,2019,Jun
+559,Apartments,3.37,2019,May
+560,Apartments,3.21,2019,Apr
+561,Apartments,2.51,2019,Mar
+562,Apartments,2.52,2019,Feb
+563,Apartments,2.45,2019,Jan
+564,Apartments,2.72,2018,Dec
+565,Apartments,2.55,2018,Nov
+566,Apartments,2.68,2018,Oct
+567,Apartments,3.27,2018,Sep
+568,Apartments,4.37,2018,Aug
+569,Apartments,4.33,2018,Jul
+570,Apartments,2.72,2018,Jun
+571,Apartments,2.09,2018,May
+572,Apartments,2.37,2018,Apr
+573,Apartments,2.71,2018,Mar
+574,Apartments,2.93,2018,Feb
+575,Apartments,2.9,2018,Jan
+576,Apartments,3.12,2017,Dec
+577,Apartments,2.83,2017,Nov
+578,Apartments,2.48,2017,Oct
+579,Apartments,3.25,2017,Sep
+580,Apartments,4.41,2017,Aug
+581,Apartments,4.35,2017,Jul
+582,Apartments,2.8,2017,Jun
+583,Apartments,2.31,2017,May
+584,Apartments,2.59,2017,Apr
+585,Apartments,3.03,2017,Mar
+586,Apartments,2.65,2017,Feb
+587,Apartments,2.98,2017,Jan
+588,Apartments,3.03,2016,Dec
+589,Apartments,2.92,2016,Nov
+590,Apartments,2.6,2016,Oct
+591,Apartments,3.21,2016,Sep
+592,Apartments,4.74,2016,Aug
+593,Apartments,4.49,2016,Jul
+594,Apartments,2.86,2016,Jun
+595,Apartments,2.51,2016,May
+596,Apartments,2.59,2016,Apr
+597,Apartments,3.13,2016,Mar
+598,Apartments,2.37,2016,Feb
+599,Apartments,2.68,2016,Jan
+600,Apartments,2.92,2015,Dec
+601,Apartments,3.09,2015,Nov
+602,Apartments,2.54,2015,Oct
+603,Apartments,3.34,2015,Sep
+604,Apartments,5.34,2015,Aug
+605,Apartments,4.98,2015,Jul
+606,Apartments,3.39,2015,Jun
+607,Apartments,2.33,2015,May
+608,Apartments,2.77,2015,Apr
+609,Apartments,2.54,2015,Mar
+610,Apartments,2.83,2015,Feb
+611,Apartments,3.38,2015,Jan
+612,Apartments,3.08,2014,Dec
+613,Apartments,3.36,2014,Nov
+614,Apartments,2.81,2014,Oct
+615,Apartments,3.66,2014,Sep
+616,Apartments,6.07,2014,Aug
+617,Apartments,5.58,2014,Jul
+618,Apartments,3.75,2014,Jun
+619,Apartments,2.61,2014,May
+620,Apartments,2.88,2014,Apr
+621,Apartments,2.82,2014,Mar
+622,Apartments,2.81,2014,Feb
+623,Apartments,3.16,2014,Jan
+624,Apartments,3.46,2013,Dec
+625,Apartments,3,2013,Nov
+626,Apartments,2.94,2013,Oct
+627,Apartments,3.78,2013,Sep
+628,Apartments,5.35,2013,Aug
+629,Apartments,4.83,2013,Jul
+630,Apartments,2.98,2013,Jun
+631,Apartments,2.57,2013,May
+632,Apartments,2.61,2013,Apr
+633,Apartments,2.99,2013,Mar
+634,Apartments,2.49,2013,Feb
+635,Apartments,2.82,2013,Jan
+636,Apartments,3.16,2012,Dec
+637,Apartments,3.14,2012,Nov
+638,Apartments,2.88,2012,Oct
+639,Apartments,3.64,2012,Sep
+640,Apartments,5.43,2012,Aug
+641,Apartments,4.94,2012,Jul
+642,Apartments,3.34,2012,Jun
+643,Apartments,3.14,2012,May
+644,Apartments,3.61,2012,Apr
+645,Apartments,2.82,2012,Mar
+646,Apartments,3.22,2012,Feb
+647,Apartments,3.48,2012,Jan
+648,Apartments,3.78,2011,Dec
+649,Apartments,3.62,2011,Nov
+650,Apartments,2.88,2011,Oct
+651,Apartments,3.68,2011,Sep
+652,Apartments,5.62,2011,Aug
+653,Apartments,5.57,2011,Jul
+654,Apartments,3.36,2011,Jun
+655,Apartments,3.25,2011,May
+656,Apartments,3.11,2011,Apr
+657,Apartments,4.15,2011,Mar
+658,Apartments,3.89,2011,Feb
+659,Apartments,3.74,2011,Jan
+660,Apartments,3.64,2010,Dec
+661,Apartments,3.58,2010,Nov
+662,Apartments,2.91,2010,Oct
+663,Apartments,3.91,2010,Sep
+664,Apartments,6.44,2010,Aug
+665,Apartments,5.87,2010,Jul
+666,Apartments,3.45,2010,Jun
+667,Apartments,2.61,2010,May
+668,Apartments,3.38,2010,Apr
+669,Apartments,3.26,2010,Mar
+670,Apartments,3.34,2010,Feb
+671,Apartments,4.03,2010,Jan
+672,Apartments,3.08,2009,Dec
+673,Apartments,4.54,2009,Nov
+674,Apartments,2.97,2009,Oct
+675,Apartments,4.03,2009,Sep
+676,Apartments,6.57,2009,Aug
+677,Apartments,5.8,2009,Jul
+678,Apartments,3.93,2009,Jun
+679,Apartments,3.38,2009,May
+680,Apartments,3.34,2009,Apr
+681,Apartments,3.82,2009,Mar
+682,Apartments,3.92,2009,Feb
+683,Apartments,3.71,2009,Jan
+684,Apartments,3.29,2008,Dec
+685,Apartments,4.02,2008,Nov
+686,Apartments,3.6,2008,Oct
+687,Apartments,4.01,2008,Sep
+688,Apartments,6.49,2008,Aug
+689,Apartments,6.01,2008,Jul
+690,Apartments,4.44,2008,Jun
+691,Apartments,3.74,2008,May
+692,Apartments,3.46,2008,Apr
+693,Apartments,3.51,2008,Mar
+694,Apartments,3.42,2008,Feb
+695,Apartments,3.07,2008,Jan
+696,Apartments,3.54,2007,Dec
+697,Apartments,4.09,2007,Nov
+698,Apartments,3.59,2007,Oct
+699,Apartments,4.77,2007,Sep
+700,Apartments,7.12,2007,Aug
+701,Apartments,5.97,2007,Jul
+702,Apartments,3.64,2007,Jun
+703,Apartments,3.43,2007,May
+704,Apartments,3.23,2007,Apr
+705,Apartments,4.06,2007,Mar
+706,Apartments,4.15,2007,Feb
+707,Apartments,2.75,2007,Jan
+708,Apartments,3.6,2006,Dec
+709,Apartments,4.97,2006,Nov
+710,Apartments,3.52,2006,Oct
+711,Apartments,4.3,2006,Sep
+712,Apartments,6.2,2006,Aug
+713,Apartments,5.04,2006,Jul
+714,Apartments,3.84,2006,Jun
+715,Apartments,3.77,2006,May
+716,Apartments,3.19,2006,Apr
+717,Apartments,4.56,2006,Mar
+718,Apartments,4.36,2006,Feb
+719,Apartments,3.5,2006,Jan
+720,Apartments,4.44,2005,Dec
+721,Apartments,4.69,2005,Nov
+722,Apartments,4.94,2005,Oct
+723,Apartments,5.51,2005,Sep
+724,Apartments,7.89,2005,Aug
+725,Apartments,6.54,2005,Jul
+726,Apartments,3.9,2005,Jun
+727,Apartments,4.36,2005,May
+728,Apartments,5.09,2005,Apr
+729,Apartments,3.89,2005,Mar
+730,Apartments,4.01,2005,Feb
+731,Apartments,4.42,2005,Jan
+732,Apartments,4.03,2004,Dec
+733,Apartments,4.43,2004,Nov
+734,Apartments,3.55,2004,Oct
+735,Apartments,5.05,2004,Sep
+736,Apartments,8.79,2004,Aug
+737,Apartments,6.73,2004,Jul
+738,Apartments,3.74,2004,Jun
+739,Apartments,3.73,2004,May
+740,Apartments,4.48,2004,Apr
+741,Apartments,5.58,2004,Mar
+742,Apartments,4.62,2004,Feb
+743,Apartments,4.39,2004,Jan
+744,Apartments,3.8,2003,Dec
+745,Apartments,4.29,2003,Nov
+746,Apartments,4.24,2003,Oct
+747,Apartments,5.48,2003,Sep
+748,Apartments,6.7,2003,Aug
+749,Apartments,6.51,2003,Jul
+750,Apartments,3.28,2003,Jun
+751,Apartments,3.15,2003,May
+752,Apartments,3.02,2003,Apr
+753,Apartments,4.3,2003,Mar
+754,Apartments,3.05,2003,Feb
+755,Apartments,2.95,2003,Jan
+756,Apartments,3.46,2002,Dec
+757,Apartments,4.14,2002,Nov
+758,Apartments,4.7,2002,Oct
+759,Apartments,4.65,2002,Sep
+760,Apartments,6.64,2002,Aug
+761,Apartments,7.41,2002,Jul
+762,Apartments,3.89,2002,Jun
+763,Apartments,3.52,2002,May
+764,Apartments,2.98,2002,Apr
+765,Apartments,3,2002,Mar
+766,Apartments,3.78,2002,Feb
+767,Apartments,3.06,2002,Jan
+768,Apartments,4.04,2001,Dec
+769,Apartments,6.03,2001,Nov
+770,Apartments,4.64,2001,Oct
+771,Apartments,4.22,2001,Sep
+772,Apartments,7.7,2001,Aug
+773,Apartments,7.91,2001,Jul
+774,Apartments,4.75,2001,Jun
+775,Apartments,3.46,2001,May
+776,Apartments,3.61,2001,Apr
+777,Apartments,3.64,2001,Mar
+778,Apartments,3.65,2001,Feb
+779,Apartments,3.23,2001,Jan
+780,Rural Tourism,2.49,2022,Aug
+781,Rural Tourism,2.25,2022,Jul
+782,Rural Tourism,1.6,2022,Jun
+783,Rural Tourism,1.38,2022,May
+784,Rural Tourism,1.67,2022,Apr
+785,Rural Tourism,1.48,2022,Mar
+786,Rural Tourism,1.61,2022,Feb
+787,Rural Tourism,1.52,2022,Jan
+788,Rural Tourism,1.9,2021,Dec
+789,Rural Tourism,1.71,2021,Nov
+790,Rural Tourism,1.65,2021,Oct
+791,Rural Tourism,1.78,2021,Sep
+792,Rural Tourism,2.63,2021,Aug
+793,Rural Tourism,2.3,2021,Jul
+794,Rural Tourism,1.71,2021,Jun
+795,Rural Tourism,1.46,2021,May
+796,Rural Tourism,1.77,2021,Apr
+797,Rural Tourism,1.61,2021,Mar
+798,Rural Tourism,2.63,2021,Feb
+799,Rural Tourism,2.1,2021,Jan
+800,Rural Tourism,1.77,2020,Dec
+801,Rural Tourism,1.8,2020,Nov
+802,Rural Tourism,1.76,2020,Oct
+803,Rural Tourism,2,2020,Sep
+804,Rural Tourism,2.84,2020,Aug
+805,Rural Tourism,2.76,2020,Jul
+806,Rural Tourism,2.09,2020,Jun
+807,Rural Tourism,1.35,2020,May
+808,Rural Tourism,.,2020,Apr
+809,Rural Tourism,1.52,2020,Mar
+810,Rural Tourism,1.51,2020,Feb
+811,Rural Tourism,1.5,2020,Jan
+812,Rural Tourism,1.9,2019,Dec
+813,Rural Tourism,1.57,2019,Nov
+814,Rural Tourism,1.47,2019,Oct
+815,Rural Tourism,1.6,2019,Sep
+816,Rural Tourism,2.55,2019,Aug
+817,Rural Tourism,2.29,2019,Jul
+818,Rural Tourism,1.52,2019,Jun
+819,Rural Tourism,1.53,2019,May
+820,Rural Tourism,1.76,2019,Apr
+821,Rural Tourism,1.66,2019,Mar
+822,Rural Tourism,1.67,2019,Feb
+823,Rural Tourism,1.77,2019,Jan
+824,Rural Tourism,1.87,2018,Dec
+825,Rural Tourism,1.68,2018,Nov
+826,Rural Tourism,1.6,2018,Oct
+827,Rural Tourism,1.68,2018,Sep
+828,Rural Tourism,2.65,2018,Aug
+829,Rural Tourism,2.19,2018,Jul
+830,Rural Tourism,1.6,2018,Jun
+831,Rural Tourism,1.48,2018,May
+832,Rural Tourism,1.62,2018,Apr
+833,Rural Tourism,1.88,2018,Mar
+834,Rural Tourism,1.71,2018,Feb
+835,Rural Tourism,1.6,2018,Jan
+836,Rural Tourism,2.21,2017,Dec
+837,Rural Tourism,1.67,2017,Nov
+838,Rural Tourism,1.78,2017,Oct
+839,Rural Tourism,1.86,2017,Sep
+840,Rural Tourism,2.86,2017,Aug
+841,Rural Tourism,2.39,2017,Jul
+842,Rural Tourism,1.72,2017,Jun
+843,Rural Tourism,1.55,2017,May
+844,Rural Tourism,1.92,2017,Apr
+845,Rural Tourism,1.51,2017,Mar
+846,Rural Tourism,1.6,2017,Feb
+847,Rural Tourism,1.75,2017,Jan
+848,Rural Tourism,1.88,2016,Dec
+849,Rural Tourism,1.67,2016,Nov
+850,Rural Tourism,1.69,2016,Oct
+851,Rural Tourism,1.79,2016,Sep
+852,Rural Tourism,2.78,2016,Aug
+853,Rural Tourism,2.35,2016,Jul
+854,Rural Tourism,1.73,2016,Jun
+855,Rural Tourism,1.46,2016,May
+856,Rural Tourism,1.4,2016,Apr
+857,Rural Tourism,1.96,2016,Mar
+858,Rural Tourism,1.46,2016,Feb
+859,Rural Tourism,1.48,2016,Jan
+860,Rural Tourism,1.9,2015,Dec
+861,Rural Tourism,1.65,2015,Nov
+862,Rural Tourism,1.56,2015,Oct
+863,Rural Tourism,1.67,2015,Sep
+864,Rural Tourism,2.5,2015,Aug
+865,Rural Tourism,2.19,2015,Jul
+866,Rural Tourism,1.6,2015,Jun
+867,Rural Tourism,1.46,2015,May
+868,Rural Tourism,1.77,2015,Apr
+869,Rural Tourism,1.51,2015,Mar
+870,Rural Tourism,1.41,2015,Feb
+871,Rural Tourism,1.57,2015,Jan
+872,Rural Tourism,1.76,2014,Dec
+873,Rural Tourism,1.52,2014,Nov
+874,Rural Tourism,1.61,2014,Oct
+875,Rural Tourism,1.79,2014,Sep
+876,Rural Tourism,2.6,2014,Aug
+877,Rural Tourism,2.28,2014,Jul
+878,Rural Tourism,1.65,2014,Jun
+879,Rural Tourism,1.46,2014,May
+880,Rural Tourism,1.99,2014,Apr
+881,Rural Tourism,1.66,2014,Mar
+882,Rural Tourism,1.46,2014,Feb
+883,Rural Tourism,1.73,2014,Jan
+884,Rural Tourism,1.75,2013,Dec
+885,Rural Tourism,1.66,2013,Nov
+886,Rural Tourism,1.59,2013,Oct
+887,Rural Tourism,1.81,2013,Sep
+888,Rural Tourism,2.74,2013,Aug
+889,Rural Tourism,2.35,2013,Jul
+890,Rural Tourism,1.69,2013,Jun
+891,Rural Tourism,1.59,2013,May
+892,Rural Tourism,1.52,2013,Apr
+893,Rural Tourism,1.89,2013,Mar
+894,Rural Tourism,1.4,2013,Feb
+895,Rural Tourism,1.59,2013,Jan
+896,Rural Tourism,1.47,2012,Dec
+897,Rural Tourism,1.66,2012,Nov
+898,Rural Tourism,1.63,2012,Oct
+899,Rural Tourism,1.78,2012,Sep
+900,Rural Tourism,2.8,2012,Aug
+901,Rural Tourism,2.15,2012,Jul
+902,Rural Tourism,1.66,2012,Jun
+903,Rural Tourism,1.56,2012,May
+904,Rural Tourism,2.01,2012,Apr
+905,Rural Tourism,1.42,2012,Mar
+906,Rural Tourism,1.48,2012,Feb
+907,Rural Tourism,1.55,2012,Jan
+908,Rural Tourism,1.89,2011,Dec
+909,Rural Tourism,1.61,2011,Nov
+910,Rural Tourism,1.64,2011,Oct
+911,Rural Tourism,1.76,2011,Sep
+912,Rural Tourism,3.1,2011,Aug
+913,Rural Tourism,2.23,2011,Jul
+914,Rural Tourism,1.66,2011,Jun
+915,Rural Tourism,1.57,2011,May
+916,Rural Tourism,1.89,2011,Apr
+917,Rural Tourism,1.7,2011,Mar
+918,Rural Tourism,1.52,2011,Feb
+919,Rural Tourism,1.51,2011,Jan
+920,Rural Tourism,2,2010,Dec
+921,Rural Tourism,1.58,2010,Nov
+922,Rural Tourism,1.76,2010,Oct
+923,Rural Tourism,1.75,2010,Sep
+924,Rural Tourism,2.81,2010,Aug
+925,Rural Tourism,2.28,2010,Jul
+926,Rural Tourism,1.75,2010,Jun
+927,Rural Tourism,1.56,2010,May
+928,Rural Tourism,1.92,2010,Apr
+929,Rural Tourism,1.81,2010,Mar
+930,Rural Tourism,1.66,2010,Feb
+931,Rural Tourism,1.67,2010,Jan
+932,Rural Tourism,1.87,2009,Dec
+933,Rural Tourism,1.64,2009,Nov
+934,Rural Tourism,1.75,2009,Oct
+935,Rural Tourism,1.88,2009,Sep
+936,Rural Tourism,2.88,2009,Aug
+937,Rural Tourism,2.28,2009,Jul
+938,Rural Tourism,1.87,2009,Jun
+939,Rural Tourism,1.76,2009,May
+940,Rural Tourism,2.04,2009,Apr
+941,Rural Tourism,1.74,2009,Mar
+942,Rural Tourism,1.61,2009,Feb
+943,Rural Tourism,1.69,2009,Jan
+944,Rural Tourism,1.86,2008,Dec
+945,Rural Tourism,1.68,2008,Nov
+946,Rural Tourism,1.78,2008,Oct
+947,Rural Tourism,1.99,2008,Sep
+948,Rural Tourism,3.16,2008,Aug
+949,Rural Tourism,2.64,2008,Jul
+950,Rural Tourism,1.95,2008,Jun
+951,Rural Tourism,1.83,2008,May
+952,Rural Tourism,1.78,2008,Apr
+953,Rural Tourism,2.31,2008,Mar
+954,Rural Tourism,1.68,2008,Feb
+955,Rural Tourism,1.89,2008,Jan
+956,Rural Tourism,2.05,2007,Dec
+957,Rural Tourism,1.83,2007,Nov
+958,Rural Tourism,1.94,2007,Oct
+959,Rural Tourism,2.07,2007,Sep
+960,Rural Tourism,2.97,2007,Aug
+961,Rural Tourism,2.53,2007,Jul
+962,Rural Tourism,1.76,2007,Jun
+963,Rural Tourism,1.73,2007,May
+964,Rural Tourism,2.27,2007,Apr
+965,Rural Tourism,1.75,2007,Mar
+966,Rural Tourism,1.68,2007,Feb
+967,Rural Tourism,1.89,2007,Jan
+968,Rural Tourism,2.03,2006,Dec
+969,Rural Tourism,1.71,2006,Nov
+970,Rural Tourism,1.98,2006,Oct
+971,Rural Tourism,2,2006,Sep
+972,Rural Tourism,3.21,2006,Aug
+973,Rural Tourism,2.51,2006,Jul
+974,Rural Tourism,1.82,2006,Jun
+975,Rural Tourism,1.71,2006,May
+976,Rural Tourism,2.15,2006,Apr
+977,Rural Tourism,1.75,2006,Mar
+978,Rural Tourism,1.67,2006,Feb
+979,Rural Tourism,1.75,2006,Jan
+980,Rural Tourism,1.96,2005,Dec
+981,Rural Tourism,1.78,2005,Nov
+982,Rural Tourism,1.88,2005,Oct
+983,Rural Tourism,2.06,2005,Sep
+984,Rural Tourism,3.25,2005,Aug
+985,Rural Tourism,2.52,2005,Jul
+986,Rural Tourism,1.86,2005,Jun
+987,Rural Tourism,1.74,2005,May
+988,Rural Tourism,1.62,2005,Apr
+989,Rural Tourism,2.18,2005,Mar
+990,Rural Tourism,1.58,2005,Feb
+991,Rural Tourism,1.69,2005,Jan
+992,Rural Tourism,2.05,2004,Dec
+993,Rural Tourism,1.71,2004,Nov
+994,Rural Tourism,1.9,2004,Oct
+995,Rural Tourism,1.95,2004,Sep
+996,Rural Tourism,2.95,2004,Aug
+997,Rural Tourism,2.23,2004,Jul
+998,Rural Tourism,1.75,2004,Jun
+999,Rural Tourism,1.64,2004,May
+1000,Rural Tourism,2.09,2004,Apr
+1001,Rural Tourism,1.7,2004,Mar
+1002,Rural Tourism,1.66,2004,Feb
+1003,Rural Tourism,1.71,2004,Jan
+1004,Rural Tourism,1.86,2003,Dec
+1005,Rural Tourism,1.62,2003,Nov
+1006,Rural Tourism,1.74,2003,Oct
+1007,Rural Tourism,2.17,2003,Sep
+1008,Rural Tourism,3.16,2003,Aug
+1009,Rural Tourism,2.4,2003,Jul
+1010,Rural Tourism,1.74,2003,Jun
+1011,Rural Tourism,1.95,2003,May
+1012,Rural Tourism,2.2,2003,Apr
+1013,Rural Tourism,1.6,2003,Mar
+1014,Rural Tourism,1.47,2003,Feb
+1015,Rural Tourism,1.65,2003,Jan
+1016,Rural Tourism,1.82,2002,Dec
+1017,Rural Tourism,1.82,2002,Nov
+1018,Rural Tourism,1.68,2002,Oct
+1019,Rural Tourism,2.34,2002,Sep
+1020,Rural Tourism,3.31,2002,Aug
+1021,Rural Tourism,2.69,2002,Jul
+1022,Rural Tourism,1.9,2002,Jun
+1023,Rural Tourism,1.93,2002,May
+1024,Rural Tourism,1.86,2002,Apr
+1025,Rural Tourism,2.27,2002,Mar
+1026,Rural Tourism,1.64,2002,Feb
+1027,Rural Tourism,1.74,2002,Jan
+1028,Rural Tourism,2.1,2001,Dec
+1029,Rural Tourism,1.72,2001,Nov
+1030,Rural Tourism,1.89,2001,Oct
+1031,Rural Tourism,2.28,2001,Sep
+1032,Rural Tourism,3.1,2001,Aug
+1033,Rural Tourism,2.64,2001,Jul
+1034,Rural Tourism,1.76,2001,Jun
+1035,Rural Tourism,1.61,2001,May
+1036,Rural Tourism,2.23,2001,Apr
+1037,Rural Tourism,1.41,2001,Mar
+1038,Rural Tourism,1.66,2001,Feb
+1039,Rural Tourism,1.47,2001,Jan
+0,Albergue,1.23,2022,Aug
+1,Albergue,1.14,2022,Jul
+2,Albergue,1.14,2022,Jun
+3,Albergue,1.22,2022,May
+4,Albergue,1.02,2022,Apr
+5,Albergue,1.02,2022,Mar
+6,Albergue,1.05,2022,Feb
+7,Albergue,1.25,2022,Jan
+8,Albergue,1.08,2021,Dec
+9,Albergue,1.07,2021,Nov
+10,Albergue,1.24,2021,Oct
+11,Albergue,1.21,2021,Sep
+12,Albergue,1.16,2021,Aug
+13,Albergue,1.24,2021,Jul
+14,Albergue,1.21,2021,Jun
+15,Albergue,1.2,2021,May
+16,Albergue,1.53,2021,Apr
+17,Albergue,1.74,2021,Mar
+18,Albergue,.,2021,Feb
+19,Albergue,.,2021,Jan
+20,Albergue,.,2020,Dec
+21,Albergue,.,2020,Nov
+22,Albergue,.,2020,Oct
+23,Albergue,2.4,2020,Sep
+24,Albergue,3.48,2020,Aug
+25,Albergue,4.95,2020,Jul
+26,Albergue,.,2020,Jun
+27,Albergue,.,2020,May
+28,Albergue,.,2020,Apr
+29,Albergue,.,2020,Mar
+30,Albergue,.,2020,Feb
+31,Albergue,.,2020,Jan
+32,Albergue,2.49,2019,Dec
+33,Albergue,1.42,2019,Nov
+34,Albergue,2.41,2019,Oct
+35,Albergue,1.7,2019,Sep
+36,Albergue,1.9,2019,Aug
+37,Albergue,3.63,2019,Jul
+38,Albergue,2.08,2019,Jun
+39,Albergue,.,2019,May
+40,Albergue,2.18,2019,Apr
+41,Albergue,.,2019,Mar
+42,Albergue,.,2019,Feb
+43,Albergue,.,2019,Jan
+44,Albergue,.,2018,Dec
+45,Albergue,.,2018,Nov
+46,Albergue,1.64,2018,Oct
+47,Albergue,3.69,2018,Sep
+48,Albergue,7.2,2018,Aug
+49,Albergue,9.04,2018,Jul
+50,Albergue,2.61,2018,Jun
+51,Albergue,1.11,2018,May
+52,Albergue,2.65,2018,Apr
+53,Albergue,1.67,2018,Mar
+54,Albergue,.,2018,Feb
+55,Albergue,.,2018,Jan
+56,Albergue,2.1,2017,Dec
+57,Albergue,.,2017,Nov
+58,Albergue,1.76,2017,Oct
+59,Albergue,2.8,2017,Sep
+60,Albergue,5.94,2017,Aug
+61,Albergue,5.83,2017,Jul
+62,Albergue,2.82,2017,Jun
+63,Albergue,1.84,2017,May
+64,Albergue,.,2017,Apr
+65,Albergue,.,2017,Mar
+66,Albergue,.,2017,Feb
+67,Albergue,.,2017,Jan
+68,Albergue,1.88,2016,Dec
+69,Albergue,1.28,2016,Nov
+70,Albergue,1.54,2016,Oct
+71,Albergue,1.7,2016,Sep
+72,Albergue,5.07,2016,Aug
+73,Albergue,5.99,2016,Jul
+74,Albergue,2.57,2016,Jun
+75,Albergue,1.24,2016,May
+76,Albergue,1.72,2016,Apr
+77,Albergue,1.84,2016,Mar
+78,Albergue,1.34,2016,Feb
+79,Albergue,1.47,2016,Jan
+80,Albergue,1.4,2015,Dec
+81,Albergue,1.3,2015,Nov
+82,Albergue,1.54,2015,Oct
+83,Albergue,1.28,2015,Sep
+84,Albergue,6.22,2015,Aug
+85,Albergue,7.46,2015,Jul
+86,Albergue,2.18,2015,Jun
+87,Albergue,1.31,2015,May
+88,Albergue,2.85,2015,Apr
+89,Albergue,1.79,2015,Mar
+90,Albergue,1.64,2015,Feb
+91,Albergue,1.17,2015,Jan
+92,Albergue,1.17,2014,Dec
+93,Albergue,1.13,2014,Nov
+94,Albergue,1.45,2014,Oct
+95,Albergue,2.02,2014,Sep
+96,Albergue,3.26,2014,Aug
+97,Albergue,4.6,2014,Jul
+98,Albergue,2.51,2014,Jun
+99,Albergue,1.93,2014,May
+100,Albergue,7.84,2014,Apr
+101,Albergue,1.67,2014,Mar
+102,Albergue,1.57,2014,Feb
+103,Albergue,1.59,2014,Jan

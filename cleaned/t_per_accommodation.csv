@@ -1,0 +1,2289 @@
+,accommodation_type,come_from,total,year,month
+0,Hotels,Spain,568722,2022,Aug
+1,Hotels,Spain,464774,2022,Jul
+2,Hotels,Spain,312708,2022,Jun
+3,Hotels,Spain,272096,2022,May
+4,Hotels,Spain,276491,2022,Apr
+5,Hotels,Spain,174139,2022,Mar
+6,Hotels,Spain,153048,2022,Feb
+7,Hotels,Spain,109775,2022,Jan
+8,Hotels,Spain,180211,2021,Dec
+9,Hotels,Spain,196209,2021,Nov
+10,Hotels,Spain,304785,2021,Oct
+11,Hotels,Spain,365209,2021,Sep
+12,Hotels,Spain,573951,2021,Aug
+13,Hotels,Spain,437167,2021,Jul
+14,Hotels,Spain,229307,2021,Jun
+15,Hotels,Spain,137888,2021,May
+16,Hotels,Spain,93955,2021,Apr
+17,Hotels,Spain,81456,2021,Mar
+18,Hotels,Spain,38927,2021,Feb
+19,Hotels,Spain,39470,2021,Jan
+20,Hotels,Spain,48740,2020,Dec
+21,Hotels,Spain,47909,2020,Nov
+22,Hotels,Spain,126936,2020,Oct
+23,Hotels,Spain,190153,2020,Sep
+24,Hotels,Spain,357723,2020,Aug
+25,Hotels,Spain,239192,2020,Jul
+26,Hotels,Spain,53914,2020,Jun
+27,Hotels,Spain,4606,2020,May
+28,Hotels,Spain,0,2020,Apr
+29,Hotels,Spain,74065,2020,Mar
+30,Hotels,Spain,171517,2020,Feb
+31,Hotels,Spain,151176,2020,Jan
+32,Hotels,Spain,207211,2019,Dec
+33,Hotels,Spain,197689,2019,Nov
+34,Hotels,Spain,273113,2019,Oct
+35,Hotels,Spain,330300,2019,Sep
+36,Hotels,Spain,504005,2019,Aug
+37,Hotels,Spain,404302,2019,Jul
+38,Hotels,Spain,290639,2019,Jun
+39,Hotels,Spain,257141,2019,May
+40,Hotels,Spain,250716,2019,Apr
+41,Hotels,Spain,189698,2019,Mar
+42,Hotels,Spain,155544,2019,Feb
+43,Hotels,Spain,139771,2019,Jan
+44,Hotels,Spain,185832,2018,Dec
+45,Hotels,Spain,195501,2018,Nov
+46,Hotels,Spain,263596,2018,Oct
+47,Hotels,Spain,320345,2018,Sep
+48,Hotels,Spain,483188,2018,Aug
+49,Hotels,Spain,377584,2018,Jul
+50,Hotels,Spain,283272,2018,Jun
+51,Hotels,Spain,231563,2018,May
+52,Hotels,Spain,218486,2018,Apr
+53,Hotels,Spain,218929,2018,Mar
+54,Hotels,Spain,151232,2018,Feb
+55,Hotels,Spain,138288,2018,Jan
+56,Hotels,Spain,171455,2017,Dec
+57,Hotels,Spain,193308,2017,Nov
+58,Hotels,Spain,276745,2017,Oct
+59,Hotels,Spain,324660,2017,Sep
+60,Hotels,Spain,532857,2017,Aug
+61,Hotels,Spain,427993,2017,Jul
+62,Hotels,Spain,294836,2017,Jun
+63,Hotels,Spain,231162,2017,May
+64,Hotels,Spain,275310,2017,Apr
+65,Hotels,Spain,183403,2017,Mar
+66,Hotels,Spain,150944,2017,Feb
+67,Hotels,Spain,133806,2017,Jan
+68,Hotels,Spain,158715,2016,Dec
+69,Hotels,Spain,176386,2016,Nov
+70,Hotels,Spain,271124,2016,Oct
+71,Hotels,Spain,327416,2016,Sep
+72,Hotels,Spain,526636,2016,Aug
+73,Hotels,Spain,434600,2016,Jul
+74,Hotels,Spain,290026,2016,Jun
+75,Hotels,Spain,224761,2016,May
+76,Hotels,Spain,197903,2016,Apr
+77,Hotels,Spain,218093,2016,Mar
+78,Hotels,Spain,148909,2016,Feb
+79,Hotels,Spain,128415,2016,Jan
+80,Hotels,Spain,155244,2015,Dec
+81,Hotels,Spain,161194,2015,Nov
+82,Hotels,Spain,252380,2015,Oct
+83,Hotels,Spain,312121,2015,Sep
+84,Hotels,Spain,504571,2015,Aug
+85,Hotels,Spain,408165,2015,Jul
+86,Hotels,Spain,273485,2015,Jun
+87,Hotels,Spain,221350,2015,May
+88,Hotels,Spain,214954,2015,Apr
+89,Hotels,Spain,177739,2015,Mar
+90,Hotels,Spain,132654,2015,Feb
+91,Hotels,Spain,114604,2015,Jan
+92,Hotels,Spain,143794,2014,Dec
+93,Hotels,Spain,156078,2014,Nov
+94,Hotels,Spain,232581,2014,Oct
+95,Hotels,Spain,286817,2014,Sep
+96,Hotels,Spain,479843,2014,Aug
+97,Hotels,Spain,340620,2014,Jul
+98,Hotels,Spain,234163,2014,Jun
+99,Hotels,Spain,209214,2014,May
+100,Hotels,Spain,204276,2014,Apr
+101,Hotels,Spain,147056,2014,Mar
+102,Hotels,Spain,129189,2014,Feb
+103,Hotels,Spain,105476,2014,Jan
+104,Hotels,Spain,139117,2013,Dec
+105,Hotels,Spain,156933,2013,Nov
+106,Hotels,Spain,208133,2013,Oct
+107,Hotels,Spain,270135,2013,Sep
+108,Hotels,Spain,451989,2013,Aug
+109,Hotels,Spain,325560,2013,Jul
+110,Hotels,Spain,227905,2013,Jun
+111,Hotels,Spain,196695,2013,May
+112,Hotels,Spain,157662,2013,Apr
+113,Hotels,Spain,178499,2013,Mar
+114,Hotels,Spain,118884,2013,Feb
+115,Hotels,Spain,113740,2013,Jan
+116,Hotels,Spain,133041,2012,Dec
+117,Hotels,Spain,153029,2012,Nov
+118,Hotels,Spain,218505,2012,Oct
+119,Hotels,Spain,252680,2012,Sep
+120,Hotels,Spain,398558,2012,Aug
+121,Hotels,Spain,293436,2012,Jul
+122,Hotels,Spain,226777,2012,Jun
+123,Hotels,Spain,182177,2012,May
+124,Hotels,Spain,206239,2012,Apr
+125,Hotels,Spain,156904,2012,Mar
+126,Hotels,Spain,138387,2012,Feb
+127,Hotels,Spain,113860,2012,Jan
+128,Hotels,Spain,140786,2011,Dec
+129,Hotels,Spain,151606,2011,Nov
+130,Hotels,Spain,232510,2011,Oct
+131,Hotels,Spain,275096,2011,Sep
+132,Hotels,Spain,417788,2011,Aug
+133,Hotels,Spain,343931,2011,Jul
+134,Hotels,Spain,243176,2011,Jun
+135,Hotels,Spain,201701,2011,May
+136,Hotels,Spain,215276,2011,Apr
+137,Hotels,Spain,160293,2011,Mar
+138,Hotels,Spain,132340,2011,Feb
+139,Hotels,Spain,116959,2011,Jan
+140,Hotels,Spain,166347,2010,Dec
+141,Hotels,Spain,186311,2010,Nov
+142,Hotels,Spain,291408,2010,Oct
+143,Hotels,Spain,326117,2010,Sep
+144,Hotels,Spain,451126,2010,Aug
+145,Hotels,Spain,364717,2010,Jul
+146,Hotels,Spain,292478,2010,Jun
+147,Hotels,Spain,262904,2010,May
+148,Hotels,Spain,248503,2010,Apr
+149,Hotels,Spain,201437,2010,Mar
+150,Hotels,Spain,147111,2010,Feb
+151,Hotels,Spain,125731,2010,Jan
+152,Hotels,Spain,155555,2009,Dec
+153,Hotels,Spain,171658,2009,Nov
+154,Hotels,Spain,254540,2009,Oct
+155,Hotels,Spain,282148,2009,Sep
+156,Hotels,Spain,436526,2009,Aug
+157,Hotels,Spain,327882,2009,Jul
+158,Hotels,Spain,239428,2009,Jun
+159,Hotels,Spain,221102,2009,May
+160,Hotels,Spain,214435,2009,Apr
+161,Hotels,Spain,174744,2009,Mar
+162,Hotels,Spain,147568,2009,Feb
+163,Hotels,Spain,131600,2009,Jan
+164,Hotels,Spain,149259,2008,Dec
+165,Hotels,Spain,179452,2008,Nov
+166,Hotels,Spain,251234,2008,Oct
+167,Hotels,Spain,267969,2008,Sep
+168,Hotels,Spain,418257,2008,Aug
+169,Hotels,Spain,324767,2008,Jul
+170,Hotels,Spain,246229,2008,Jun
+171,Hotels,Spain,244517,2008,May
+172,Hotels,Spain,205601,2008,Apr
+173,Hotels,Spain,230286,2008,Mar
+174,Hotels,Spain,171467,2008,Feb
+175,Hotels,Spain,150410,2008,Jan
+176,Hotels,Spain,172760,2007,Dec
+177,Hotels,Spain,205599,2007,Nov
+178,Hotels,Spain,276480,2007,Oct
+179,Hotels,Spain,303405,2007,Sep
+180,Hotels,Spain,457726,2007,Aug
+181,Hotels,Spain,351175,2007,Jul
+182,Hotels,Spain,258681,2007,Jun
+183,Hotels,Spain,222944,2007,May
+184,Hotels,Spain,252003,2007,Apr
+185,Hotels,Spain,202108,2007,Mar
+186,Hotels,Spain,154763,2007,Feb
+187,Hotels,Spain,150174,2007,Jan
+188,Hotels,Spain,165020,2006,Dec
+189,Hotels,Spain,188688,2006,Nov
+190,Hotels,Spain,246768,2006,Oct
+191,Hotels,Spain,286742,2006,Sep
+192,Hotels,Spain,442343,2006,Aug
+193,Hotels,Spain,356589,2006,Jul
+194,Hotels,Spain,264688,2006,Jun
+195,Hotels,Spain,231881,2006,May
+196,Hotels,Spain,260980,2006,Apr
+197,Hotels,Spain,194813,2006,Mar
+198,Hotels,Spain,157591,2006,Feb
+199,Hotels,Spain,148675,2006,Jan
+200,Hotels,Spain,164919,2005,Dec
+201,Hotels,Spain,197524,2005,Nov
+202,Hotels,Spain,240793,2005,Oct
+203,Hotels,Spain,295630,2005,Sep
+204,Hotels,Spain,468195,2005,Aug
+205,Hotels,Spain,365832,2005,Jul
+206,Hotels,Spain,254693,2005,Jun
+207,Hotels,Spain,223232,2005,May
+208,Hotels,Spain,200809,2005,Apr
+209,Hotels,Spain,214316,2005,Mar
+210,Hotels,Spain,146436,2005,Feb
+211,Hotels,Spain,130891,2005,Jan
+212,Hotels,Spain,172007,2004,Dec
+213,Hotels,Spain,193019,2004,Nov
+214,Hotels,Spain,290065,2004,Oct
+215,Hotels,Spain,338609,2004,Sep
+216,Hotels,Spain,468415,2004,Aug
+217,Hotels,Spain,361781,2004,Jul
+218,Hotels,Spain,295654,2004,Jun
+219,Hotels,Spain,254221,2004,May
+220,Hotels,Spain,244930,2004,Apr
+221,Hotels,Spain,186054,2004,Mar
+222,Hotels,Spain,151684,2004,Feb
+223,Hotels,Spain,132698,2004,Jan
+224,Hotels,Spain,142905,2003,Dec
+225,Hotels,Spain,158651,2003,Nov
+226,Hotels,Spain,212470,2003,Oct
+227,Hotels,Spain,284889,2003,Sep
+228,Hotels,Spain,425793,2003,Aug
+229,Hotels,Spain,294373,2003,Jul
+230,Hotels,Spain,220996,2003,Jun
+231,Hotels,Spain,195477,2003,May
+232,Hotels,Spain,182461,2003,Apr
+233,Hotels,Spain,155501,2003,Mar
+234,Hotels,Spain,123509,2003,Feb
+235,Hotels,Spain,122462,2003,Jan
+236,Hotels,Spain,123353,2002,Dec
+237,Hotels,Spain,136043,2002,Nov
+238,Hotels,Spain,183697,2002,Oct
+239,Hotels,Spain,208683,2002,Sep
+240,Hotels,Spain,377593,2002,Aug
+241,Hotels,Spain,251747,2002,Jul
+242,Hotels,Spain,177250,2002,Jun
+243,Hotels,Spain,157533,2002,May
+244,Hotels,Spain,146223,2002,Apr
+245,Hotels,Spain,166786,2002,Mar
+246,Hotels,Spain,113314,2002,Feb
+247,Hotels,Spain,96185,2002,Jan
+248,Hotels,Spain,121860,2001,Dec
+249,Hotels,Spain,140210,2001,Nov
+250,Hotels,Spain,176900,2001,Oct
+251,Hotels,Spain,213581,2001,Sep
+252,Hotels,Spain,355364,2001,Aug
+253,Hotels,Spain,239528,2001,Jul
+254,Hotels,Spain,171601,2001,Jun
+255,Hotels,Spain,147902,2001,May
+256,Hotels,Spain,158236,2001,Apr
+257,Hotels,Spain,129918,2001,Mar
+258,Hotels,Spain,106581,2001,Feb
+259,Hotels,Spain,101507,2001,Jan
+520,Hotels,Foreign,157822,2022,Aug
+521,Hotels,Foreign,150376,2022,Jul
+522,Hotels,Foreign,168803,2022,Jun
+523,Hotels,Foreign,170461,2022,May
+524,Hotels,Foreign,102536,2022,Apr
+525,Hotels,Foreign,41371,2022,Mar
+526,Hotels,Foreign,24579,2022,Feb
+527,Hotels,Foreign,17605,2022,Jan
+528,Hotels,Foreign,22331,2021,Dec
+529,Hotels,Foreign,34675,2021,Nov
+530,Hotels,Foreign,94344,2021,Oct
+531,Hotels,Foreign,99283,2021,Sep
+532,Hotels,Foreign,82000,2021,Aug
+533,Hotels,Foreign,61787,2021,Jul
+534,Hotels,Foreign,40803,2021,Jun
+535,Hotels,Foreign,16311,2021,May
+536,Hotels,Foreign,6941,2021,Apr
+537,Hotels,Foreign,5974,2021,Mar
+538,Hotels,Foreign,3713,2021,Feb
+539,Hotels,Foreign,4377,2021,Jan
+540,Hotels,Foreign,4356,2020,Dec
+541,Hotels,Foreign,5354,2020,Nov
+542,Hotels,Foreign,15356,2020,Oct
+543,Hotels,Foreign,21403,2020,Sep
+544,Hotels,Foreign,38622,2020,Aug
+545,Hotels,Foreign,25567,2020,Jul
+546,Hotels,Foreign,3034,2020,Jun
+547,Hotels,Foreign,441,2020,May
+548,Hotels,Foreign,0,2020,Apr
+549,Hotels,Foreign,15444,2020,Mar
+550,Hotels,Foreign,35438,2020,Feb
+551,Hotels,Foreign,29141,2020,Jan
+552,Hotels,Foreign,32696,2019,Dec
+553,Hotels,Foreign,43857,2019,Nov
+554,Hotels,Foreign,141469,2019,Oct
+555,Hotels,Foreign,197865,2019,Sep
+556,Hotels,Foreign,156802,2019,Aug
+557,Hotels,Foreign,134432,2019,Jul
+558,Hotels,Foreign,168198,2019,Jun
+559,Hotels,Foreign,168166,2019,May
+560,Hotels,Foreign,111219,2019,Apr
+561,Hotels,Foreign,46332,2019,Mar
+562,Hotels,Foreign,26732,2019,Feb
+563,Hotels,Foreign,26066,2019,Jan
+564,Hotels,Foreign,36030,2018,Dec
+565,Hotels,Foreign,41644,2018,Nov
+566,Hotels,Foreign,120873,2018,Oct
+567,Hotels,Foreign,171572,2018,Sep
+568,Hotels,Foreign,155147,2018,Aug
+569,Hotels,Foreign,130582,2018,Jul
+570,Hotels,Foreign,143035,2018,Jun
+571,Hotels,Foreign,151154,2018,May
+572,Hotels,Foreign,84224,2018,Apr
+573,Hotels,Foreign,48437,2018,Mar
+574,Hotels,Foreign,30444,2018,Feb
+575,Hotels,Foreign,25721,2018,Jan
+576,Hotels,Foreign,30677,2017,Dec
+577,Hotels,Foreign,45864,2017,Nov
+578,Hotels,Foreign,152106,2017,Oct
+579,Hotels,Foreign,203179,2017,Sep
+580,Hotels,Foreign,172552,2017,Aug
+581,Hotels,Foreign,160147,2017,Jul
+582,Hotels,Foreign,172121,2017,Jun
+583,Hotels,Foreign,167848,2017,May
+584,Hotels,Foreign,101943,2017,Apr
+585,Hotels,Foreign,39157,2017,Mar
+586,Hotels,Foreign,28754,2017,Feb
+587,Hotels,Foreign,24828,2017,Jan
+588,Hotels,Foreign,29248,2016,Dec
+589,Hotels,Foreign,39986,2016,Nov
+590,Hotels,Foreign,135116,2016,Oct
+591,Hotels,Foreign,190246,2016,Sep
+592,Hotels,Foreign,176566,2016,Aug
+593,Hotels,Foreign,149827,2016,Jul
+594,Hotels,Foreign,168635,2016,Jun
+595,Hotels,Foreign,161431,2016,May
+596,Hotels,Foreign,83403,2016,Apr
+597,Hotels,Foreign,44159,2016,Mar
+598,Hotels,Foreign,24315,2016,Feb
+599,Hotels,Foreign,20486,2016,Jan
+600,Hotels,Foreign,27454,2015,Dec
+601,Hotels,Foreign,36967,2015,Nov
+602,Hotels,Foreign,121910,2015,Oct
+603,Hotels,Foreign,173654,2015,Sep
+604,Hotels,Foreign,171355,2015,Aug
+605,Hotels,Foreign,153172,2015,Jul
+606,Hotels,Foreign,161539,2015,Jun
+607,Hotels,Foreign,151743,2015,May
+608,Hotels,Foreign,81877,2015,Apr
+609,Hotels,Foreign,36897,2015,Mar
+610,Hotels,Foreign,21465,2015,Feb
+611,Hotels,Foreign,19695,2015,Jan
+612,Hotels,Foreign,23560,2014,Dec
+613,Hotels,Foreign,30700,2014,Nov
+614,Hotels,Foreign,100843,2014,Oct
+615,Hotels,Foreign,153019,2014,Sep
+616,Hotels,Foreign,151107,2014,Aug
+617,Hotels,Foreign,122714,2014,Jul
+618,Hotels,Foreign,130931,2014,Jun
+619,Hotels,Foreign,133714,2014,May
+620,Hotels,Foreign,71011,2014,Apr
+621,Hotels,Foreign,26479,2014,Mar
+622,Hotels,Foreign,18179,2014,Feb
+623,Hotels,Foreign,16207,2014,Jan
+624,Hotels,Foreign,19527,2013,Dec
+625,Hotels,Foreign,26677,2013,Nov
+626,Hotels,Foreign,81785,2013,Oct
+627,Hotels,Foreign,122999,2013,Sep
+628,Hotels,Foreign,125507,2013,Aug
+629,Hotels,Foreign,102933,2013,Jul
+630,Hotels,Foreign,114337,2013,Jun
+631,Hotels,Foreign,107480,2013,May
+632,Hotels,Foreign,58292,2013,Apr
+633,Hotels,Foreign,34389,2013,Mar
+634,Hotels,Foreign,19090,2013,Feb
+635,Hotels,Foreign,15890,2013,Jan
+636,Hotels,Foreign,22566,2012,Dec
+637,Hotels,Foreign,25488,2012,Nov
+638,Hotels,Foreign,73689,2012,Oct
+639,Hotels,Foreign,113770,2012,Sep
+640,Hotels,Foreign,114037,2012,Aug
+641,Hotels,Foreign,88763,2012,Jul
+642,Hotels,Foreign,87989,2012,Jun
+643,Hotels,Foreign,92498,2012,May
+644,Hotels,Foreign,57924,2012,Apr
+645,Hotels,Foreign,28623,2012,Mar
+646,Hotels,Foreign,19718,2012,Feb
+647,Hotels,Foreign,17688,2012,Jan
+648,Hotels,Foreign,19958,2011,Dec
+649,Hotels,Foreign,25147,2011,Nov
+650,Hotels,Foreign,68945,2011,Oct
+651,Hotels,Foreign,102556,2011,Sep
+652,Hotels,Foreign,115487,2011,Aug
+653,Hotels,Foreign,92280,2011,Jul
+654,Hotels,Foreign,94352,2011,Jun
+655,Hotels,Foreign,85954,2011,May
+656,Hotels,Foreign,54829,2011,Apr
+657,Hotels,Foreign,27610,2011,Mar
+658,Hotels,Foreign,19199,2011,Feb
+659,Hotels,Foreign,16289,2011,Jan
+660,Hotels,Foreign,22758,2010,Dec
+661,Hotels,Foreign,26297,2010,Nov
+662,Hotels,Foreign,75055,2010,Oct
+663,Hotels,Foreign,102155,2010,Sep
+664,Hotels,Foreign,111030,2010,Aug
+665,Hotels,Foreign,95953,2010,Jul
+666,Hotels,Foreign,87775,2010,Jun
+667,Hotels,Foreign,91029,2010,May
+668,Hotels,Foreign,53729,2010,Apr
+669,Hotels,Foreign,28352,2010,Mar
+670,Hotels,Foreign,23366,2010,Feb
+671,Hotels,Foreign,17306,2010,Jan
+672,Hotels,Foreign,23604,2009,Dec
+673,Hotels,Foreign,27055,2009,Nov
+674,Hotels,Foreign,69495,2009,Oct
+675,Hotels,Foreign,83460,2009,Sep
+676,Hotels,Foreign,89208,2009,Aug
+677,Hotels,Foreign,77905,2009,Jul
+678,Hotels,Foreign,76733,2009,Jun
+679,Hotels,Foreign,75190,2009,May
+680,Hotels,Foreign,47184,2009,Apr
+681,Hotels,Foreign,26695,2009,Mar
+682,Hotels,Foreign,25126,2009,Feb
+683,Hotels,Foreign,20615,2009,Jan
+684,Hotels,Foreign,24374,2008,Dec
+685,Hotels,Foreign,30082,2008,Nov
+686,Hotels,Foreign,63188,2008,Oct
+687,Hotels,Foreign,84236,2008,Sep
+688,Hotels,Foreign,92906,2008,Aug
+689,Hotels,Foreign,80528,2008,Jul
+690,Hotels,Foreign,79605,2008,Jun
+691,Hotels,Foreign,86352,2008,May
+692,Hotels,Foreign,56891,2008,Apr
+693,Hotels,Foreign,38381,2008,Mar
+694,Hotels,Foreign,29706,2008,Feb
+695,Hotels,Foreign,27043,2008,Jan
+696,Hotels,Foreign,29402,2007,Dec
+697,Hotels,Foreign,35728,2007,Nov
+698,Hotels,Foreign,76623,2007,Oct
+699,Hotels,Foreign,89593,2007,Sep
+700,Hotels,Foreign,102940,2007,Aug
+701,Hotels,Foreign,85287,2007,Jul
+702,Hotels,Foreign,87262,2007,Jun
+703,Hotels,Foreign,80021,2007,May
+704,Hotels,Foreign,59545,2007,Apr
+705,Hotels,Foreign,34004,2007,Mar
+706,Hotels,Foreign,29110,2007,Feb
+707,Hotels,Foreign,22191,2007,Jan
+708,Hotels,Foreign,29890,2006,Dec
+709,Hotels,Foreign,28609,2006,Nov
+710,Hotels,Foreign,61369,2006,Oct
+711,Hotels,Foreign,81536,2006,Sep
+712,Hotels,Foreign,95480,2006,Aug
+713,Hotels,Foreign,79455,2006,Jul
+714,Hotels,Foreign,72335,2006,Jun
+715,Hotels,Foreign,69669,2006,May
+716,Hotels,Foreign,56099,2006,Apr
+717,Hotels,Foreign,28351,2006,Mar
+718,Hotels,Foreign,27239,2006,Feb
+719,Hotels,Foreign,24410,2006,Jan
+720,Hotels,Foreign,30622,2005,Dec
+721,Hotels,Foreign,33974,2005,Nov
+722,Hotels,Foreign,60491,2005,Oct
+723,Hotels,Foreign,76562,2005,Sep
+724,Hotels,Foreign,94104,2005,Aug
+725,Hotels,Foreign,78224,2005,Jul
+726,Hotels,Foreign,73130,2005,Jun
+727,Hotels,Foreign,62221,2005,May
+728,Hotels,Foreign,46791,2005,Apr
+729,Hotels,Foreign,29215,2005,Mar
+730,Hotels,Foreign,21723,2005,Feb
+731,Hotels,Foreign,19574,2005,Jan
+732,Hotels,Foreign,24298,2004,Dec
+733,Hotels,Foreign,27273,2004,Nov
+734,Hotels,Foreign,58544,2004,Oct
+735,Hotels,Foreign,76224,2004,Sep
+736,Hotels,Foreign,89248,2004,Aug
+737,Hotels,Foreign,73944,2004,Jul
+738,Hotels,Foreign,69306,2004,Jun
+739,Hotels,Foreign,60474,2004,May
+740,Hotels,Foreign,39052,2004,Apr
+741,Hotels,Foreign,23490,2004,Mar
+742,Hotels,Foreign,27881,2004,Feb
+743,Hotels,Foreign,17117,2004,Jan
+744,Hotels,Foreign,23618,2003,Dec
+745,Hotels,Foreign,28164,2003,Nov
+746,Hotels,Foreign,46137,2003,Oct
+747,Hotels,Foreign,74183,2003,Sep
+748,Hotels,Foreign,88235,2003,Aug
+749,Hotels,Foreign,62536,2003,Jul
+750,Hotels,Foreign,57548,2003,Jun
+751,Hotels,Foreign,53264,2003,May
+752,Hotels,Foreign,42114,2003,Apr
+753,Hotels,Foreign,24806,2003,Mar
+754,Hotels,Foreign,15886,2003,Feb
+755,Hotels,Foreign,15409,2003,Jan
+756,Hotels,Foreign,22947,2002,Dec
+757,Hotels,Foreign,20574,2002,Nov
+758,Hotels,Foreign,40162,2002,Oct
+759,Hotels,Foreign,60543,2002,Sep
+760,Hotels,Foreign,78887,2002,Aug
+761,Hotels,Foreign,56728,2002,Jul
+762,Hotels,Foreign,53667,2002,Jun
+763,Hotels,Foreign,48252,2002,May
+764,Hotels,Foreign,38022,2002,Apr
+765,Hotels,Foreign,24406,2002,Mar
+766,Hotels,Foreign,17863,2002,Feb
+767,Hotels,Foreign,11998,2002,Jan
+768,Hotels,Foreign,20967,2001,Dec
+769,Hotels,Foreign,21212,2001,Nov
+770,Hotels,Foreign,40615,2001,Oct
+771,Hotels,Foreign,54881,2001,Sep
+772,Hotels,Foreign,72248,2001,Aug
+773,Hotels,Foreign,59357,2001,Jul
+774,Hotels,Foreign,52104,2001,Jun
+775,Hotels,Foreign,42735,2001,May
+776,Hotels,Foreign,34462,2001,Apr
+777,Hotels,Foreign,23163,2001,Mar
+778,Hotels,Foreign,24422,2001,Feb
+779,Hotels,Foreign,10642,2001,Jan
+1040,Campings,Spain,94794,2022,Aug
+1041,Campings,Spain,74792,2022,Jul
+1042,Campings,Spain,28616,2022,Jun
+1043,Campings,Spain,5202,2022,May
+1044,Campings,Spain,6293,2022,Apr
+1045,Campings,Spain,392,2022,Mar
+1046,Campings,Spain,745,2022,Feb
+1047,Campings,Spain,688,2022,Jan
+1048,Campings,Spain,988,2021,Dec
+1049,Campings,Spain,1118,2021,Nov
+1050,Campings,Spain,2176,2021,Oct
+1051,Campings,Spain,18610,2021,Sep
+1052,Campings,Spain,107957,2021,Aug
+1053,Campings,Spain,73337,2021,Jul
+1054,Campings,Spain,26720,2021,Jun
+1055,Campings,Spain,5144,2021,May
+1056,Campings,Spain,2749,2021,Apr
+1057,Campings,Spain,1490,2021,Mar
+1058,Campings,Spain,85,2021,Feb
+1059,Campings,Spain,30,2021,Jan
+1060,Campings,Spain,.,2020,Dec
+1061,Campings,Spain,238,2020,Nov
+1062,Campings,Spain,870,2020,Oct
+1063,Campings,Spain,17797,2020,Sep
+1064,Campings,Spain,70371,2020,Aug
+1065,Campings,Spain,62247,2020,Jul
+1066,Campings,Spain,16104,2020,Jun
+1067,Campings,Spain,.,2020,May
+1068,Campings,Spain,0,2020,Apr
+1069,Campings,Spain,15,2020,Mar
+1070,Campings,Spain,93,2020,Feb
+1071,Campings,Spain,41,2020,Jan
+1072,Campings,Spain,181,2019,Dec
+1073,Campings,Spain,384,2019,Nov
+1074,Campings,Spain,620,2019,Oct
+1075,Campings,Spain,17812,2019,Sep
+1076,Campings,Spain,81351,2019,Aug
+1077,Campings,Spain,58891,2019,Jul
+1078,Campings,Spain,24055,2019,Jun
+1079,Campings,Spain,3496,2019,May
+1080,Campings,Spain,3450,2019,Apr
+1081,Campings,Spain,389,2019,Mar
+1082,Campings,Spain,47,2019,Feb
+1083,Campings,Spain,52,2019,Jan
+1084,Campings,Spain,62,2018,Dec
+1085,Campings,Spain,223,2018,Nov
+1086,Campings,Spain,537,2018,Oct
+1087,Campings,Spain,18264,2018,Sep
+1088,Campings,Spain,86213,2018,Aug
+1089,Campings,Spain,60056,2018,Jul
+1090,Campings,Spain,17726,2018,Jun
+1091,Campings,Spain,2084,2018,May
+1092,Campings,Spain,1286,2018,Apr
+1093,Campings,Spain,991,2018,Mar
+1094,Campings,Spain,120,2018,Feb
+1095,Campings,Spain,45,2018,Jan
+1096,Campings,Spain,138,2017,Dec
+1097,Campings,Spain,299,2017,Nov
+1098,Campings,Spain,607,2017,Oct
+1099,Campings,Spain,10170,2017,Sep
+1100,Campings,Spain,86150,2017,Aug
+1101,Campings,Spain,66151,2017,Jul
+1102,Campings,Spain,19660,2017,Jun
+1103,Campings,Spain,2755,2017,May
+1104,Campings,Spain,4993,2017,Apr
+1105,Campings,Spain,401,2017,Mar
+1106,Campings,Spain,78,2017,Feb
+1107,Campings,Spain,30,2017,Jan
+1108,Campings,Spain,42,2016,Dec
+1109,Campings,Spain,365,2016,Nov
+1110,Campings,Spain,678,2016,Oct
+1111,Campings,Spain,13465,2016,Sep
+1112,Campings,Spain,85433,2016,Aug
+1113,Campings,Spain,70732,2016,Jul
+1114,Campings,Spain,20508,2016,Jun
+1115,Campings,Spain,2206,2016,May
+1116,Campings,Spain,1582,2016,Apr
+1117,Campings,Spain,1605,2016,Mar
+1118,Campings,Spain,127,2016,Feb
+1119,Campings,Spain,90,2016,Jan
+1120,Campings,Spain,191,2015,Dec
+1121,Campings,Spain,354,2015,Nov
+1122,Campings,Spain,377,2015,Oct
+1123,Campings,Spain,10089,2015,Sep
+1124,Campings,Spain,69708,2015,Aug
+1125,Campings,Spain,60639,2015,Jul
+1126,Campings,Spain,23349,2015,Jun
+1127,Campings,Spain,3663,2015,May
+1128,Campings,Spain,3100,2015,Apr
+1129,Campings,Spain,889,2015,Mar
+1130,Campings,Spain,105,2015,Feb
+1131,Campings,Spain,96,2015,Jan
+1132,Campings,Spain,189,2014,Dec
+1133,Campings,Spain,382,2014,Nov
+1134,Campings,Spain,690,2014,Oct
+1135,Campings,Spain,10677,2014,Sep
+1136,Campings,Spain,78391,2014,Aug
+1137,Campings,Spain,53254,2014,Jul
+1138,Campings,Spain,12865,2014,Jun
+1139,Campings,Spain,3650,2014,May
+1140,Campings,Spain,2902,2014,Apr
+1141,Campings,Spain,281,2014,Mar
+1142,Campings,Spain,140,2014,Feb
+1143,Campings,Spain,142,2014,Jan
+1144,Campings,Spain,271,2013,Dec
+1145,Campings,Spain,544,2013,Nov
+1146,Campings,Spain,689,2013,Oct
+1147,Campings,Spain,11336,2013,Sep
+1148,Campings,Spain,80322,2013,Aug
+1149,Campings,Spain,51900,2013,Jul
+1150,Campings,Spain,13835,2013,Jun
+1151,Campings,Spain,2390,2013,May
+1152,Campings,Spain,875,2013,Apr
+1153,Campings,Spain,765,2013,Mar
+1154,Campings,Spain,153,2013,Feb
+1155,Campings,Spain,81,2013,Jan
+1156,Campings,Spain,226,2012,Dec
+1157,Campings,Spain,328,2012,Nov
+1158,Campings,Spain,702,2012,Oct
+1159,Campings,Spain,12072,2012,Sep
+1160,Campings,Spain,73727,2012,Aug
+1161,Campings,Spain,54582,2012,Jul
+1162,Campings,Spain,13277,2012,Jun
+1163,Campings,Spain,1818,2012,May
+1164,Campings,Spain,3130,2012,Apr
+1165,Campings,Spain,699,2012,Mar
+1166,Campings,Spain,315,2012,Feb
+1167,Campings,Spain,177,2012,Jan
+1168,Campings,Spain,,2011,Dec
+1169,Campings,Spain,316,2011,Nov
+1170,Campings,Spain,946,2011,Oct
+1171,Campings,Spain,10443,2011,Sep
+1172,Campings,Spain,82217,2011,Aug
+1173,Campings,Spain,64405,2011,Jul
+1174,Campings,Spain,14952,2011,Jun
+1175,Campings,Spain,2723,2011,May
+1176,Campings,Spain,3652,2011,Apr
+1177,Campings,Spain,203,2011,Mar
+1178,Campings,Spain,298,2011,Feb
+1179,Campings,Spain,,2011,Jan
+1180,Campings,Spain,73,2010,Dec
+1181,Campings,Spain,206,2010,Nov
+1182,Campings,Spain,853,2010,Oct
+1183,Campings,Spain,11565,2010,Sep
+1184,Campings,Spain,89594,2010,Aug
+1185,Campings,Spain,60831,2010,Jul
+1186,Campings,Spain,13130,2010,Jun
+1187,Campings,Spain,3128,2010,May
+1188,Campings,Spain,3057,2010,Apr
+1189,Campings,Spain,1020,2010,Mar
+1190,Campings,Spain,182,2010,Feb
+1191,Campings,Spain,68,2010,Jan
+1192,Campings,Spain,168,2009,Dec
+1193,Campings,Spain,265,2009,Nov
+1194,Campings,Spain,751,2009,Oct
+1195,Campings,Spain,11269,2009,Sep
+1196,Campings,Spain,80466,2009,Aug
+1197,Campings,Spain,54083,2009,Jul
+1198,Campings,Spain,14204,2009,Jun
+1199,Campings,Spain,2557,2009,May
+1200,Campings,Spain,3595,2009,Apr
+1201,Campings,Spain,674,2009,Mar
+1202,Campings,Spain,236,2009,Feb
+1203,Campings,Spain,94,2009,Jan
+1204,Campings,Spain,152,2008,Dec
+1205,Campings,Spain,439,2008,Nov
+1206,Campings,Spain,423,2008,Oct
+1207,Campings,Spain,8014,2008,Sep
+1208,Campings,Spain,80646,2008,Aug
+1209,Campings,Spain,58098,2008,Jul
+1210,Campings,Spain,12418,2008,Jun
+1211,Campings,Spain,1821,2008,May
+1212,Campings,Spain,1315,2008,Apr
+1213,Campings,Spain,1646,2008,Mar
+1214,Campings,Spain,269,2008,Feb
+1215,Campings,Spain,225,2008,Jan
+1216,Campings,Spain,247,2007,Dec
+1217,Campings,Spain,1209,2007,Nov
+1218,Campings,Spain,397,2007,Oct
+1219,Campings,Spain,9314,2007,Sep
+1220,Campings,Spain,81598,2007,Aug
+1221,Campings,Spain,55075,2007,Jul
+1222,Campings,Spain,10533,2007,Jun
+1223,Campings,Spain,2526,2007,May
+1224,Campings,Spain,3907,2007,Apr
+1225,Campings,Spain,115,2007,Mar
+1226,Campings,Spain,429,2007,Feb
+1227,Campings,Spain,294,2007,Jan
+1228,Campings,Spain,396,2006,Dec
+1229,Campings,Spain,410,2006,Nov
+1230,Campings,Spain,646,2006,Oct
+1231,Campings,Spain,8332,2006,Sep
+1232,Campings,Spain,82593,2006,Aug
+1233,Campings,Spain,63609,2006,Jul
+1234,Campings,Spain,11251,2006,Jun
+1235,Campings,Spain,2566,2006,May
+1236,Campings,Spain,3624,2006,Apr
+1237,Campings,Spain,137,2006,Mar
+1238,Campings,Spain,215,2006,Feb
+1239,Campings,Spain,125,2006,Jan
+1240,Campings,Spain,216,2005,Dec
+1241,Campings,Spain,229,2005,Nov
+1242,Campings,Spain,431,2005,Oct
+1243,Campings,Spain,9231,2005,Sep
+1244,Campings,Spain,96589,2005,Aug
+1245,Campings,Spain,71257,2005,Jul
+1246,Campings,Spain,14797,2005,Jun
+1247,Campings,Spain,1808,2005,May
+1248,Campings,Spain,658,2005,Apr
+1249,Campings,Spain,929,2005,Mar
+1250,Campings,Spain,175,2005,Feb
+1251,Campings,Spain,172,2005,Jan
+1252,Campings,Spain,381,2004,Dec
+1253,Campings,Spain,352,2004,Nov
+1254,Campings,Spain,909,2004,Oct
+1255,Campings,Spain,8508,2004,Sep
+1256,Campings,Spain,82939,2004,Aug
+1257,Campings,Spain,67187,2004,Jul
+1258,Campings,Spain,12334,2004,Jun
+1259,Campings,Spain,2861,2004,May
+1260,Campings,Spain,2703,2004,Apr
+1261,Campings,Spain,585,2004,Mar
+1262,Campings,Spain,201,2004,Feb
+1263,Campings,Spain,145,2004,Jan
+1264,Campings,Spain,132,2003,Dec
+1265,Campings,Spain,388,2003,Nov
+1266,Campings,Spain,..,2003,Oct
+1267,Campings,Spain,7155,2003,Sep
+1268,Campings,Spain,78701,2003,Aug
+1269,Campings,Spain,45216,2003,Jul
+1270,Campings,Spain,9440,2003,Jun
+1271,Campings,Spain,1926,2003,May
+1272,Campings,Spain,1677,2003,Apr
+1273,Campings,Spain,201,2003,Mar
+1274,Campings,Spain,647,2003,Feb
+1275,Campings,Spain,656,2003,Jan
+1276,Campings,Spain,1293,2002,Dec
+1277,Campings,Spain,189,2002,Nov
+1278,Campings,Spain,235,2002,Oct
+1279,Campings,Spain,5803,2002,Sep
+1280,Campings,Spain,71153,2002,Aug
+1281,Campings,Spain,69373,2002,Jul
+1282,Campings,Spain,10345,2002,Jun
+1283,Campings,Spain,1213,2002,May
+1284,Campings,Spain,664,2002,Apr
+1285,Campings,Spain,1306,2002,Mar
+1286,Campings,Spain,180,2002,Feb
+1287,Campings,Spain,155,2002,Jan
+1288,Campings,Spain,62,2001,Dec
+1289,Campings,Spain,309,2001,Nov
+1290,Campings,Spain,536,2001,Oct
+1291,Campings,Spain,6778,2001,Sep
+1292,Campings,Spain,77658,2001,Aug
+1293,Campings,Spain,54967,2001,Jul
+1294,Campings,Spain,10239,2001,Jun
+1295,Campings,Spain,841,2001,May
+1296,Campings,Spain,3244,2001,Apr
+1297,Campings,Spain,155,2001,Mar
+1298,Campings,Spain,104,2001,Feb
+1299,Campings,Spain,106,2001,Jan
+1560,Campings,Foreign,31544,2022,Aug
+1561,Campings,Foreign,16544,2022,Jul
+1562,Campings,Foreign,9856,2022,Jun
+1563,Campings,Foreign,4485,2022,May
+1564,Campings,Foreign,2647,2022,Apr
+1565,Campings,Foreign,639,2022,Mar
+1566,Campings,Foreign,264,2022,Feb
+1567,Campings,Foreign,111,2022,Jan
+1568,Campings,Foreign,113,2021,Dec
+1569,Campings,Foreign,743,2021,Nov
+1570,Campings,Foreign,1531,2021,Oct
+1571,Campings,Foreign,9378,2021,Sep
+1572,Campings,Foreign,17774,2021,Aug
+1573,Campings,Foreign,11927,2021,Jul
+1574,Campings,Foreign,4729,2021,Jun
+1575,Campings,Foreign,438,2021,May
+1576,Campings,Foreign,191,2021,Apr
+1577,Campings,Foreign,0,2021,Mar
+1578,Campings,Foreign,0,2021,Feb
+1579,Campings,Foreign,0,2021,Jan
+1580,Campings,Foreign,.,2020,Dec
+1581,Campings,Foreign,8,2020,Nov
+1582,Campings,Foreign,103,2020,Oct
+1583,Campings,Foreign,1758,2020,Sep
+1584,Campings,Foreign,6547,2020,Aug
+1585,Campings,Foreign,4886,2020,Jul
+1586,Campings,Foreign,234,2020,Jun
+1587,Campings,Foreign,.,2020,May
+1588,Campings,Foreign,0,2020,Apr
+1589,Campings,Foreign,0,2020,Mar
+1590,Campings,Foreign,143,2020,Feb
+1591,Campings,Foreign,166,2020,Jan
+1592,Campings,Foreign,176,2019,Dec
+1593,Campings,Foreign,175,2019,Nov
+1594,Campings,Foreign,1291,2019,Oct
+1595,Campings,Foreign,12704,2019,Sep
+1596,Campings,Foreign,31948,2019,Aug
+1597,Campings,Foreign,16596,2019,Jul
+1598,Campings,Foreign,7858,2019,Jun
+1599,Campings,Foreign,4871,2019,May
+1600,Campings,Foreign,1579,2019,Apr
+1601,Campings,Foreign,277,2019,Mar
+1602,Campings,Foreign,165,2019,Feb
+1603,Campings,Foreign,56,2019,Jan
+1604,Campings,Foreign,146,2018,Dec
+1605,Campings,Foreign,70,2018,Nov
+1606,Campings,Foreign,1088,2018,Oct
+1607,Campings,Foreign,12000,2018,Sep
+1608,Campings,Foreign,31304,2018,Aug
+1609,Campings,Foreign,15616,2018,Jul
+1610,Campings,Foreign,7339,2018,Jun
+1611,Campings,Foreign,3932,2018,May
+1612,Campings,Foreign,1356,2018,Apr
+1613,Campings,Foreign,253,2018,Mar
+1614,Campings,Foreign,104,2018,Feb
+1615,Campings,Foreign,65,2018,Jan
+1616,Campings,Foreign,75,2017,Dec
+1617,Campings,Foreign,138,2017,Nov
+1618,Campings,Foreign,1452,2017,Oct
+1619,Campings,Foreign,11831,2017,Sep
+1620,Campings,Foreign,28970,2017,Aug
+1621,Campings,Foreign,15346,2017,Jul
+1622,Campings,Foreign,9645,2017,Jun
+1623,Campings,Foreign,3488,2017,May
+1624,Campings,Foreign,1894,2017,Apr
+1625,Campings,Foreign,267,2017,Mar
+1626,Campings,Foreign,71,2017,Feb
+1627,Campings,Foreign,85,2017,Jan
+1628,Campings,Foreign,115,2016,Dec
+1629,Campings,Foreign,127,2016,Nov
+1630,Campings,Foreign,523,2016,Oct
+1631,Campings,Foreign,10963,2016,Sep
+1632,Campings,Foreign,32262,2016,Aug
+1633,Campings,Foreign,19683,2016,Jul
+1634,Campings,Foreign,7785,2016,Jun
+1635,Campings,Foreign,2381,2016,May
+1636,Campings,Foreign,1051,2016,Apr
+1637,Campings,Foreign,475,2016,Mar
+1638,Campings,Foreign,136,2016,Feb
+1639,Campings,Foreign,54,2016,Jan
+1640,Campings,Foreign,43,2015,Dec
+1641,Campings,Foreign,99,2015,Nov
+1642,Campings,Foreign,456,2015,Oct
+1643,Campings,Foreign,6549,2015,Sep
+1644,Campings,Foreign,23832,2015,Aug
+1645,Campings,Foreign,17075,2015,Jul
+1646,Campings,Foreign,6996,2015,Jun
+1647,Campings,Foreign,2564,2015,May
+1648,Campings,Foreign,823,2015,Apr
+1649,Campings,Foreign,244,2015,Mar
+1650,Campings,Foreign,70,2015,Feb
+1651,Campings,Foreign,59,2015,Jan
+1652,Campings,Foreign,101,2014,Dec
+1653,Campings,Foreign,196,2014,Nov
+1654,Campings,Foreign,409,2014,Oct
+1655,Campings,Foreign,4695,2014,Sep
+1656,Campings,Foreign,28053,2014,Aug
+1657,Campings,Foreign,14364,2014,Jul
+1658,Campings,Foreign,6519,2014,Jun
+1659,Campings,Foreign,2003,2014,May
+1660,Campings,Foreign,1165,2014,Apr
+1661,Campings,Foreign,224,2014,Mar
+1662,Campings,Foreign,51,2014,Feb
+1663,Campings,Foreign,9,2014,Jan
+1664,Campings,Foreign,53,2013,Dec
+1665,Campings,Foreign,52,2013,Nov
+1666,Campings,Foreign,265,2013,Oct
+1667,Campings,Foreign,5635,2013,Sep
+1668,Campings,Foreign,27679,2013,Aug
+1669,Campings,Foreign,13721,2013,Jul
+1670,Campings,Foreign,5079,2013,Jun
+1671,Campings,Foreign,1891,2013,May
+1672,Campings,Foreign,521,2013,Apr
+1673,Campings,Foreign,233,2013,Mar
+1674,Campings,Foreign,42,2013,Feb
+1675,Campings,Foreign,13,2013,Jan
+1676,Campings,Foreign,49,2012,Dec
+1677,Campings,Foreign,33,2012,Nov
+1678,Campings,Foreign,316,2012,Oct
+1679,Campings,Foreign,4289,2012,Sep
+1680,Campings,Foreign,25859,2012,Aug
+1681,Campings,Foreign,13978,2012,Jul
+1682,Campings,Foreign,4594,2012,Jun
+1683,Campings,Foreign,1477,2012,May
+1684,Campings,Foreign,978,2012,Apr
+1685,Campings,Foreign,187,2012,Mar
+1686,Campings,Foreign,71,2012,Feb
+1687,Campings,Foreign,30,2012,Jan
+1688,Campings,Foreign,,2011,Dec
+1689,Campings,Foreign,76,2011,Nov
+1690,Campings,Foreign,269,2011,Oct
+1691,Campings,Foreign,4925,2011,Sep
+1692,Campings,Foreign,28283,2011,Aug
+1693,Campings,Foreign,15093,2011,Jul
+1694,Campings,Foreign,4713,2011,Jun
+1695,Campings,Foreign,1738,2011,May
+1696,Campings,Foreign,1060,2011,Apr
+1697,Campings,Foreign,217,2011,Mar
+1698,Campings,Foreign,54,2011,Feb
+1699,Campings,Foreign,,2011,Jan
+1700,Campings,Foreign,74,2010,Dec
+1701,Campings,Foreign,124,2010,Nov
+1702,Campings,Foreign,199,2010,Oct
+1703,Campings,Foreign,5816,2010,Sep
+1704,Campings,Foreign,29449,2010,Aug
+1705,Campings,Foreign,16586,2010,Jul
+1706,Campings,Foreign,4247,2010,Jun
+1707,Campings,Foreign,1551,2010,May
+1708,Campings,Foreign,1080,2010,Apr
+1709,Campings,Foreign,315,2010,Mar
+1710,Campings,Foreign,86,2010,Feb
+1711,Campings,Foreign,98,2010,Jan
+1712,Campings,Foreign,57,2009,Dec
+1713,Campings,Foreign,82,2009,Nov
+1714,Campings,Foreign,125,2009,Oct
+1715,Campings,Foreign,4579,2009,Sep
+1716,Campings,Foreign,22957,2009,Aug
+1717,Campings,Foreign,12752,2009,Jul
+1718,Campings,Foreign,4098,2009,Jun
+1719,Campings,Foreign,1577,2009,May
+1720,Campings,Foreign,817,2009,Apr
+1721,Campings,Foreign,261,2009,Mar
+1722,Campings,Foreign,120,2009,Feb
+1723,Campings,Foreign,32,2009,Jan
+1724,Campings,Foreign,69,2008,Dec
+1725,Campings,Foreign,93,2008,Nov
+1726,Campings,Foreign,210,2008,Oct
+1727,Campings,Foreign,3418,2008,Sep
+1728,Campings,Foreign,25345,2008,Aug
+1729,Campings,Foreign,13446,2008,Jul
+1730,Campings,Foreign,4599,2008,Jun
+1731,Campings,Foreign,1731,2008,May
+1732,Campings,Foreign,813,2008,Apr
+1733,Campings,Foreign,605,2008,Mar
+1734,Campings,Foreign,169,2008,Feb
+1735,Campings,Foreign,179,2008,Jan
+1736,Campings,Foreign,124,2007,Dec
+1737,Campings,Foreign,194,2007,Nov
+1738,Campings,Foreign,374,2007,Oct
+1739,Campings,Foreign,4706,2007,Sep
+1740,Campings,Foreign,30497,2007,Aug
+1741,Campings,Foreign,14378,2007,Jul
+1742,Campings,Foreign,3607,2007,Jun
+1743,Campings,Foreign,1559,2007,May
+1744,Campings,Foreign,617,2007,Apr
+1745,Campings,Foreign,142,2007,Mar
+1746,Campings,Foreign,53,2007,Feb
+1747,Campings,Foreign,14,2007,Jan
+1748,Campings,Foreign,20,2006,Dec
+1749,Campings,Foreign,86,2006,Nov
+1750,Campings,Foreign,166,2006,Oct
+1751,Campings,Foreign,4292,2006,Sep
+1752,Campings,Foreign,28416,2006,Aug
+1753,Campings,Foreign,16246,2006,Jul
+1754,Campings,Foreign,4463,2006,Jun
+1755,Campings,Foreign,1342,2006,May
+1756,Campings,Foreign,963,2006,Apr
+1757,Campings,Foreign,96,2006,Mar
+1758,Campings,Foreign,117,2006,Feb
+1759,Campings,Foreign,55,2006,Jan
+1760,Campings,Foreign,0,2005,Dec
+1761,Campings,Foreign,39,2005,Nov
+1762,Campings,Foreign,229,2005,Oct
+1763,Campings,Foreign,4736,2005,Sep
+1764,Campings,Foreign,32763,2005,Aug
+1765,Campings,Foreign,15263,2005,Jul
+1766,Campings,Foreign,6144,2005,Jun
+1767,Campings,Foreign,1120,2005,May
+1768,Campings,Foreign,397,2005,Apr
+1769,Campings,Foreign,109,2005,Mar
+1770,Campings,Foreign,14,2005,Feb
+1771,Campings,Foreign,87,2005,Jan
+1772,Campings,Foreign,23,2004,Dec
+1773,Campings,Foreign,118,2004,Nov
+1774,Campings,Foreign,238,2004,Oct
+1775,Campings,Foreign,3820,2004,Sep
+1776,Campings,Foreign,28275,2004,Aug
+1777,Campings,Foreign,15972,2004,Jul
+1778,Campings,Foreign,4345,2004,Jun
+1779,Campings,Foreign,940,2004,May
+1780,Campings,Foreign,473,2004,Apr
+1781,Campings,Foreign,13,2004,Mar
+1782,Campings,Foreign,10,2004,Feb
+1783,Campings,Foreign,..,2004,Jan
+1784,Campings,Foreign,31,2003,Dec
+1785,Campings,Foreign,3,2003,Nov
+1786,Campings,Foreign,..,2003,Oct
+1787,Campings,Foreign,4165,2003,Sep
+1788,Campings,Foreign,25830,2003,Aug
+1789,Campings,Foreign,10658,2003,Jul
+1790,Campings,Foreign,3053,2003,Jun
+1791,Campings,Foreign,1182,2003,May
+1792,Campings,Foreign,441,2003,Apr
+1793,Campings,Foreign,84,2003,Mar
+1794,Campings,Foreign,2,2003,Feb
+1795,Campings,Foreign,1534,2003,Jan
+1796,Campings,Foreign,..,2002,Dec
+1797,Campings,Foreign,..,2002,Nov
+1798,Campings,Foreign,270,2002,Oct
+1799,Campings,Foreign,3460,2002,Sep
+1800,Campings,Foreign,22214,2002,Aug
+1801,Campings,Foreign,16455,2002,Jul
+1802,Campings,Foreign,3120,2002,Jun
+1803,Campings,Foreign,921,2002,May
+1804,Campings,Foreign,724,2002,Apr
+1805,Campings,Foreign,151,2002,Mar
+1806,Campings,Foreign,96,2002,Feb
+1807,Campings,Foreign,..,2002,Jan
+1808,Campings,Foreign,18,2001,Dec
+1809,Campings,Foreign,9,2001,Nov
+1810,Campings,Foreign,133,2001,Oct
+1811,Campings,Foreign,3124,2001,Sep
+1812,Campings,Foreign,22988,2001,Aug
+1813,Campings,Foreign,14735,2001,Jul
+1814,Campings,Foreign,3796,2001,Jun
+1815,Campings,Foreign,523,2001,May
+1816,Campings,Foreign,617,2001,Apr
+1817,Campings,Foreign,27,2001,Mar
+1818,Campings,Foreign,44,2001,Feb
+1819,Campings,Foreign,..,2001,Jan
+2080,Rural Tourism,Spain,30362,2022,Aug
+2081,Rural Tourism,Spain,21855,2022,Jul
+2082,Rural Tourism,Spain,14301,2022,Jun
+2083,Rural Tourism,Spain,12934,2022,May
+2084,Rural Tourism,Spain,13446,2022,Apr
+2085,Rural Tourism,Spain,4582,2022,Mar
+2086,Rural Tourism,Spain,3964,2022,Feb
+2087,Rural Tourism,Spain,2946,2022,Jan
+2088,Rural Tourism,Spain,7460,2021,Dec
+2089,Rural Tourism,Spain,7383,2021,Nov
+2090,Rural Tourism,Spain,15692,2021,Oct
+2091,Rural Tourism,Spain,19350,2021,Sep
+2092,Rural Tourism,Spain,36573,2021,Aug
+2093,Rural Tourism,Spain,25411,2021,Jul
+2094,Rural Tourism,Spain,10416,2021,Jun
+2095,Rural Tourism,Spain,8227,2021,May
+2096,Rural Tourism,Spain,5358,2021,Apr
+2097,Rural Tourism,Spain,3226,2021,Mar
+2098,Rural Tourism,Spain,292,2021,Feb
+2099,Rural Tourism,Spain,597,2021,Jan
+2100,Rural Tourism,Spain,1414,2020,Dec
+2101,Rural Tourism,Spain,.,2020,Nov
+2102,Rural Tourism,Spain,5923,2020,Oct
+2103,Rural Tourism,Spain,10625,2020,Sep
+2104,Rural Tourism,Spain,26122,2020,Aug
+2105,Rural Tourism,Spain,14506,2020,Jul
+2106,Rural Tourism,Spain,3585,2020,Jun
+2107,Rural Tourism,Spain,.,2020,May
+2108,Rural Tourism,Spain,.,2020,Apr
+2109,Rural Tourism,Spain,1151,2020,Mar
+2110,Rural Tourism,Spain,4833,2020,Feb
+2111,Rural Tourism,Spain,3549,2020,Jan
+2112,Rural Tourism,Spain,8055,2019,Dec
+2113,Rural Tourism,Spain,7445,2019,Nov
+2114,Rural Tourism,Spain,11482,2019,Oct
+2115,Rural Tourism,Spain,16084,2019,Sep
+2116,Rural Tourism,Spain,34278,2019,Aug
+2117,Rural Tourism,Spain,20847,2019,Jul
+2118,Rural Tourism,Spain,15416,2019,Jun
+2119,Rural Tourism,Spain,12270,2019,May
+2120,Rural Tourism,Spain,13520,2019,Apr
+2121,Rural Tourism,Spain,7090,2019,Mar
+2122,Rural Tourism,Spain,5374,2019,Feb
+2123,Rural Tourism,Spain,3959,2019,Jan
+2124,Rural Tourism,Spain,8457,2018,Dec
+2125,Rural Tourism,Spain,8653,2018,Nov
+2126,Rural Tourism,Spain,12952,2018,Oct
+2127,Rural Tourism,Spain,18060,2018,Sep
+2128,Rural Tourism,Spain,32012,2018,Aug
+2129,Rural Tourism,Spain,19928,2018,Jul
+2130,Rural Tourism,Spain,14982,2018,Jun
+2131,Rural Tourism,Spain,11897,2018,May
+2132,Rural Tourism,Spain,9128,2018,Apr
+2133,Rural Tourism,Spain,10626,2018,Mar
+2134,Rural Tourism,Spain,5343,2018,Feb
+2135,Rural Tourism,Spain,3962,2018,Jan
+2136,Rural Tourism,Spain,8857,2017,Dec
+2137,Rural Tourism,Spain,7800,2017,Nov
+2138,Rural Tourism,Spain,13123,2017,Oct
+2139,Rural Tourism,Spain,17945,2017,Sep
+2140,Rural Tourism,Spain,32464,2017,Aug
+2141,Rural Tourism,Spain,23542,2017,Jul
+2142,Rural Tourism,Spain,14223,2017,Jun
+2143,Rural Tourism,Spain,10069,2017,May
+2144,Rural Tourism,Spain,15625,2017,Apr
+2145,Rural Tourism,Spain,6687,2017,Mar
+2146,Rural Tourism,Spain,4722,2017,Feb
+2147,Rural Tourism,Spain,4106,2017,Jan
+2148,Rural Tourism,Spain,8122,2016,Dec
+2149,Rural Tourism,Spain,6516,2016,Nov
+2150,Rural Tourism,Spain,13217,2016,Oct
+2151,Rural Tourism,Spain,16845,2016,Sep
+2152,Rural Tourism,Spain,32764,2016,Aug
+2153,Rural Tourism,Spain,22229,2016,Jul
+2154,Rural Tourism,Spain,14222,2016,Jun
+2155,Rural Tourism,Spain,10359,2016,May
+2156,Rural Tourism,Spain,7369,2016,Apr
+2157,Rural Tourism,Spain,11133,2016,Mar
+2158,Rural Tourism,Spain,5697,2016,Feb
+2159,Rural Tourism,Spain,4908,2016,Jan
+2160,Rural Tourism,Spain,7450,2015,Dec
+2161,Rural Tourism,Spain,7340,2015,Nov
+2162,Rural Tourism,Spain,12675,2015,Oct
+2163,Rural Tourism,Spain,15243,2015,Sep
+2164,Rural Tourism,Spain,33010,2015,Aug
+2165,Rural Tourism,Spain,19700,2015,Jul
+2166,Rural Tourism,Spain,12450,2015,Jun
+2167,Rural Tourism,Spain,10532,2015,May
+2168,Rural Tourism,Spain,10496,2015,Apr
+2169,Rural Tourism,Spain,9250,2015,Mar
+2170,Rural Tourism,Spain,5817,2015,Feb
+2171,Rural Tourism,Spain,3515,2015,Jan
+2172,Rural Tourism,Spain,7124,2014,Dec
+2173,Rural Tourism,Spain,6509,2014,Nov
+2174,Rural Tourism,Spain,9149,2014,Oct
+2175,Rural Tourism,Spain,13103,2014,Sep
+2176,Rural Tourism,Spain,28286,2014,Aug
+2177,Rural Tourism,Spain,17005,2014,Jul
+2178,Rural Tourism,Spain,10307,2014,Jun
+2179,Rural Tourism,Spain,9832,2014,May
+2180,Rural Tourism,Spain,9059,2014,Apr
+2181,Rural Tourism,Spain,6054,2014,Mar
+2182,Rural Tourism,Spain,4237,2014,Feb
+2183,Rural Tourism,Spain,2706,2014,Jan
+2184,Rural Tourism,Spain,6933,2013,Dec
+2185,Rural Tourism,Spain,7194,2013,Nov
+2186,Rural Tourism,Spain,7541,2013,Oct
+2187,Rural Tourism,Spain,11602,2013,Sep
+2188,Rural Tourism,Spain,25301,2013,Aug
+2189,Rural Tourism,Spain,13453,2013,Jul
+2190,Rural Tourism,Spain,8922,2013,Jun
+2191,Rural Tourism,Spain,7227,2013,May
+2192,Rural Tourism,Spain,4057,2013,Apr
+2193,Rural Tourism,Spain,7730,2013,Mar
+2194,Rural Tourism,Spain,4664,2013,Feb
+2195,Rural Tourism,Spain,2382,2013,Jan
+2196,Rural Tourism,Spain,8823,2012,Dec
+2197,Rural Tourism,Spain,6233,2012,Nov
+2198,Rural Tourism,Spain,11235,2012,Oct
+2199,Rural Tourism,Spain,11061,2012,Sep
+2200,Rural Tourism,Spain,22296,2012,Aug
+2201,Rural Tourism,Spain,13761,2012,Jul
+2202,Rural Tourism,Spain,8579,2012,Jun
+2203,Rural Tourism,Spain,7821,2012,May
+2204,Rural Tourism,Spain,10001,2012,Apr
+2205,Rural Tourism,Spain,6255,2012,Mar
+2206,Rural Tourism,Spain,4397,2012,Feb
+2207,Rural Tourism,Spain,3231,2012,Jan
+2208,Rural Tourism,Spain,7592,2011,Dec
+2209,Rural Tourism,Spain,6792,2011,Nov
+2210,Rural Tourism,Spain,11750,2011,Oct
+2211,Rural Tourism,Spain,11368,2011,Sep
+2212,Rural Tourism,Spain,25066,2011,Aug
+2213,Rural Tourism,Spain,17261,2011,Jul
+2214,Rural Tourism,Spain,10817,2011,Jun
+2215,Rural Tourism,Spain,8126,2011,May
+2216,Rural Tourism,Spain,10783,2011,Apr
+2217,Rural Tourism,Spain,5830,2011,Mar
+2218,Rural Tourism,Spain,3664,2011,Feb
+2219,Rural Tourism,Spain,3482,2011,Jan
+2220,Rural Tourism,Spain,10561,2010,Dec
+2221,Rural Tourism,Spain,9725,2010,Nov
+2222,Rural Tourism,Spain,17848,2010,Oct
+2223,Rural Tourism,Spain,17730,2010,Sep
+2224,Rural Tourism,Spain,30797,2010,Aug
+2225,Rural Tourism,Spain,22498,2010,Jul
+2226,Rural Tourism,Spain,14870,2010,Jun
+2227,Rural Tourism,Spain,13943,2010,May
+2228,Rural Tourism,Spain,12841,2010,Apr
+2229,Rural Tourism,Spain,9578,2010,Mar
+2230,Rural Tourism,Spain,5120,2010,Feb
+2231,Rural Tourism,Spain,4776,2010,Jan
+2232,Rural Tourism,Spain,11325,2009,Dec
+2233,Rural Tourism,Spain,8843,2009,Nov
+2234,Rural Tourism,Spain,14188,2009,Oct
+2235,Rural Tourism,Spain,15004,2009,Sep
+2236,Rural Tourism,Spain,32245,2009,Aug
+2237,Rural Tourism,Spain,20125,2009,Jul
+2238,Rural Tourism,Spain,12154,2009,Jun
+2239,Rural Tourism,Spain,11129,2009,May
+2240,Rural Tourism,Spain,13106,2009,Apr
+2241,Rural Tourism,Spain,8992,2009,Mar
+2242,Rural Tourism,Spain,6584,2009,Feb
+2243,Rural Tourism,Spain,4375,2009,Jan
+2244,Rural Tourism,Spain,11567,2008,Dec
+2245,Rural Tourism,Spain,9813,2008,Nov
+2246,Rural Tourism,Spain,11430,2008,Oct
+2247,Rural Tourism,Spain,13996,2008,Sep
+2248,Rural Tourism,Spain,27840,2008,Aug
+2249,Rural Tourism,Spain,16717,2008,Jul
+2250,Rural Tourism,Spain,10783,2008,Jun
+2251,Rural Tourism,Spain,12053,2008,May
+2252,Rural Tourism,Spain,7611,2008,Apr
+2253,Rural Tourism,Spain,12501,2008,Mar
+2254,Rural Tourism,Spain,6697,2008,Feb
+2255,Rural Tourism,Spain,4088,2008,Jan
+2256,Rural Tourism,Spain,9832,2007,Dec
+2257,Rural Tourism,Spain,9631,2007,Nov
+2258,Rural Tourism,Spain,12654,2007,Oct
+2259,Rural Tourism,Spain,14479,2007,Sep
+2260,Rural Tourism,Spain,32225,2007,Aug
+2261,Rural Tourism,Spain,17865,2007,Jul
+2262,Rural Tourism,Spain,12167,2007,Jun
+2263,Rural Tourism,Spain,9416,2007,May
+2264,Rural Tourism,Spain,13713,2007,Apr
+2265,Rural Tourism,Spain,8245,2007,Mar
+2266,Rural Tourism,Spain,5634,2007,Feb
+2267,Rural Tourism,Spain,4419,2007,Jan
+2268,Rural Tourism,Spain,10070,2006,Dec
+2269,Rural Tourism,Spain,7036,2006,Nov
+2270,Rural Tourism,Spain,10031,2006,Oct
+2271,Rural Tourism,Spain,12405,2006,Sep
+2272,Rural Tourism,Spain,29044,2006,Aug
+2273,Rural Tourism,Spain,19011,2006,Jul
+2274,Rural Tourism,Spain,10713,2006,Jun
+2275,Rural Tourism,Spain,8780,2006,May
+2276,Rural Tourism,Spain,15184,2006,Apr
+2277,Rural Tourism,Spain,6512,2006,Mar
+2278,Rural Tourism,Spain,6269,2006,Feb
+2279,Rural Tourism,Spain,4851,2006,Jan
+2280,Rural Tourism,Spain,8877,2005,Dec
+2281,Rural Tourism,Spain,7489,2005,Nov
+2282,Rural Tourism,Spain,10876,2005,Oct
+2283,Rural Tourism,Spain,13673,2005,Sep
+2284,Rural Tourism,Spain,29741,2005,Aug
+2285,Rural Tourism,Spain,19244,2005,Jul
+2286,Rural Tourism,Spain,9635,2005,Jun
+2287,Rural Tourism,Spain,9461,2005,May
+2288,Rural Tourism,Spain,7383,2005,Apr
+2289,Rural Tourism,Spain,10739,2005,Mar
+2290,Rural Tourism,Spain,5013,2005,Feb
+2291,Rural Tourism,Spain,4435,2005,Jan
+2292,Rural Tourism,Spain,9927,2004,Dec
+2293,Rural Tourism,Spain,6904,2004,Nov
+2294,Rural Tourism,Spain,14469,2004,Oct
+2295,Rural Tourism,Spain,14703,2004,Sep
+2296,Rural Tourism,Spain,29864,2004,Aug
+2297,Rural Tourism,Spain,18248,2004,Jul
+2298,Rural Tourism,Spain,11970,2004,Jun
+2299,Rural Tourism,Spain,11538,2004,May
+2300,Rural Tourism,Spain,13283,2004,Apr
+2301,Rural Tourism,Spain,7888,2004,Mar
+2302,Rural Tourism,Spain,6513,2004,Feb
+2303,Rural Tourism,Spain,4628,2004,Jan
+2304,Rural Tourism,Spain,10546,2003,Dec
+2305,Rural Tourism,Spain,6267,2003,Nov
+2306,Rural Tourism,Spain,8339,2003,Oct
+2307,Rural Tourism,Spain,11404,2003,Sep
+2308,Rural Tourism,Spain,24769,2003,Aug
+2309,Rural Tourism,Spain,14377,2003,Jul
+2310,Rural Tourism,Spain,7887,2003,Jun
+2311,Rural Tourism,Spain,7332,2003,May
+2312,Rural Tourism,Spain,10684,2003,Apr
+2313,Rural Tourism,Spain,6695,2003,Mar
+2314,Rural Tourism,Spain,5190,2003,Feb
+2315,Rural Tourism,Spain,3438,2003,Jan
+2316,Rural Tourism,Spain,6688,2002,Dec
+2317,Rural Tourism,Spain,6688,2002,Nov
+2318,Rural Tourism,Spain,9031,2002,Oct
+2319,Rural Tourism,Spain,11115,2002,Sep
+2320,Rural Tourism,Spain,24712,2002,Aug
+2321,Rural Tourism,Spain,14728,2002,Jul
+2322,Rural Tourism,Spain,6852,2002,Jun
+2323,Rural Tourism,Spain,7359,2002,May
+2324,Rural Tourism,Spain,5420,2002,Apr
+2325,Rural Tourism,Spain,9583,2002,Mar
+2326,Rural Tourism,Spain,4306,2002,Feb
+2327,Rural Tourism,Spain,3126,2002,Jan
+2328,Rural Tourism,Spain,6111,2001,Dec
+2329,Rural Tourism,Spain,6385,2001,Nov
+2330,Rural Tourism,Spain,7865,2001,Oct
+2331,Rural Tourism,Spain,9722,2001,Sep
+2332,Rural Tourism,Spain,20723,2001,Aug
+2333,Rural Tourism,Spain,11132,2001,Jul
+2334,Rural Tourism,Spain,6531,2001,Jun
+2335,Rural Tourism,Spain,5046,2001,May
+2336,Rural Tourism,Spain,8849,2001,Apr
+2337,Rural Tourism,Spain,3677,2001,Mar
+2338,Rural Tourism,Spain,3755,2001,Feb
+2339,Rural Tourism,Spain,3112,2001,Jan
+2600,Rural Tourism,Foreign,10168,2022,Aug
+2601,Rural Tourism,Foreign,8461,2022,Jul
+2602,Rural Tourism,Foreign,7503,2022,Jun
+2603,Rural Tourism,Foreign,9716,2022,May
+2604,Rural Tourism,Foreign,5647,2022,Apr
+2605,Rural Tourism,Foreign,665,2022,Mar
+2606,Rural Tourism,Foreign,518,2022,Feb
+2607,Rural Tourism,Foreign,214,2022,Jan
+2608,Rural Tourism,Foreign,623,2021,Dec
+2609,Rural Tourism,Foreign,1092,2021,Nov
+2610,Rural Tourism,Foreign,3860,2021,Oct
+2611,Rural Tourism,Foreign,5491,2021,Sep
+2612,Rural Tourism,Foreign,4504,2021,Aug
+2613,Rural Tourism,Foreign,2474,2021,Jul
+2614,Rural Tourism,Foreign,1142,2021,Jun
+2615,Rural Tourism,Foreign,445,2021,May
+2616,Rural Tourism,Foreign,211,2021,Apr
+2617,Rural Tourism,Foreign,103,2021,Mar
+2618,Rural Tourism,Foreign,0,2021,Feb
+2619,Rural Tourism,Foreign,4,2021,Jan
+2620,Rural Tourism,Foreign,15,2020,Dec
+2621,Rural Tourism,Foreign,.,2020,Nov
+2622,Rural Tourism,Foreign,221,2020,Oct
+2623,Rural Tourism,Foreign,905,2020,Sep
+2624,Rural Tourism,Foreign,1968,2020,Aug
+2625,Rural Tourism,Foreign,970,2020,Jul
+2626,Rural Tourism,Foreign,48,2020,Jun
+2627,Rural Tourism,Foreign,.,2020,May
+2628,Rural Tourism,Foreign,.,2020,Apr
+2629,Rural Tourism,Foreign,228,2020,Mar
+2630,Rural Tourism,Foreign,593,2020,Feb
+2631,Rural Tourism,Foreign,489,2020,Jan
+2632,Rural Tourism,Foreign,988,2019,Dec
+2633,Rural Tourism,Foreign,1203,2019,Nov
+2634,Rural Tourism,Foreign,7310,2019,Oct
+2635,Rural Tourism,Foreign,12884,2019,Sep
+2636,Rural Tourism,Foreign,9801,2019,Aug
+2637,Rural Tourism,Foreign,8516,2019,Jul
+2638,Rural Tourism,Foreign,11341,2019,Jun
+2639,Rural Tourism,Foreign,11166,2019,May
+2640,Rural Tourism,Foreign,6047,2019,Apr
+2641,Rural Tourism,Foreign,1178,2019,Mar
+2642,Rural Tourism,Foreign,559,2019,Feb
+2643,Rural Tourism,Foreign,566,2019,Jan
+2644,Rural Tourism,Foreign,949,2018,Dec
+2645,Rural Tourism,Foreign,1400,2018,Nov
+2646,Rural Tourism,Foreign,7974,2018,Oct
+2647,Rural Tourism,Foreign,11416,2018,Sep
+2648,Rural Tourism,Foreign,9301,2018,Aug
+2649,Rural Tourism,Foreign,7843,2018,Jul
+2650,Rural Tourism,Foreign,8539,2018,Jun
+2651,Rural Tourism,Foreign,8964,2018,May
+2652,Rural Tourism,Foreign,3793,2018,Apr
+2653,Rural Tourism,Foreign,1669,2018,Mar
+2654,Rural Tourism,Foreign,857,2018,Feb
+2655,Rural Tourism,Foreign,580,2018,Jan
+2656,Rural Tourism,Foreign,598,2017,Dec
+2657,Rural Tourism,Foreign,945,2017,Nov
+2658,Rural Tourism,Foreign,5654,2017,Oct
+2659,Rural Tourism,Foreign,9701,2017,Sep
+2660,Rural Tourism,Foreign,9190,2017,Aug
+2661,Rural Tourism,Foreign,8309,2017,Jul
+2662,Rural Tourism,Foreign,8410,2017,Jun
+2663,Rural Tourism,Foreign,8013,2017,May
+2664,Rural Tourism,Foreign,4391,2017,Apr
+2665,Rural Tourism,Foreign,974,2017,Mar
+2666,Rural Tourism,Foreign,782,2017,Feb
+2667,Rural Tourism,Foreign,388,2017,Jan
+2668,Rural Tourism,Foreign,949,2016,Dec
+2669,Rural Tourism,Foreign,956,2016,Nov
+2670,Rural Tourism,Foreign,6253,2016,Oct
+2671,Rural Tourism,Foreign,11347,2016,Sep
+2672,Rural Tourism,Foreign,10016,2016,Aug
+2673,Rural Tourism,Foreign,9407,2016,Jul
+2674,Rural Tourism,Foreign,7351,2016,Jun
+2675,Rural Tourism,Foreign,8493,2016,May
+2676,Rural Tourism,Foreign,3628,2016,Apr
+2677,Rural Tourism,Foreign,1224,2016,Mar
+2678,Rural Tourism,Foreign,246,2016,Feb
+2679,Rural Tourism,Foreign,130,2016,Jan
+2680,Rural Tourism,Foreign,288,2015,Dec
+2681,Rural Tourism,Foreign,355,2015,Nov
+2682,Rural Tourism,Foreign,5008,2015,Oct
+2683,Rural Tourism,Foreign,9117,2015,Sep
+2684,Rural Tourism,Foreign,7123,2015,Aug
+2685,Rural Tourism,Foreign,6631,2015,Jul
+2686,Rural Tourism,Foreign,6995,2015,Jun
+2687,Rural Tourism,Foreign,7021,2015,May
+2688,Rural Tourism,Foreign,2394,2015,Apr
+2689,Rural Tourism,Foreign,605,2015,Mar
+2690,Rural Tourism,Foreign,164,2015,Feb
+2691,Rural Tourism,Foreign,149,2015,Jan
+2692,Rural Tourism,Foreign,271,2014,Dec
+2693,Rural Tourism,Foreign,269,2014,Nov
+2694,Rural Tourism,Foreign,2575,2014,Oct
+2695,Rural Tourism,Foreign,6468,2014,Sep
+2696,Rural Tourism,Foreign,6293,2014,Aug
+2697,Rural Tourism,Foreign,4604,2014,Jul
+2698,Rural Tourism,Foreign,4658,2014,Jun
+2699,Rural Tourism,Foreign,5591,2014,May
+2700,Rural Tourism,Foreign,2085,2014,Apr
+2701,Rural Tourism,Foreign,633,2014,Mar
+2702,Rural Tourism,Foreign,61,2014,Feb
+2703,Rural Tourism,Foreign,114,2014,Jan
+2704,Rural Tourism,Foreign,156,2013,Dec
+2705,Rural Tourism,Foreign,194,2013,Nov
+2706,Rural Tourism,Foreign,2583,2013,Oct
+2707,Rural Tourism,Foreign,4242,2013,Sep
+2708,Rural Tourism,Foreign,3894,2013,Aug
+2709,Rural Tourism,Foreign,3183,2013,Jul
+2710,Rural Tourism,Foreign,2874,2013,Jun
+2711,Rural Tourism,Foreign,2755,2013,May
+2712,Rural Tourism,Foreign,1649,2013,Apr
+2713,Rural Tourism,Foreign,471,2013,Mar
+2714,Rural Tourism,Foreign,116,2013,Feb
+2715,Rural Tourism,Foreign,57,2013,Jan
+2716,Rural Tourism,Foreign,108,2012,Dec
+2717,Rural Tourism,Foreign,403,2012,Nov
+2718,Rural Tourism,Foreign,2023,2012,Oct
+2719,Rural Tourism,Foreign,4738,2012,Sep
+2720,Rural Tourism,Foreign,4258,2012,Aug
+2721,Rural Tourism,Foreign,4444,2012,Jul
+2722,Rural Tourism,Foreign,4035,2012,Jun
+2723,Rural Tourism,Foreign,3654,2012,May
+2724,Rural Tourism,Foreign,1566,2012,Apr
+2725,Rural Tourism,Foreign,244,2012,Mar
+2726,Rural Tourism,Foreign,187,2012,Feb
+2727,Rural Tourism,Foreign,148,2012,Jan
+2728,Rural Tourism,Foreign,257,2011,Dec
+2729,Rural Tourism,Foreign,147,2011,Nov
+2730,Rural Tourism,Foreign,1928,2011,Oct
+2731,Rural Tourism,Foreign,4433,2011,Sep
+2732,Rural Tourism,Foreign,4171,2011,Aug
+2733,Rural Tourism,Foreign,2684,2011,Jul
+2734,Rural Tourism,Foreign,2942,2011,Jun
+2735,Rural Tourism,Foreign,3059,2011,May
+2736,Rural Tourism,Foreign,755,2011,Apr
+2737,Rural Tourism,Foreign,175,2011,Mar
+2738,Rural Tourism,Foreign,60,2011,Feb
+2739,Rural Tourism,Foreign,93,2011,Jan
+2740,Rural Tourism,Foreign,322,2010,Dec
+2741,Rural Tourism,Foreign,344,2010,Nov
+2742,Rural Tourism,Foreign,2263,2010,Oct
+2743,Rural Tourism,Foreign,4332,2010,Sep
+2744,Rural Tourism,Foreign,4451,2010,Aug
+2745,Rural Tourism,Foreign,3120,2010,Jul
+2746,Rural Tourism,Foreign,2567,2010,Jun
+2747,Rural Tourism,Foreign,3843,2010,May
+2748,Rural Tourism,Foreign,1314,2010,Apr
+2749,Rural Tourism,Foreign,202,2010,Mar
+2750,Rural Tourism,Foreign,266,2010,Feb
+2751,Rural Tourism,Foreign,131,2010,Jan
+2752,Rural Tourism,Foreign,459,2009,Dec
+2753,Rural Tourism,Foreign,285,2009,Nov
+2754,Rural Tourism,Foreign,2122,2009,Oct
+2755,Rural Tourism,Foreign,2867,2009,Sep
+2756,Rural Tourism,Foreign,3244,2009,Aug
+2757,Rural Tourism,Foreign,2450,2009,Jul
+2758,Rural Tourism,Foreign,2355,2009,Jun
+2759,Rural Tourism,Foreign,3469,2009,May
+2760,Rural Tourism,Foreign,1255,2009,Apr
+2761,Rural Tourism,Foreign,235,2009,Mar
+2762,Rural Tourism,Foreign,94,2009,Feb
+2763,Rural Tourism,Foreign,38,2009,Jan
+2764,Rural Tourism,Foreign,237,2008,Dec
+2765,Rural Tourism,Foreign,166,2008,Nov
+2766,Rural Tourism,Foreign,1293,2008,Oct
+2767,Rural Tourism,Foreign,3254,2008,Sep
+2768,Rural Tourism,Foreign,3113,2008,Aug
+2769,Rural Tourism,Foreign,2781,2008,Jul
+2770,Rural Tourism,Foreign,2603,2008,Jun
+2771,Rural Tourism,Foreign,2849,2008,May
+2772,Rural Tourism,Foreign,1582,2008,Apr
+2773,Rural Tourism,Foreign,497,2008,Mar
+2774,Rural Tourism,Foreign,114,2008,Feb
+2775,Rural Tourism,Foreign,114,2008,Jan
+2776,Rural Tourism,Foreign,306,2007,Dec
+2777,Rural Tourism,Foreign,264,2007,Nov
+2778,Rural Tourism,Foreign,1463,2007,Oct
+2779,Rural Tourism,Foreign,3401,2007,Sep
+2780,Rural Tourism,Foreign,3270,2007,Aug
+2781,Rural Tourism,Foreign,2936,2007,Jul
+2782,Rural Tourism,Foreign,2646,2007,Jun
+2783,Rural Tourism,Foreign,2977,2007,May
+2784,Rural Tourism,Foreign,1068,2007,Apr
+2785,Rural Tourism,Foreign,384,2007,Mar
+2786,Rural Tourism,Foreign,175,2007,Feb
+2787,Rural Tourism,Foreign,126,2007,Jan
+2788,Rural Tourism,Foreign,437,2006,Dec
+2789,Rural Tourism,Foreign,191,2006,Nov
+2790,Rural Tourism,Foreign,1115,2006,Oct
+2791,Rural Tourism,Foreign,2615,2006,Sep
+2792,Rural Tourism,Foreign,3593,2006,Aug
+2793,Rural Tourism,Foreign,2851,2006,Jul
+2794,Rural Tourism,Foreign,1944,2006,Jun
+2795,Rural Tourism,Foreign,1938,2006,May
+2796,Rural Tourism,Foreign,719,2006,Apr
+2797,Rural Tourism,Foreign,260,2006,Mar
+2798,Rural Tourism,Foreign,273,2006,Feb
+2799,Rural Tourism,Foreign,69,2006,Jan
+2800,Rural Tourism,Foreign,172,2005,Dec
+2801,Rural Tourism,Foreign,288,2005,Nov
+2802,Rural Tourism,Foreign,806,2005,Oct
+2803,Rural Tourism,Foreign,2071,2005,Sep
+2804,Rural Tourism,Foreign,2140,2005,Aug
+2805,Rural Tourism,Foreign,2432,2005,Jul
+2806,Rural Tourism,Foreign,1963,2005,Jun
+2807,Rural Tourism,Foreign,1631,2005,May
+2808,Rural Tourism,Foreign,460,2005,Apr
+2809,Rural Tourism,Foreign,407,2005,Mar
+2810,Rural Tourism,Foreign,167,2005,Feb
+2811,Rural Tourism,Foreign,110,2005,Jan
+2812,Rural Tourism,Foreign,215,2004,Dec
+2813,Rural Tourism,Foreign,310,2004,Nov
+2814,Rural Tourism,Foreign,1159,2004,Oct
+2815,Rural Tourism,Foreign,1794,2004,Sep
+2816,Rural Tourism,Foreign,2397,2004,Aug
+2817,Rural Tourism,Foreign,2631,2004,Jul
+2818,Rural Tourism,Foreign,1558,2004,Jun
+2819,Rural Tourism,Foreign,1767,2004,May
+2820,Rural Tourism,Foreign,597,2004,Apr
+2821,Rural Tourism,Foreign,204,2004,Mar
+2822,Rural Tourism,Foreign,187,2004,Feb
+2823,Rural Tourism,Foreign,372,2004,Jan
+2824,Rural Tourism,Foreign,284,2003,Dec
+2825,Rural Tourism,Foreign,263,2003,Nov
+2826,Rural Tourism,Foreign,874,2003,Oct
+2827,Rural Tourism,Foreign,1599,2003,Sep
+2828,Rural Tourism,Foreign,2307,2003,Aug
+2829,Rural Tourism,Foreign,1846,2003,Jul
+2830,Rural Tourism,Foreign,1582,2003,Jun
+2831,Rural Tourism,Foreign,773,2003,May
+2832,Rural Tourism,Foreign,468,2003,Apr
+2833,Rural Tourism,Foreign,209,2003,Mar
+2834,Rural Tourism,Foreign,246,2003,Feb
+2835,Rural Tourism,Foreign,73,2003,Jan
+2836,Rural Tourism,Foreign,255,2002,Dec
+2837,Rural Tourism,Foreign,255,2002,Nov
+2838,Rural Tourism,Foreign,643,2002,Oct
+2839,Rural Tourism,Foreign,1247,2002,Sep
+2840,Rural Tourism,Foreign,2076,2002,Aug
+2841,Rural Tourism,Foreign,1845,2002,Jul
+2842,Rural Tourism,Foreign,1876,2002,Jun
+2843,Rural Tourism,Foreign,909,2002,May
+2844,Rural Tourism,Foreign,496,2002,Apr
+2845,Rural Tourism,Foreign,192,2002,Mar
+2846,Rural Tourism,Foreign,46,2002,Feb
+2847,Rural Tourism,Foreign,27,2002,Jan
+2848,Rural Tourism,Foreign,284,2001,Dec
+2849,Rural Tourism,Foreign,61,2001,Nov
+2850,Rural Tourism,Foreign,324,2001,Oct
+2851,Rural Tourism,Foreign,842,2001,Sep
+2852,Rural Tourism,Foreign,1518,2001,Aug
+2853,Rural Tourism,Foreign,1454,2001,Jul
+2854,Rural Tourism,Foreign,1250,2001,Jun
+2855,Rural Tourism,Foreign,669,2001,May
+2856,Rural Tourism,Foreign,467,2001,Apr
+2857,Rural Tourism,Foreign,129,2001,Mar
+2858,Rural Tourism,Foreign,113,2001,Feb
+2859,Rural Tourism,Foreign,40,2001,Jan
+3120,Apartments,Spain,32584,2022,Aug
+3121,Apartments,Spain,30211,2022,Jul
+3122,Apartments,Spain,13979,2022,Jun
+3123,Apartments,Spain,11629,2022,May
+3124,Apartments,Spain,16270,2022,Apr
+3125,Apartments,Spain,5616,2022,Mar
+3126,Apartments,Spain,7636,2022,Feb
+3127,Apartments,Spain,4582,2022,Jan
+3128,Apartments,Spain,7200,2021,Dec
+3129,Apartments,Spain,5393,2021,Nov
+3130,Apartments,Spain,12357,2021,Oct
+3131,Apartments,Spain,17041,2021,Sep
+3132,Apartments,Spain,30781,2021,Aug
+3133,Apartments,Spain,27587,2021,Jul
+3134,Apartments,Spain,12689,2021,Jun
+3135,Apartments,Spain,7821,2021,May
+3136,Apartments,Spain,6315,2021,Apr
+3137,Apartments,Spain,4197,2021,Mar
+3138,Apartments,Spain,963,2021,Feb
+3139,Apartments,Spain,1850,2021,Jan
+3140,Apartments,Spain,2161,2020,Dec
+3141,Apartments,Spain,2204,2020,Nov
+3142,Apartments,Spain,5242,2020,Oct
+3143,Apartments,Spain,11974,2020,Sep
+3144,Apartments,Spain,24949,2020,Aug
+3145,Apartments,Spain,18529,2020,Jul
+3146,Apartments,Spain,4930,2020,Jun
+3147,Apartments,Spain,.,2020,May
+3148,Apartments,Spain,0,2020,Apr
+3149,Apartments,Spain,1572,2020,Mar
+3150,Apartments,Spain,4719,2020,Feb
+3151,Apartments,Spain,3928,2020,Jan
+3152,Apartments,Spain,5994,2019,Dec
+3153,Apartments,Spain,5371,2019,Nov
+3154,Apartments,Spain,9588,2019,Oct
+3155,Apartments,Spain,15176,2019,Sep
+3156,Apartments,Spain,24618,2019,Aug
+3157,Apartments,Spain,20532,2019,Jul
+3158,Apartments,Spain,9770,2019,Jun
+3159,Apartments,Spain,7540,2019,May
+3160,Apartments,Spain,8943,2019,Apr
+3161,Apartments,Spain,4782,2019,Mar
+3162,Apartments,Spain,3366,2019,Feb
+3163,Apartments,Spain,3457,2019,Jan
+3164,Apartments,Spain,5188,2018,Dec
+3165,Apartments,Spain,4167,2018,Nov
+3166,Apartments,Spain,7357,2018,Oct
+3167,Apartments,Spain,11289,2018,Sep
+3168,Apartments,Spain,23759,2018,Aug
+3169,Apartments,Spain,17810,2018,Jul
+3170,Apartments,Spain,9639,2018,Jun
+3171,Apartments,Spain,6883,2018,May
+3172,Apartments,Spain,6743,2018,Apr
+3173,Apartments,Spain,5982,2018,Mar
+3174,Apartments,Spain,3390,2018,Feb
+3175,Apartments,Spain,3147,2018,Jan
+3176,Apartments,Spain,4954,2017,Dec
+3177,Apartments,Spain,4149,2017,Nov
+3178,Apartments,Spain,8557,2017,Oct
+3179,Apartments,Spain,11061,2017,Sep
+3180,Apartments,Spain,22362,2017,Aug
+3181,Apartments,Spain,18554,2017,Jul
+3182,Apartments,Spain,9403,2017,Jun
+3183,Apartments,Spain,6986,2017,May
+3184,Apartments,Spain,10446,2017,Apr
+3185,Apartments,Spain,4314,2017,Mar
+3186,Apartments,Spain,4881,2017,Feb
+3187,Apartments,Spain,3424,2017,Jan
+3188,Apartments,Spain,4582,2016,Dec
+3189,Apartments,Spain,4169,2016,Nov
+3190,Apartments,Spain,7709,2016,Oct
+3191,Apartments,Spain,9778,2016,Sep
+3192,Apartments,Spain,20699,2016,Aug
+3193,Apartments,Spain,16454,2016,Jul
+3194,Apartments,Spain,8941,2016,Jun
+3195,Apartments,Spain,5944,2016,May
+3196,Apartments,Spain,5130,2016,Apr
+3197,Apartments,Spain,7614,2016,Mar
+3198,Apartments,Spain,5569,2016,Feb
+3199,Apartments,Spain,4297,2016,Jan
+3200,Apartments,Spain,3642,2015,Dec
+3201,Apartments,Spain,2993,2015,Nov
+3202,Apartments,Spain,4301,2015,Oct
+3203,Apartments,Spain,6982,2015,Sep
+3204,Apartments,Spain,15569,2015,Aug
+3205,Apartments,Spain,12751,2015,Jul
+3206,Apartments,Spain,5357,2015,Jun
+3207,Apartments,Spain,4487,2015,May
+3208,Apartments,Spain,4805,2015,Apr
+3209,Apartments,Spain,3708,2015,Mar
+3210,Apartments,Spain,3492,2015,Feb
+3211,Apartments,Spain,2256,2015,Jan
+3212,Apartments,Spain,2919,2014,Dec
+3213,Apartments,Spain,2303,2014,Nov
+3214,Apartments,Spain,2786,2014,Oct
+3215,Apartments,Spain,5778,2014,Sep
+3216,Apartments,Spain,12877,2014,Aug
+3217,Apartments,Spain,9252,2014,Jul
+3218,Apartments,Spain,3907,2014,Jun
+3219,Apartments,Spain,3702,2014,May
+3220,Apartments,Spain,4083,2014,Apr
+3221,Apartments,Spain,2701,2014,Mar
+3222,Apartments,Spain,2313,2014,Feb
+3223,Apartments,Spain,1886,2014,Jan
+3224,Apartments,Spain,2974,2013,Dec
+3225,Apartments,Spain,2528,2013,Nov
+3226,Apartments,Spain,3322,2013,Oct
+3227,Apartments,Spain,5518,2013,Sep
+3228,Apartments,Spain,12332,2013,Aug
+3229,Apartments,Spain,8171,2013,Jul
+3230,Apartments,Spain,5204,2013,Jun
+3231,Apartments,Spain,3570,2013,May
+3232,Apartments,Spain,3080,2013,Apr
+3233,Apartments,Spain,2835,2013,Mar
+3234,Apartments,Spain,2265,2013,Feb
+3235,Apartments,Spain,1715,2013,Jan
+3236,Apartments,Spain,2405,2012,Dec
+3237,Apartments,Spain,2514,2012,Nov
+3238,Apartments,Spain,2873,2012,Oct
+3239,Apartments,Spain,6406,2012,Sep
+3240,Apartments,Spain,11459,2012,Aug
+3241,Apartments,Spain,8066,2012,Jul
+3242,Apartments,Spain,4431,2012,Jun
+3243,Apartments,Spain,3117,2012,May
+3244,Apartments,Spain,4570,2012,Apr
+3245,Apartments,Spain,2949,2012,Mar
+3246,Apartments,Spain,1441,2012,Feb
+3247,Apartments,Spain,1329,2012,Jan
+3248,Apartments,Spain,1838,2011,Dec
+3249,Apartments,Spain,1580,2011,Nov
+3250,Apartments,Spain,2658,2011,Oct
+3251,Apartments,Spain,4928,2011,Sep
+3252,Apartments,Spain,10223,2011,Aug
+3253,Apartments,Spain,8294,2011,Jul
+3254,Apartments,Spain,4204,2011,Jun
+3255,Apartments,Spain,2897,2011,May
+3256,Apartments,Spain,3886,2011,Apr
+3257,Apartments,Spain,1703,2011,Mar
+3258,Apartments,Spain,1484,2011,Feb
+3259,Apartments,Spain,1454,2011,Jan
+3260,Apartments,Spain,2169,2010,Dec
+3261,Apartments,Spain,1378,2010,Nov
+3262,Apartments,Spain,3073,2010,Oct
+3263,Apartments,Spain,5138,2010,Sep
+3264,Apartments,Spain,8933,2010,Aug
+3265,Apartments,Spain,6928,2010,Jul
+3266,Apartments,Spain,3702,2010,Jun
+3267,Apartments,Spain,2983,2010,May
+3268,Apartments,Spain,2948,2010,Apr
+3269,Apartments,Spain,2022,2010,Mar
+3270,Apartments,Spain,1336,2010,Feb
+3271,Apartments,Spain,1342,2010,Jan
+3272,Apartments,Spain,2520,2009,Dec
+3273,Apartments,Spain,1114,2009,Nov
+3274,Apartments,Spain,3236,2009,Oct
+3275,Apartments,Spain,4166,2009,Sep
+3276,Apartments,Spain,8653,2009,Aug
+3277,Apartments,Spain,6436,2009,Jul
+3278,Apartments,Spain,3126,2009,Jun
+3279,Apartments,Spain,2580,2009,May
+3280,Apartments,Spain,3560,2009,Apr
+3281,Apartments,Spain,1803,2009,Mar
+3282,Apartments,Spain,1418,2009,Feb
+3283,Apartments,Spain,1462,2009,Jan
+3284,Apartments,Spain,2100,2008,Dec
+3285,Apartments,Spain,1338,2008,Nov
+3286,Apartments,Spain,1887,2008,Oct
+3287,Apartments,Spain,3362,2008,Sep
+3288,Apartments,Spain,7910,2008,Aug
+3289,Apartments,Spain,6121,2008,Jul
+3290,Apartments,Spain,2758,2008,Jun
+3291,Apartments,Spain,2431,2008,May
+3292,Apartments,Spain,1796,2008,Apr
+3293,Apartments,Spain,3030,2008,Mar
+3294,Apartments,Spain,1863,2008,Feb
+3295,Apartments,Spain,1866,2008,Jan
+3296,Apartments,Spain,1849,2007,Dec
+3297,Apartments,Spain,1238,2007,Nov
+3298,Apartments,Spain,1972,2007,Oct
+3299,Apartments,Spain,3342,2007,Sep
+3300,Apartments,Spain,7515,2007,Aug
+3301,Apartments,Spain,6216,2007,Jul
+3302,Apartments,Spain,2852,2007,Jun
+3303,Apartments,Spain,1974,2007,May
+3304,Apartments,Spain,2978,2007,Apr
+3305,Apartments,Spain,1494,2007,Mar
+3306,Apartments,Spain,1292,2007,Feb
+3307,Apartments,Spain,1585,2007,Jan
+3308,Apartments,Spain,1632,2006,Dec
+3309,Apartments,Spain,1064,2006,Nov
+3310,Apartments,Spain,2518,2006,Oct
+3311,Apartments,Spain,2884,2006,Sep
+3312,Apartments,Spain,7186,2006,Aug
+3313,Apartments,Spain,7003,2006,Jul
+3314,Apartments,Spain,2524,2006,Jun
+3315,Apartments,Spain,1516,2006,May
+3316,Apartments,Spain,2584,2006,Apr
+3317,Apartments,Spain,1173,2006,Mar
+3318,Apartments,Spain,1384,2006,Feb
+3319,Apartments,Spain,1524,2006,Jan
+3320,Apartments,Spain,1401,2005,Dec
+3321,Apartments,Spain,1258,2005,Nov
+3322,Apartments,Spain,1418,2005,Oct
+3323,Apartments,Spain,2594,2005,Sep
+3324,Apartments,Spain,6070,2005,Aug
+3325,Apartments,Spain,5418,2005,Jul
+3326,Apartments,Spain,2236,2005,Jun
+3327,Apartments,Spain,1420,2005,May
+3328,Apartments,Spain,914,2005,Apr
+3329,Apartments,Spain,1704,2005,Mar
+3330,Apartments,Spain,1084,2005,Feb
+3331,Apartments,Spain,815,2005,Jan
+3332,Apartments,Spain,1527,2004,Dec
+3333,Apartments,Spain,721,2004,Nov
+3334,Apartments,Spain,1985,2004,Oct
+3335,Apartments,Spain,2016,2004,Sep
+3336,Apartments,Spain,4388,2004,Aug
+3337,Apartments,Spain,3840,2004,Jul
+3338,Apartments,Spain,2370,2004,Jun
+3339,Apartments,Spain,1237,2004,May
+3340,Apartments,Spain,1518,2004,Apr
+3341,Apartments,Spain,734,2004,Mar
+3342,Apartments,Spain,742,2004,Feb
+3343,Apartments,Spain,647,2004,Jan
+3344,Apartments,Spain,1118,2003,Dec
+3345,Apartments,Spain,688,2003,Nov
+3346,Apartments,Spain,676,2003,Oct
+3347,Apartments,Spain,1662,2003,Sep
+3348,Apartments,Spain,5158,2003,Aug
+3349,Apartments,Spain,3064,2003,Jul
+3350,Apartments,Spain,1948,2003,Jun
+3351,Apartments,Spain,1309,2003,May
+3352,Apartments,Spain,2358,2003,Apr
+3353,Apartments,Spain,926,2003,Mar
+3354,Apartments,Spain,1039,2003,Feb
+3355,Apartments,Spain,1320,2003,Jan
+3356,Apartments,Spain,1009,2002,Dec
+3357,Apartments,Spain,690,2002,Nov
+3358,Apartments,Spain,869,2002,Oct
+3359,Apartments,Spain,1916,2002,Sep
+3360,Apartments,Spain,5487,2002,Aug
+3361,Apartments,Spain,2961,2002,Jul
+3362,Apartments,Spain,1690,2002,Jun
+3363,Apartments,Spain,1704,2002,May
+3364,Apartments,Spain,1588,2002,Apr
+3365,Apartments,Spain,2036,2002,Mar
+3366,Apartments,Spain,1011,2002,Feb
+3367,Apartments,Spain,1032,2002,Jan
+3368,Apartments,Spain,816,2001,Dec
+3369,Apartments,Spain,526,2001,Nov
+3370,Apartments,Spain,655,2001,Oct
+3371,Apartments,Spain,2576,2001,Sep
+3372,Apartments,Spain,4183,2001,Aug
+3373,Apartments,Spain,3110,2001,Jul
+3374,Apartments,Spain,1389,2001,Jun
+3375,Apartments,Spain,1711,2001,May
+3376,Apartments,Spain,2064,2001,Apr
+3377,Apartments,Spain,1389,2001,Mar
+3378,Apartments,Spain,1086,2001,Feb
+3379,Apartments,Spain,1240,2001,Jan
+3640,Apartments,Foreign,5069,2022,Aug
+3641,Apartments,Foreign,5038,2022,Jul
+3642,Apartments,Foreign,4254,2022,Jun
+3643,Apartments,Foreign,3792,2022,May
+3644,Apartments,Foreign,2172,2022,Apr
+3645,Apartments,Foreign,512,2022,Mar
+3646,Apartments,Foreign,859,2022,Feb
+3647,Apartments,Foreign,373,2022,Jan
+3648,Apartments,Foreign,382,2021,Dec
+3649,Apartments,Foreign,570,2021,Nov
+3650,Apartments,Foreign,1600,2021,Oct
+3651,Apartments,Foreign,2104,2021,Sep
+3652,Apartments,Foreign,2008,2021,Aug
+3653,Apartments,Foreign,1750,2021,Jul
+3654,Apartments,Foreign,913,2021,Jun
+3655,Apartments,Foreign,291,2021,May
+3656,Apartments,Foreign,223,2021,Apr
+3657,Apartments,Foreign,170,2021,Mar
+3658,Apartments,Foreign,66,2021,Feb
+3659,Apartments,Foreign,135,2021,Jan
+3660,Apartments,Foreign,119,2020,Dec
+3661,Apartments,Foreign,286,2020,Nov
+3662,Apartments,Foreign,283,2020,Oct
+3663,Apartments,Foreign,1007,2020,Sep
+3664,Apartments,Foreign,1140,2020,Aug
+3665,Apartments,Foreign,1447,2020,Jul
+3666,Apartments,Foreign,726,2020,Jun
+3667,Apartments,Foreign,.,2020,May
+3668,Apartments,Foreign,0,2020,Apr
+3669,Apartments,Foreign,322,2020,Mar
+3670,Apartments,Foreign,1069,2020,Feb
+3671,Apartments,Foreign,562,2020,Jan
+3672,Apartments,Foreign,655,2019,Dec
+3673,Apartments,Foreign,657,2019,Nov
+3674,Apartments,Foreign,2803,2019,Oct
+3675,Apartments,Foreign,6021,2019,Sep
+3676,Apartments,Foreign,4391,2019,Aug
+3677,Apartments,Foreign,3262,2019,Jul
+3678,Apartments,Foreign,3611,2019,Jun
+3679,Apartments,Foreign,2216,2019,May
+3680,Apartments,Foreign,1606,2019,Apr
+3681,Apartments,Foreign,554,2019,Mar
+3682,Apartments,Foreign,436,2019,Feb
+3683,Apartments,Foreign,567,2019,Jan
+3684,Apartments,Foreign,575,2018,Dec
+3685,Apartments,Foreign,810,2018,Nov
+3686,Apartments,Foreign,2392,2018,Oct
+3687,Apartments,Foreign,4652,2018,Sep
+3688,Apartments,Foreign,4325,2018,Aug
+3689,Apartments,Foreign,3513,2018,Jul
+3690,Apartments,Foreign,2800,2018,Jun
+3691,Apartments,Foreign,4397,2018,May
+3692,Apartments,Foreign,2096,2018,Apr
+3693,Apartments,Foreign,803,2018,Mar
+3694,Apartments,Foreign,512,2018,Feb
+3695,Apartments,Foreign,466,2018,Jan
+3696,Apartments,Foreign,743,2017,Dec
+3697,Apartments,Foreign,814,2017,Nov
+3698,Apartments,Foreign,3319,2017,Oct
+3699,Apartments,Foreign,5881,2017,Sep
+3700,Apartments,Foreign,4973,2017,Aug
+3701,Apartments,Foreign,4589,2017,Jul
+3702,Apartments,Foreign,5675,2017,Jun
+3703,Apartments,Foreign,4116,2017,May
+3704,Apartments,Foreign,2499,2017,Apr
+3705,Apartments,Foreign,706,2017,Mar
+3706,Apartments,Foreign,836,2017,Feb
+3707,Apartments,Foreign,533,2017,Jan
+3708,Apartments,Foreign,734,2016,Dec
+3709,Apartments,Foreign,438,2016,Nov
+3710,Apartments,Foreign,2339,2016,Oct
+3711,Apartments,Foreign,3774,2016,Sep
+3712,Apartments,Foreign,3574,2016,Aug
+3713,Apartments,Foreign,3390,2016,Jul
+3714,Apartments,Foreign,3894,2016,Jun
+3715,Apartments,Foreign,3200,2016,May
+3716,Apartments,Foreign,1498,2016,Apr
+3717,Apartments,Foreign,746,2016,Mar
+3718,Apartments,Foreign,472,2016,Feb
+3719,Apartments,Foreign,401,2016,Jan
+3720,Apartments,Foreign,421,2015,Dec
+3721,Apartments,Foreign,260,2015,Nov
+3722,Apartments,Foreign,1332,2015,Oct
+3723,Apartments,Foreign,2493,2015,Sep
+3724,Apartments,Foreign,2636,2015,Aug
+3725,Apartments,Foreign,1931,2015,Jul
+3726,Apartments,Foreign,2164,2015,Jun
+3727,Apartments,Foreign,2090,2015,May
+3728,Apartments,Foreign,839,2015,Apr
+3729,Apartments,Foreign,417,2015,Mar
+3730,Apartments,Foreign,300,2015,Feb
+3731,Apartments,Foreign,198,2015,Jan
+3732,Apartments,Foreign,177,2014,Dec
+3733,Apartments,Foreign,95,2014,Nov
+3734,Apartments,Foreign,535,2014,Oct
+3735,Apartments,Foreign,1393,2014,Sep
+3736,Apartments,Foreign,1741,2014,Aug
+3737,Apartments,Foreign,1404,2014,Jul
+3738,Apartments,Foreign,1242,2014,Jun
+3739,Apartments,Foreign,1150,2014,May
+3740,Apartments,Foreign,897,2014,Apr
+3741,Apartments,Foreign,313,2014,Mar
+3742,Apartments,Foreign,282,2014,Feb
+3743,Apartments,Foreign,221,2014,Jan
+3744,Apartments,Foreign,282,2013,Dec
+3745,Apartments,Foreign,239,2013,Nov
+3746,Apartments,Foreign,631,2013,Oct
+3747,Apartments,Foreign,1442,2013,Sep
+3748,Apartments,Foreign,1578,2013,Aug
+3749,Apartments,Foreign,1653,2013,Jul
+3750,Apartments,Foreign,1206,2013,Jun
+3751,Apartments,Foreign,1089,2013,May
+3752,Apartments,Foreign,513,2013,Apr
+3753,Apartments,Foreign,563,2013,Mar
+3754,Apartments,Foreign,470,2013,Feb
+3755,Apartments,Foreign,255,2013,Jan
+3756,Apartments,Foreign,404,2012,Dec
+3757,Apartments,Foreign,250,2012,Nov
+3758,Apartments,Foreign,753,2012,Oct
+3759,Apartments,Foreign,1420,2012,Sep
+3760,Apartments,Foreign,1939,2012,Aug
+3761,Apartments,Foreign,1437,2012,Jul
+3762,Apartments,Foreign,1086,2012,Jun
+3763,Apartments,Foreign,833,2012,May
+3764,Apartments,Foreign,512,2012,Apr
+3765,Apartments,Foreign,276,2012,Mar
+3766,Apartments,Foreign,199,2012,Feb
+3767,Apartments,Foreign,109,2012,Jan
+3768,Apartments,Foreign,132,2011,Dec
+3769,Apartments,Foreign,118,2011,Nov
+3770,Apartments,Foreign,563,2011,Oct
+3771,Apartments,Foreign,716,2011,Sep
+3772,Apartments,Foreign,1243,2011,Aug
+3773,Apartments,Foreign,1000,2011,Jul
+3774,Apartments,Foreign,1168,2011,Jun
+3775,Apartments,Foreign,405,2011,May
+3776,Apartments,Foreign,310,2011,Apr
+3777,Apartments,Foreign,173,2011,Mar
+3778,Apartments,Foreign,166,2011,Feb
+3779,Apartments,Foreign,218,2011,Jan
+3780,Apartments,Foreign,295,2010,Dec
+3781,Apartments,Foreign,204,2010,Nov
+3782,Apartments,Foreign,509,2010,Oct
+3783,Apartments,Foreign,806,2010,Sep
+3784,Apartments,Foreign,1089,2010,Aug
+3785,Apartments,Foreign,833,2010,Jul
+3786,Apartments,Foreign,734,2010,Jun
+3787,Apartments,Foreign,623,2010,May
+3788,Apartments,Foreign,296,2010,Apr
+3789,Apartments,Foreign,273,2010,Mar
+3790,Apartments,Foreign,610,2010,Feb
+3791,Apartments,Foreign,89,2010,Jan
+3792,Apartments,Foreign,280,2009,Dec
+3793,Apartments,Foreign,78,2009,Nov
+3794,Apartments,Foreign,436,2009,Oct
+3795,Apartments,Foreign,638,2009,Sep
+3796,Apartments,Foreign,977,2009,Aug
+3797,Apartments,Foreign,649,2009,Jul
+3798,Apartments,Foreign,844,2009,Jun
+3799,Apartments,Foreign,490,2009,May
+3800,Apartments,Foreign,336,2009,Apr
+3801,Apartments,Foreign,229,2009,Mar
+3802,Apartments,Foreign,504,2009,Feb
+3803,Apartments,Foreign,317,2009,Jan
+3804,Apartments,Foreign,384,2008,Dec
+3805,Apartments,Foreign,212,2008,Nov
+3806,Apartments,Foreign,350,2008,Oct
+3807,Apartments,Foreign,714,2008,Sep
+3808,Apartments,Foreign,1217,2008,Aug
+3809,Apartments,Foreign,732,2008,Jul
+3810,Apartments,Foreign,664,2008,Jun
+3811,Apartments,Foreign,606,2008,May
+3812,Apartments,Foreign,450,2008,Apr
+3813,Apartments,Foreign,524,2008,Mar
+3814,Apartments,Foreign,537,2008,Feb
+3815,Apartments,Foreign,583,2008,Jan
+3816,Apartments,Foreign,374,2007,Dec
+3817,Apartments,Foreign,184,2007,Nov
+3818,Apartments,Foreign,323,2007,Oct
+3819,Apartments,Foreign,666,2007,Sep
+3820,Apartments,Foreign,953,2007,Aug
+3821,Apartments,Foreign,765,2007,Jul
+3822,Apartments,Foreign,570,2007,Jun
+3823,Apartments,Foreign,427,2007,May
+3824,Apartments,Foreign,434,2007,Apr
+3825,Apartments,Foreign,308,2007,Mar
+3826,Apartments,Foreign,356,2007,Feb
+3827,Apartments,Foreign,358,2007,Jan
+3828,Apartments,Foreign,432,2006,Dec
+3829,Apartments,Foreign,96,2006,Nov
+3830,Apartments,Foreign,223,2006,Oct
+3831,Apartments,Foreign,524,2006,Sep
+3832,Apartments,Foreign,821,2006,Aug
+3833,Apartments,Foreign,828,2006,Jul
+3834,Apartments,Foreign,434,2006,Jun
+3835,Apartments,Foreign,388,2006,May
+3836,Apartments,Foreign,300,2006,Apr
+3837,Apartments,Foreign,149,2006,Mar
+3838,Apartments,Foreign,354,2006,Feb
+3839,Apartments,Foreign,441,2006,Jan
+3840,Apartments,Foreign,428,2005,Dec
+3841,Apartments,Foreign,84,2005,Nov
+3842,Apartments,Foreign,193,2005,Oct
+3843,Apartments,Foreign,224,2005,Sep
+3844,Apartments,Foreign,609,2005,Aug
+3845,Apartments,Foreign,708,2005,Jul
+3846,Apartments,Foreign,498,2005,Jun
+3847,Apartments,Foreign,447,2005,May
+3848,Apartments,Foreign,306,2005,Apr
+3849,Apartments,Foreign,376,2005,Mar
+3850,Apartments,Foreign,332,2005,Feb
+3851,Apartments,Foreign,378,2005,Jan
+3852,Apartments,Foreign,378,2004,Dec
+3853,Apartments,Foreign,106,2004,Nov
+3854,Apartments,Foreign,127,2004,Oct
+3855,Apartments,Foreign,192,2004,Sep
+3856,Apartments,Foreign,332,2004,Aug
+3857,Apartments,Foreign,355,2004,Jul
+3858,Apartments,Foreign,284,2004,Jun
+3859,Apartments,Foreign,183,2004,May
+3860,Apartments,Foreign,208,2004,Apr
+3861,Apartments,Foreign,108,2004,Mar
+3862,Apartments,Foreign,259,2004,Feb
+3863,Apartments,Foreign,197,2004,Jan
+3864,Apartments,Foreign,381,2003,Dec
+3865,Apartments,Foreign,36,2003,Nov
+3866,Apartments,Foreign,57,2003,Oct
+3867,Apartments,Foreign,185,2003,Sep
+3868,Apartments,Foreign,189,2003,Aug
+3869,Apartments,Foreign,200,2003,Jul
+3870,Apartments,Foreign,130,2003,Jun
+3871,Apartments,Foreign,130,2003,May
+3872,Apartments,Foreign,96,2003,Apr
+3873,Apartments,Foreign,224,2003,Mar
+3874,Apartments,Foreign,466,2003,Feb
+3875,Apartments,Foreign,485,2003,Jan
+3876,Apartments,Foreign,383,2002,Dec
+3877,Apartments,Foreign,10,2002,Nov
+3878,Apartments,Foreign,55,2002,Oct
+3879,Apartments,Foreign,208,2002,Sep
+3880,Apartments,Foreign,694,2002,Aug
+3881,Apartments,Foreign,398,2002,Jul
+3882,Apartments,Foreign,246,2002,Jun
+3883,Apartments,Foreign,120,2002,May
+3884,Apartments,Foreign,266,2002,Apr
+3885,Apartments,Foreign,376,2002,Mar
+3886,Apartments,Foreign,247,2002,Feb
+3887,Apartments,Foreign,349,2002,Jan
+3888,Apartments,Foreign,264,2001,Dec
+3889,Apartments,Foreign,4,2001,Nov
+3890,Apartments,Foreign,200,2001,Oct
+3891,Apartments,Foreign,146,2001,Sep
+3892,Apartments,Foreign,250,2001,Aug
+3893,Apartments,Foreign,368,2001,Jul
+3894,Apartments,Foreign,165,2001,Jun
+3895,Apartments,Foreign,72,2001,May
+3896,Apartments,Foreign,240,2001,Apr
+3897,Apartments,Foreign,327,2001,Mar
+3898,Apartments,Foreign,480,2001,Feb
+3899,Apartments,Foreign,537,2001,Jan
+0,Albergue,Spain,133836,2022,Aug
+1,Albergue,Spain,141341,2022,Jul
+2,Albergue,Spain,76022,2022,Jun
+3,Albergue,Spain,40805,2022,May
+4,Albergue,Spain,47163,2022,Apr
+5,Albergue,Spain,5508,2022,Mar
+6,Albergue,Spain,1728,2022,Feb
+7,Albergue,Spain,1425,2022,Jan
+8,Albergue,Spain,1879,2021,Dec
+9,Albergue,Spain,4463,2021,Nov
+10,Albergue,Spain,37938,2021,Oct
+11,Albergue,Spain,57075,2021,Sep
+12,Albergue,Spain,98206,2021,Aug
+13,Albergue,Spain,84906,2021,Jul
+14,Albergue,Spain,27007,2021,Jun
+15,Albergue,Spain,3277,2021,May
+16,Albergue,Spain,1244,2021,Apr
+17,Albergue,Spain,504,2021,Mar
+18,Albergue,Spain,.,2021,Feb
+19,Albergue,Spain,.,2021,Jan
+20,Albergue,Spain,.,2020,Dec
+21,Albergue,Spain,.,2020,Nov
+22,Albergue,Spain,.,2020,Oct
+23,Albergue,Spain,587,2020,Sep
+24,Albergue,Spain,1130,2020,Aug
+25,Albergue,Spain,561,2020,Jul
+26,Albergue,Spain,.,2020,Jun
+27,Albergue,Spain,.,2020,May
+28,Albergue,Spain,.,2020,Apr
+29,Albergue,Spain,.,2020,Mar
+30,Albergue,Spain,.,2020,Feb
+31,Albergue,Spain,.,2020,Jan
+32,Albergue,Spain,401,2019,Dec
+33,Albergue,Spain,387,2019,Nov
+34,Albergue,Spain,938,2019,Oct
+35,Albergue,Spain,784,2019,Sep
+36,Albergue,Spain,1302,2019,Aug
+37,Albergue,Spain,2378,2019,Jul
+38,Albergue,Spain,1185,2019,Jun
+39,Albergue,Spain,.,2019,May
+40,Albergue,Spain,445,2019,Apr
+41,Albergue,Spain,.,2019,Mar
+42,Albergue,Spain,.,2019,Feb
+43,Albergue,Spain,.,2019,Jan
+44,Albergue,Spain,.,2018,Dec
+45,Albergue,Spain,.,2018,Nov
+46,Albergue,Spain,399,2018,Oct
+47,Albergue,Spain,425,2018,Sep
+48,Albergue,Spain,1454,2018,Aug
+49,Albergue,Spain,985,2018,Jul
+50,Albergue,Spain,1221,2018,Jun
+51,Albergue,Spain,478,2018,May
+52,Albergue,Spain,334,2018,Apr
+53,Albergue,Spain,339,2018,Mar
+54,Albergue,Spain,.,2018,Feb
+55,Albergue,Spain,.,2018,Jan
+56,Albergue,Spain,147,2017,Dec
+57,Albergue,Spain,.,2017,Nov
+58,Albergue,Spain,250,2017,Oct
+59,Albergue,Spain,346,2017,Sep
+60,Albergue,Spain,1781,2017,Aug
+61,Albergue,Spain,1489,2017,Jul
+62,Albergue,Spain,1119,2017,Jun
+63,Albergue,Spain,206,2017,May
+64,Albergue,Spain,.,2017,Apr
+65,Albergue,Spain,.,2017,Mar
+66,Albergue,Spain,.,2017,Feb
+67,Albergue,Spain,.,2017,Jan
+68,Albergue,Spain,263,2016,Dec
+69,Albergue,Spain,131,2016,Nov
+70,Albergue,Spain,310,2016,Oct
+71,Albergue,Spain,441,2016,Sep
+72,Albergue,Spain,1562,2016,Aug
+73,Albergue,Spain,1209,2016,Jul
+74,Albergue,Spain,691,2016,Jun
+75,Albergue,Spain,424,2016,May
+76,Albergue,Spain,162,2016,Apr
+77,Albergue,Spain,236,2016,Mar
+78,Albergue,Spain,137,2016,Feb
+79,Albergue,Spain,214,2016,Jan
+80,Albergue,Spain,108,2015,Dec
+81,Albergue,Spain,393,2015,Nov
+82,Albergue,Spain,393,2015,Oct
+83,Albergue,Spain,273,2015,Sep
+84,Albergue,Spain,1197,2015,Aug
+85,Albergue,Spain,945,2015,Jul
+86,Albergue,Spain,779,2015,Jun
+87,Albergue,Spain,346,2015,May
+88,Albergue,Spain,317,2015,Apr
+89,Albergue,Spain,101,2015,Mar
+90,Albergue,Spain,78,2015,Feb
+91,Albergue,Spain,139,2015,Jan
+92,Albergue,Spain,153,2014,Dec
+93,Albergue,Spain,192,2014,Nov
+94,Albergue,Spain,322,2014,Oct
+95,Albergue,Spain,469,2014,Sep
+96,Albergue,Spain,3724,2014,Aug
+97,Albergue,Spain,1762,2014,Jul
+98,Albergue,Spain,1062,2014,Jun
+99,Albergue,Spain,573,2014,May
+100,Albergue,Spain,166,2014,Apr
+101,Albergue,Spain,189,2014,Mar
+102,Albergue,Spain,43,2014,Feb
+103,Albergue,Spain,27,2014,Jan
+208,Albergue,Foreign,89629,2022,Aug
+209,Albergue,Foreign,76631,2022,Jul
+210,Albergue,Foreign,95008,2022,Jun
+211,Albergue,Foreign,74115,2022,May
+212,Albergue,Foreign,36100,2022,Apr
+213,Albergue,Foreign,7150,2022,Mar
+214,Albergue,Foreign,2732,2022,Feb
+215,Albergue,Foreign,1422,2022,Jan
+216,Albergue,Foreign,1649,2021,Dec
+217,Albergue,Foreign,3749,2021,Nov
+218,Albergue,Foreign,34187,2021,Oct
+219,Albergue,Foreign,40486,2021,Sep
+220,Albergue,Foreign,36254,2021,Aug
+221,Albergue,Foreign,32006,2021,Jul
+222,Albergue,Foreign,13001,2021,Jun
+223,Albergue,Foreign,1496,2021,May
+224,Albergue,Foreign,325,2021,Apr
+225,Albergue,Foreign,50,2021,Mar
+226,Albergue,Foreign,.,2021,Feb
+227,Albergue,Foreign,.,2021,Jan
+228,Albergue,Foreign,.,2020,Dec
+229,Albergue,Foreign,.,2020,Nov
+230,Albergue,Foreign,.,2020,Oct
+231,Albergue,Foreign,236,2020,Sep
+232,Albergue,Foreign,276,2020,Aug
+233,Albergue,Foreign,27,2020,Jul
+234,Albergue,Foreign,.,2020,Jun
+235,Albergue,Foreign,.,2020,May
+236,Albergue,Foreign,.,2020,Apr
+237,Albergue,Foreign,.,2020,Mar
+238,Albergue,Foreign,.,2020,Feb
+239,Albergue,Foreign,.,2020,Jan
+240,Albergue,Foreign,93,2019,Dec
+241,Albergue,Foreign,227,2019,Nov
+242,Albergue,Foreign,719,2019,Oct
+243,Albergue,Foreign,1008,2019,Sep
+244,Albergue,Foreign,1899,2019,Aug
+245,Albergue,Foreign,1323,2019,Jul
+246,Albergue,Foreign,1211,2019,Jun
+247,Albergue,Foreign,.,2019,May
+248,Albergue,Foreign,34,2019,Apr
+249,Albergue,Foreign,.,2019,Mar
+250,Albergue,Foreign,.,2019,Feb
+251,Albergue,Foreign,.,2019,Jan
+252,Albergue,Foreign,.,2018,Dec
+253,Albergue,Foreign,.,2018,Nov
+254,Albergue,Foreign,46,2018,Oct
+255,Albergue,Foreign,60,2018,Sep
+256,Albergue,Foreign,98,2018,Aug
+257,Albergue,Foreign,218,2018,Jul
+258,Albergue,Foreign,54,2018,Jun
+259,Albergue,Foreign,126,2018,May
+260,Albergue,Foreign,87,2018,Apr
+261,Albergue,Foreign,77,2018,Mar
+262,Albergue,Foreign,.,2018,Feb
+263,Albergue,Foreign,.,2018,Jan
+264,Albergue,Foreign,49,2017,Dec
+265,Albergue,Foreign,.,2017,Nov
+266,Albergue,Foreign,46,2017,Oct
+267,Albergue,Foreign,126,2017,Sep
+268,Albergue,Foreign,253,2017,Aug
+269,Albergue,Foreign,412,2017,Jul
+270,Albergue,Foreign,73,2017,Jun
+271,Albergue,Foreign,94,2017,May
+272,Albergue,Foreign,.,2017,Apr
+273,Albergue,Foreign,.,2017,Mar
+274,Albergue,Foreign,.,2017,Feb
+275,Albergue,Foreign,.,2017,Jan
+276,Albergue,Foreign,28,2016,Dec
+277,Albergue,Foreign,14,2016,Nov
+278,Albergue,Foreign,68,2016,Oct
+279,Albergue,Foreign,130,2016,Sep
+280,Albergue,Foreign,261,2016,Aug
+281,Albergue,Foreign,237,2016,Jul
+282,Albergue,Foreign,66,2016,Jun
+283,Albergue,Foreign,54,2016,May
+284,Albergue,Foreign,85,2016,Apr
+285,Albergue,Foreign,14,2016,Mar
+286,Albergue,Foreign,18,2016,Feb
+287,Albergue,Foreign,5,2016,Jan
+288,Albergue,Foreign,15,2015,Dec
+289,Albergue,Foreign,12,2015,Nov
+290,Albergue,Foreign,51,2015,Oct
+291,Albergue,Foreign,90,2015,Sep
+292,Albergue,Foreign,122,2015,Aug
+293,Albergue,Foreign,376,2015,Jul
+294,Albergue,Foreign,23,2015,Jun
+295,Albergue,Foreign,48,2015,May
+296,Albergue,Foreign,3,2015,Apr
+297,Albergue,Foreign,1,2015,Mar
+298,Albergue,Foreign,2,2015,Feb
+299,Albergue,Foreign,5,2015,Jan
+300,Albergue,Foreign,1,2014,Dec
+301,Albergue,Foreign,2,2014,Nov
+302,Albergue,Foreign,52,2014,Oct
+303,Albergue,Foreign,125,2014,Sep
+304,Albergue,Foreign,617,2014,Aug
+305,Albergue,Foreign,805,2014,Jul
+306,Albergue,Foreign,252,2014,Jun
+307,Albergue,Foreign,125,2014,May
+308,Albergue,Foreign,183,2014,Apr
+309,Albergue,Foreign,87,2014,Mar
+310,Albergue,Foreign,11,2014,Feb
+311,Albergue,Foreign,10,2014,Jan

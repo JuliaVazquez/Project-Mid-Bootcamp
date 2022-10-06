@@ -1,0 +1,596 @@
+,come_from,%,year,trimester
+0,All,100,2022,1
+1,All,100,2021,4
+2,All,100,2021,3
+3,All,100,2021,2
+4,All,100,2021,1
+5,All,100,2020,4
+6,All,100,2020,3
+7,All,.,2020,2
+8,All,100,2020,1
+9,All,100,2019,4
+10,All,100,2019,3
+11,All,100,2019,2
+12,All,100,2019,1
+13,All,100,2018,4
+14,All,100,2018,3
+15,All,100,2018,2
+16,All,100,2018,1
+17,Alemania,4.68,2022,1
+18,Alemania,6.19,2021,4
+19,Alemania,8.06,2021,3
+20,Alemania,5.64,2021,2
+21,Alemania,4.55,2021,1
+22,Alemania,4.44,2020,4
+23,Alemania,6.74,2020,3
+24,Alemania,.,2020,2
+25,Alemania,4.45,2020,1
+26,Alemania,6.23,2019,4
+27,Alemania,8.05,2019,3
+28,Alemania,8.45,2019,2
+29,Alemania,4.85,2019,1
+30,Alemania,6.23,2018,4
+31,Alemania,8.1,2018,3
+32,Alemania,8.99,2018,2
+33,Alemania,4.57,2018,1
+34,Andorra,0.41,2022,1
+35,Andorra,0.43,2021,4
+36,Andorra,0.63,2021,3
+37,Andorra,0.55,2021,2
+38,Andorra,0.53,2021,1
+39,Andorra,0.52,2020,4
+40,Andorra,0.78,2020,3
+41,Andorra,.,2020,2
+42,Andorra,0.38,2020,1
+43,Andorra,0.37,2019,4
+44,Andorra,0.41,2019,3
+45,Andorra,0.24,2019,2
+46,Andorra,0.32,2019,1
+47,Andorra,0.35,2018,4
+48,Andorra,0.39,2018,3
+49,Andorra,0.31,2018,2
+50,Andorra,0.36,2018,1
+51,Austria,0.38,2022,1
+52,Austria,0.57,2021,4
+53,Austria,0.72,2021,3
+54,Austria,0.46,2021,2
+55,Austria,0.36,2021,1
+56,Austria,0.52,2020,4
+57,Austria,0.51,2020,3
+58,Austria,.,2020,2
+59,Austria,0.34,2020,1
+60,Austria,0.56,2019,4
+61,Austria,0.74,2019,3
+62,Austria,0.81,2019,2
+63,Austria,0.35,2019,1
+64,Austria,0.57,2018,4
+65,Austria,0.7,2018,3
+66,Austria,0.88,2018,2
+67,Austria,0.33,2018,1
+68,B�lgica,1.33,2022,1
+69,B�lgica,1.52,2021,4
+70,B�lgica,2.69,2021,3
+71,B�lgica,1.28,2021,2
+72,B�lgica,1.45,2021,1
+73,B�lgica,1.67,2020,4
+74,B�lgica,2.61,2020,3
+75,B�lgica,.,2020,2
+76,B�lgica,1.2,2020,1
+77,B�lgica,1.28,2019,4
+78,B�lgica,2.21,2019,3
+79,B�lgica,1.59,2019,2
+80,B�lgica,1.3,2019,1
+81,B�lgica,1.45,2018,4
+82,B�lgica,2.19,2018,3
+83,B�lgica,1.64,2018,2
+84,B�lgica,1.36,2018,1
+85,Dinamarca,0.29,2022,1
+86,Dinamarca,0.53,2021,4
+87,Dinamarca,0.64,2021,3
+88,Dinamarca,0.37,2021,2
+89,Dinamarca,0.35,2021,1
+90,Dinamarca,0.27,2020,4
+91,Dinamarca,0.35,2020,3
+92,Dinamarca,.,2020,2
+93,Dinamarca,0.33,2020,1
+94,Dinamarca,0.54,2019,4
+95,Dinamarca,0.72,2019,3
+96,Dinamarca,0.71,2019,2
+97,Dinamarca,0.5,2019,1
+98,Dinamarca,0.68,2018,4
+99,Dinamarca,0.63,2018,3
+100,Dinamarca,0.73,2018,2
+101,Dinamarca,0.41,2018,1
+102,Finlandia,0.19,2022,1
+103,Finlandia,0.21,2021,4
+104,Finlandia,0.13,2021,3
+105,Finlandia,0.16,2021,2
+106,Finlandia,0.14,2021,1
+107,Finlandia,0.15,2020,4
+108,Finlandia,0.14,2020,3
+109,Finlandia,.,2020,2
+110,Finlandia,0.26,2020,1
+111,Finlandia,0.31,2019,4
+112,Finlandia,0.22,2019,3
+113,Finlandia,0.33,2019,2
+114,Finlandia,0.24,2019,1
+115,Finlandia,0.3,2018,4
+116,Finlandia,0.22,2018,3
+117,Finlandia,0.35,2018,2
+118,Finlandia,0.26,2018,1
+119,Francia,8.41,2022,1
+120,Francia,9.27,2021,4
+121,Francia,15.3,2021,3
+122,Francia,9.75,2021,2
+123,Francia,10.26,2021,1
+124,Francia,11.03,2020,4
+125,Francia,16.62,2020,3
+126,Francia,.,2020,2
+127,Francia,8.16,2020,1
+128,Francia,8.16,2019,4
+129,Francia,13.95,2019,3
+130,Francia,8.27,2019,2
+131,Francia,8.32,2019,1
+132,Francia,8.5,2018,4
+133,Francia,13.94,2018,3
+134,Francia,8.8,2018,2
+135,Francia,9,2018,1
+136,Irlanda,1.99,2022,1
+137,Irlanda,2.07,2021,4
+138,Irlanda,1.74,2021,3
+139,Irlanda,1.9,2021,2
+140,Irlanda,2.03,2021,1
+141,Irlanda,1.89,2020,4
+142,Irlanda,1.47,2020,3
+143,Irlanda,.,2020,2
+144,Irlanda,1.99,2020,1
+145,Irlanda,2.1,2019,4
+146,Irlanda,2.11,2019,3
+147,Irlanda,2.98,2019,2
+148,Irlanda,1.54,2019,1
+149,Irlanda,1.42,2018,4
+150,Irlanda,1.96,2018,3
+151,Irlanda,2.21,2018,2
+152,Irlanda,0.87,2018,1
+153,Italia,2.92,2022,1
+154,Italia,3.36,2021,4
+155,Italia,3.52,2021,3
+156,Italia,2.52,2021,2
+157,Italia,2.45,2021,1
+158,Italia,2.64,2020,4
+159,Italia,2.83,2020,3
+160,Italia,.,2020,2
+161,Italia,2.58,2020,1
+162,Italia,3.42,2019,4
+163,Italia,5.08,2019,3
+164,Italia,3.95,2019,2
+165,Italia,2.98,2019,1
+166,Italia,3.54,2018,4
+167,Italia,5.26,2018,3
+168,Italia,4.19,2018,2
+169,Italia,2.95,2018,1
+170,Noruega,0.4,2022,1
+171,Noruega,0.42,2021,4
+172,Noruega,0.3,2021,3
+173,Noruega,0.34,2021,2
+174,Noruega,0.48,2021,1
+175,Noruega,0.46,2020,4
+176,Noruega,0.45,2020,3
+177,Noruega,.,2020,2
+178,Noruega,0.37,2020,1
+179,Noruega,0.5,2019,4
+180,Noruega,0.59,2019,3
+181,Noruega,0.63,2019,2
+182,Noruega,0.59,2019,1
+183,Noruega,0.53,2018,4
+184,Noruega,0.53,2018,3
+185,Noruega,0.59,2018,2
+186,Noruega,0.46,2018,1
+187,Pa�ses Bajos,2.05,2022,1
+188,Pa�ses Bajos,2.49,2021,4
+189,Pa�ses Bajos,3.29,2021,3
+190,Pa�ses Bajos,2,2021,2
+191,Pa�ses Bajos,1.96,2021,1
+192,Pa�ses Bajos,1.86,2020,4
+193,Pa�ses Bajos,2.93,2020,3
+194,Pa�ses Bajos,.,2020,2
+195,Pa�ses Bajos,1.53,2020,1
+196,Pa�ses Bajos,2.05,2019,4
+197,Pa�ses Bajos,2.87,2019,3
+198,Pa�ses Bajos,2.7,2019,2
+199,Pa�ses Bajos,1.62,2019,1
+200,Pa�ses Bajos,1.84,2018,4
+201,Pa�ses Bajos,2.9,2018,3
+202,Pa�ses Bajos,2.6,2018,2
+203,Pa�ses Bajos,1.76,2018,1
+204,Polonia,0.55,2022,1
+205,Polonia,0.56,2021,4
+206,Polonia,0.64,2021,3
+207,Polonia,0.54,2021,2
+208,Polonia,0.66,2021,1
+209,Polonia,0.61,2020,4
+210,Polonia,0.51,2020,3
+211,Polonia,.,2020,2
+212,Polonia,0.63,2020,1
+213,Polonia,0.56,2019,4
+214,Polonia,0.61,2019,3
+215,Polonia,0.56,2019,2
+216,Polonia,0.65,2019,1
+217,Polonia,0.52,2018,4
+218,Polonia,0.48,2018,3
+219,Polonia,0.53,2018,2
+220,Polonia,0.56,2018,1
+221,Portugal,34.19,2022,1
+222,Portugal,29.3,2021,4
+223,Portugal,22,2021,3
+224,Portugal,31.23,2021,2
+225,Portugal,21.13,2021,1
+226,Portugal,28.73,2020,4
+227,Portugal,26.2,2020,3
+228,Portugal,.,2020,2
+229,Portugal,31.04,2020,1
+230,Portugal,25.57,2019,4
+231,Portugal,20.08,2019,3
+232,Portugal,22.78,2019,2
+233,Portugal,31.23,2019,1
+234,Portugal,25.44,2018,4
+235,Portugal,19.3,2018,3
+236,Portugal,20.25,2018,2
+237,Portugal,28.47,2018,1
+238,Reino Unido,6.89,2022,1
+239,Reino Unido,7.44,2021,4
+240,Reino Unido,6.69,2021,3
+241,Reino Unido,5.89,2021,2
+242,Reino Unido,9.46,2021,1
+243,Reino Unido,9.26,2020,4
+244,Reino Unido,9.21,2020,3
+245,Reino Unido,.,2020,2
+246,Reino Unido,8.13,2020,1
+247,Reino Unido,8.51,2019,4
+248,Reino Unido,7.9,2019,3
+249,Reino Unido,8.47,2019,2
+250,Reino Unido,8.69,2019,1
+251,Reino Unido,9.72,2018,4
+252,Reino Unido,9.32,2018,3
+253,Reino Unido,9.7,2018,2
+254,Reino Unido,9.27,2018,1
+255,Ruman�a,0.49,2022,1
+256,Ruman�a,0.42,2021,4
+257,Ruman�a,0.29,2021,3
+258,Ruman�a,0.58,2021,2
+259,Ruman�a,0.9,2021,1
+260,Ruman�a,0.76,2020,4
+261,Ruman�a,0.47,2020,3
+262,Ruman�a,.,2020,2
+263,Ruman�a,0.53,2020,1
+264,Ruman�a,0.45,2019,4
+265,Ruman�a,0.28,2019,3
+266,Ruman�a,0.29,2019,2
+267,Ruman�a,0.4,2019,1
+268,Ruman�a,0.31,2018,4
+269,Ruman�a,0.21,2018,3
+270,Ruman�a,0.33,2018,2
+271,Ruman�a,0.47,2018,1
+272,Rusia,0.61,2022,1
+273,Rusia,0.47,2021,4
+274,Rusia,0.31,2021,3
+275,Rusia,0.49,2021,2
+276,Rusia,0.73,2021,1
+277,Rusia,0.46,2020,4
+278,Rusia,0.41,2020,3
+279,Rusia,.,2020,2
+280,Rusia,0.72,2020,1
+281,Rusia,0.72,2019,4
+282,Rusia,0.6,2019,3
+283,Rusia,0.68,2019,2
+284,Rusia,0.48,2019,1
+285,Rusia,0.55,2018,4
+286,Rusia,0.49,2018,3
+287,Rusia,0.66,2018,2
+288,Rusia,0.53,2018,1
+289,Suecia,0.46,2022,1
+290,Suecia,0.68,2021,4
+291,Suecia,0.6,2021,3
+292,Suecia,0.5,2021,2
+293,Suecia,0.44,2021,1
+294,Suecia,0.4,2020,4
+295,Suecia,0.39,2020,3
+296,Suecia,.,2020,2
+297,Suecia,0.49,2020,1
+298,Suecia,0.62,2019,4
+299,Suecia,0.68,2019,3
+300,Suecia,0.64,2019,2
+301,Suecia,0.47,2019,1
+302,Suecia,0.58,2018,4
+303,Suecia,0.63,2018,3
+304,Suecia,0.62,2018,2
+305,Suecia,0.42,2018,1
+306,Suiza,5.22,2022,1
+307,Suiza,5.49,2021,4
+308,Suiza,8.59,2021,3
+309,Suiza,6.17,2021,2
+310,Suiza,7.39,2021,1
+311,Suiza,5.43,2020,4
+312,Suiza,7.37,2020,3
+313,Suiza,.,2020,2
+314,Suiza,6.23,2020,1
+315,Suiza,5.31,2019,4
+316,Suiza,6.27,2019,3
+317,Suiza,4.23,2019,2
+318,Suiza,5.62,2019,1
+319,Suiza,4.97,2018,4
+320,Suiza,6.51,2018,3
+321,Suiza,4.75,2018,2
+322,Suiza,6.66,2018,1
+323,Otros Pa�ses Europeos,3.01,2022,1
+324,Otros Pa�ses Europeos,3.21,2021,4
+325,Otros Pa�ses Europeos,2.76,2021,3
+326,Otros Pa�ses Europeos,3.5,2021,2
+327,Otros Pa�ses Europeos,3.82,2021,1
+328,Otros Pa�ses Europeos,2.67,2020,4
+329,Otros Pa�ses Europeos,2.14,2020,3
+330,Otros Pa�ses Europeos,.,2020,2
+331,Otros Pa�ses Europeos,2.2,2020,1
+332,Otros Pa�ses Europeos,2.2,2019,4
+333,Otros Pa�ses Europeos,1.93,2019,3
+334,Otros Pa�ses Europeos,2.06,2019,2
+335,Otros Pa�ses Europeos,1.71,2019,1
+336,Otros Pa�ses Europeos,1.8,2018,4
+337,Otros Pa�ses Europeos,1.69,2018,3
+338,Otros Pa�ses Europeos,1.94,2018,2
+339,Otros Pa�ses Europeos,1.72,2018,1
+340,Argentina,1.06,2022,1
+341,Argentina,0.75,2021,4
+342,Argentina,0.36,2021,3
+343,Argentina,0.42,2021,2
+344,Argentina,0.76,2021,1
+345,Argentina,0.79,2020,4
+346,Argentina,0.52,2020,3
+347,Argentina,.,2020,2
+348,Argentina,0.7,2020,1
+349,Argentina,1.24,2019,4
+350,Argentina,1.12,2019,3
+351,Argentina,1.52,2019,2
+352,Argentina,1.37,2019,1
+353,Argentina,1.28,2018,4
+354,Argentina,1.29,2018,3
+355,Argentina,2.32,2018,2
+356,Argentina,2.59,2018,1
+357,Brasil,1.03,2022,1
+358,Brasil,0.89,2021,4
+359,Brasil,0.45,2021,3
+360,Brasil,0.7,2021,2
+361,Brasil,1.04,2021,1
+362,Brasil,0.98,2020,4
+363,Brasil,0.57,2020,3
+364,Brasil,.,2020,2
+365,Brasil,1.79,2020,1
+366,Brasil,1.54,2019,4
+367,Brasil,1.08,2019,3
+368,Brasil,1.56,2019,2
+369,Brasil,2.05,2019,1
+370,Brasil,1.65,2018,4
+371,Brasil,1.01,2018,3
+372,Brasil,1.63,2018,2
+373,Brasil,2.16,2018,1
+374,Canad�,0.52,2022,1
+375,Canad�,0.6,2021,4
+376,Canad�,0.31,2021,3
+377,Canad�,0.37,2021,2
+378,Canad�,0.4,2021,1
+379,Canad�,0.52,2020,4
+380,Canad�,0.3,2020,3
+381,Canad�,.,2020,2
+382,Canad�,0.49,2020,1
+383,Canad�,1.08,2019,4
+384,Canad�,0.7,2019,3
+385,Canad�,1.1,2019,2
+386,Canad�,0.49,2019,1
+387,Canad�,1.17,2018,4
+388,Canad�,0.75,2018,3
+389,Canad�,1.05,2018,2
+390,Canad�,0.43,2018,1
+391,Chile,0.7,2022,1
+392,Chile,0.61,2021,4
+393,Chile,0.47,2021,3
+394,Chile,0.4,2021,2
+395,Chile,0.52,2021,1
+396,Chile,0.45,2020,4
+397,Chile,0.29,2020,3
+398,Chile,.,2020,2
+399,Chile,0.59,2020,1
+400,Chile,0.47,2019,4
+401,Chile,0.42,2019,3
+402,Chile,0.43,2019,2
+403,Chile,0.58,2019,1
+404,Chile,0.45,2018,4
+405,Chile,0.37,2018,3
+406,Chile,0.47,2018,2
+407,Chile,0.64,2018,1
+408,Colombia,0.56,2022,1
+409,Colombia,0.54,2021,4
+410,Colombia,0.28,2021,3
+411,Colombia,0.32,2021,2
+412,Colombia,0.46,2021,1
+413,Colombia,0.38,2020,4
+414,Colombia,0.2,2020,3
+415,Colombia,.,2020,2
+416,Colombia,0.39,2020,1
+417,Colombia,0.37,2019,4
+418,Colombia,0.24,2019,3
+419,Colombia,0.35,2019,2
+420,Colombia,0.44,2019,1
+421,Colombia,0.35,2018,4
+422,Colombia,0.3,2018,3
+423,Colombia,0.43,2018,2
+424,Colombia,0.4,2018,1
+425,Estados Unidos de Am�rica,10.05,2022,1
+426,Estados Unidos de Am�rica,11.14,2021,4
+427,Estados Unidos de Am�rica,10.39,2021,3
+428,Estados Unidos de Am�rica,13.17,2021,2
+429,Estados Unidos de Am�rica,12.11,2021,1
+430,Estados Unidos de Am�rica,9.84,2020,4
+431,Estados Unidos de Am�rica,7.46,2020,3
+432,Estados Unidos de Am�rica,.,2020,2
+433,Estados Unidos de Am�rica,9.82,2020,1
+434,Estados Unidos de Am�rica,12.12,2019,4
+435,Estados Unidos de Am�rica,10.8,2019,3
+436,Estados Unidos de Am�rica,12.5,2019,2
+437,Estados Unidos de Am�rica,10.16,2019,1
+438,Estados Unidos de Am�rica,12.04,2018,4
+439,Estados Unidos de Am�rica,10.78,2018,3
+440,Estados Unidos de Am�rica,12.21,2018,2
+441,Estados Unidos de Am�rica,9.2,2018,1
+442,M�xico,4.63,2022,1
+443,M�xico,4.3,2021,4
+444,M�xico,4.11,2021,3
+445,M�xico,5.13,2021,2
+446,M�xico,7.02,2021,1
+447,M�xico,5.71,2020,4
+448,M�xico,3.47,2020,3
+449,M�xico,.,2020,2
+450,M�xico,5.38,2020,1
+451,M�xico,4.8,2019,4
+452,M�xico,4.08,2019,3
+453,M�xico,3.75,2019,2
+454,M�xico,4.78,2019,1
+455,M�xico,4.58,2018,4
+456,M�xico,3.84,2018,3
+457,M�xico,3.33,2018,2
+458,M�xico,4.61,2018,1
+459,Resto de Am�rica,3.77,2022,1
+460,Resto de Am�rica,3.73,2021,4
+461,Resto de Am�rica,2.92,2021,3
+462,Resto de Am�rica,2.92,2021,2
+463,Resto de Am�rica,4.35,2021,1
+464,Resto de Am�rica,3.78,2020,4
+465,Resto de Am�rica,2.55,2020,3
+466,Resto de Am�rica,.,2020,2
+467,Resto de Am�rica,4.6,2020,1
+468,Resto de Am�rica,3.45,2019,4
+469,Resto de Am�rica,2.5,2019,3
+470,Resto de Am�rica,2.8,2019,2
+471,Resto de Am�rica,3.73,2019,1
+472,Resto de Am�rica,3.19,2018,4
+473,Resto de Am�rica,2.27,2018,3
+474,Resto de Am�rica,2.94,2018,2
+475,Resto de Am�rica,4.09,2018,1
+476,Australia,0.22,2022,1
+477,Australia,0.15,2021,4
+478,Australia,0.07,2021,3
+479,Australia,0.07,2021,2
+480,Australia,0.12,2021,1
+481,Australia,0.12,2020,4
+482,Australia,0.13,2020,3
+483,Australia,.,2020,2
+484,Australia,0.4,2020,1
+485,Australia,1.19,2019,4
+486,Australia,0.92,2019,3
+487,Australia,1.57,2019,2
+488,Australia,0.37,2019,1
+489,Australia,1.3,2018,4
+490,Australia,0.99,2018,3
+491,Australia,1.55,2018,2
+492,Australia,0.35,2018,1
+493,China,0.48,2022,1
+494,China,0.26,2021,4
+495,China,0.15,2021,3
+496,China,0.29,2021,2
+497,China,0.91,2021,1
+498,China,0.46,2020,4
+499,China,0.36,2020,3
+500,China,.,2020,2
+501,China,0.81,2020,1
+502,China,0.52,2019,4
+503,China,0.37,2019,3
+504,China,0.51,2019,2
+505,China,1.02,2019,1
+506,China,0.98,2018,4
+507,China,0.48,2018,3
+508,China,0.76,2018,2
+509,China,1.7,2018,1
+510,Corea,0.13,2022,1
+511,Corea,0.11,2021,4
+512,Corea,0.03,2021,3
+513,Corea,0.04,2021,2
+514,Corea,0.05,2021,1
+515,Corea,0.05,2020,4
+516,Corea,0.02,2020,3
+517,Corea,.,2020,2
+518,Corea,0.4,2020,1
+519,Corea,0.65,2019,4
+520,Corea,0.27,2019,3
+521,Corea,0.57,2019,2
+522,Corea,0.33,2019,1
+523,Corea,0.51,2018,4
+524,Corea,0.21,2018,3
+525,Corea,0.54,2018,2
+526,Corea,0.36,2018,1
+527,Emiratos �rabes Unidos,0.16,2022,1
+528,Emiratos �rabes Unidos,0.29,2021,4
+529,Emiratos �rabes Unidos,0.32,2021,3
+530,Emiratos �rabes Unidos,0.27,2021,2
+531,Emiratos �rabes Unidos,0.27,2021,1
+532,Emiratos �rabes Unidos,0.2,2020,4
+533,Emiratos �rabes Unidos,0.32,2020,3
+534,Emiratos �rabes Unidos,.,2020,2
+535,Emiratos �rabes Unidos,0.19,2020,1
+536,Emiratos �rabes Unidos,0.16,2019,4
+537,Emiratos �rabes Unidos,0.24,2019,3
+538,Emiratos �rabes Unidos,0.16,2019,2
+539,Emiratos �rabes Unidos,0.23,2019,1
+540,Emiratos �rabes Unidos,0.23,2018,4
+541,Emiratos �rabes Unidos,0.3,2018,3
+542,Emiratos �rabes Unidos,0.21,2018,2
+543,Emiratos �rabes Unidos,0.49,2018,1
+544,Jap�n,0.11,2022,1
+545,Jap�n,0.1,2021,4
+546,Jap�n,0.05,2021,3
+547,Jap�n,0.04,2021,2
+548,Jap�n,0.06,2021,1
+549,Jap�n,0.07,2020,4
+550,Jap�n,0.04,2020,3
+551,Jap�n,.,2020,2
+552,Jap�n,0.31,2020,1
+553,Jap�n,0.35,2019,4
+554,Jap�n,0.26,2019,3
+555,Jap�n,0.36,2019,2
+556,Jap�n,0.26,2019,1
+557,Jap�n,0.31,2018,4
+558,Jap�n,0.22,2018,3
+559,Jap�n,0.4,2018,2
+560,Jap�n,0.25,2018,1
+561,Turqu�a,0.22,2022,1
+562,Turqu�a,0.27,2021,4
+563,Turqu�a,0.08,2021,3
+564,Turqu�a,0.16,2021,2
+565,Turqu�a,0.26,2021,1
+566,Turqu�a,0.16,2020,4
+567,Turqu�a,0.07,2020,3
+568,Turqu�a,.,2020,2
+569,Turqu�a,0.36,2020,1
+570,Turqu�a,0.4,2019,4
+571,Turqu�a,0.14,2019,3
+572,Turqu�a,0.22,2019,2
+573,Turqu�a,0.36,2019,1
+574,Turqu�a,0.28,2018,4
+575,Turqu�a,0.11,2018,3
+576,Turqu�a,0.22,2018,2
+577,Turqu�a,0.37,2018,1
+578,Resto del mundo,1.89,2022,1
+579,Resto del mundo,1.64,2021,4
+580,Resto del mundo,1.08,2021,3
+581,Resto del mundo,1.84,2021,2
+582,Resto del mundo,2.59,2021,1
+583,Resto del mundo,2.71,2020,4
+584,Resto del mundo,1.56,2020,3
+585,Resto del mundo,.,2020,2
+586,Resto del mundo,2.18,2020,1
+587,Resto del mundo,2.2,2019,4
+588,Resto del mundo,1.55,2019,3
+589,Resto del mundo,2.21,2019,2
+590,Resto del mundo,1.98,2019,1
+591,Resto del mundo,2.4,2018,4
+592,Resto del mundo,1.64,2018,3
+593,Resto del mundo,1.87,2018,2
+594,Resto del mundo,1.93,2018,1
