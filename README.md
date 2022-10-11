@@ -21,24 +21,35 @@ I presented some hypothesis around the idea of the tourism regeneration after 20
 * [License](#license)
 
 <h2><a id='install'>How to install and run the project</a></h2>
+You will need:
 
+* Jupyter Notebook or another platform to read .ipynb files.
+    * import pandas, numpy, pymysql, sqlalchemy : create_engine, getpass, scipy.stats : ttest_1samp
+* MySQL.
 
 
 <h2><a id='use'>How to use the project</a></h2>
+The first part of this project is gathering the data and start undestanding it, you can check that in 1st_cleanning folder where I got some new datasets that I stored in new csv files that can be found in 2nd_cleanning folder.
 
+Then it was time to keep on cleanning the data and trying to connect the data frames. That part was trricky because of the way the data was stored, but I ended up with 5 csv files, which I will store in main_project folder to work with them.
 
-<h2><a id='presentation'>Presentation</a></h2>
+In the next step I use MySQL to look at the 5 dataframes and get the data that I need in Python and test the Hypothesis that I developped.
+
+Finally I used all the information gathered from the dataframes, the insights from my Hypothesis testing and the visualization of the charts in Tableau to explain visualy in my presentation all the knowledge I extracted from it.
+
+<h2><a id='presentation'>Project Presentation</a></h2>
 <a href='https://public.tableau.com/app/profile/julia.v.zquez/viz/Mid-BootcampProject_16654964405130/ProjectPresentation'>Tableau Presentation</a>
 
 
 <h2><a id='credits'>Credits</a></h2>
 I colected the data from different open-data sources:
+
 * <a href='https://abertos.xunta.gal/portada'>Galician data base</a>
 * <a href='https://datos.gob.es/es/catalogo'>Spanish data base</a>
 
 
 <h2><a id='license'>License</a></h2>
-<h6>Copyright (c) [2020] [Julia Vázquez Pérez]
+<h6>Copyright (c) 2020  Julia Vázquez Pérez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
