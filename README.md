@@ -1,8 +1,16 @@
-# Project-Mid-Bootcamp
+# Project Title
+## Project description
+## Table of contents
 * [One](#one)
 * [Two](#section2)
 
+## How to install and run the project
 
+## How to use the project
+
+## Credits
+
+## License
 
 <a id='section1'></a>
 <h4>Tableau presentation</h4>
