@@ -35,7 +35,7 @@ You will need:
 <p>Finally I used all the information gathered from the dataframes, the insights from my Hypothesis testing and the visualization of the charts in Tableau to explain visualy in my presentation all the knowledge I extracted from it.</p>
 
 <h2><a id='presentation'>Project Presentation</a></h2>
-Here you can find the <a href='https://public.tableau.com/app/profile/julia.v.zquez/viz/Mid-BootcampProject_16654964405130/ProjectPresentation'>Tableau Presentation</a> of this project where is all the graphic information.
+Here you can find the <a href='https://public.tableau.com/app/profile/julia.v.zquez/viz/Mid-BootcampProject_16654964405130/ProjectPresentation'>Tableau Presentation</a> of this project where is all the graphic information about tourism in Galicia.
 
 
 <h2><a id='credits'>Credits</a></h2>
