@@ -10,7 +10,7 @@ This project allows us to get a look over the tourism of this region, the types 
 
 * [Install and run](#install)
 * [Use this project](#use)
-* [Presentation] (#presentation)
+* [Presentation](#presentation)
 * [Credits](#credits)
 * [License](#license)
 
