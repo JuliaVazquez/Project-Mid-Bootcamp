@@ -18,7 +18,7 @@
 <a id='section1'></a>
 <h4>Tableau presentation</h4>
 
-https://public.tableau.com/app/profile/julia.v.zquez/viz/Mid-BootcampProyect/Story1
+[Tableu Presentation](https://public.tableau.com/app/profile/julia.v.zquez/viz/Mid-BootcampProject_16654964405130/ProjectPresentation)
 
 
 <h3><a id='one'>One</a></h3>
