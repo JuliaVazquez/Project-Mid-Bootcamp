@@ -31,6 +31,7 @@ You will need:
 <h2><a id='use'>How to use the project</a></h2>
 The first part of this project is gathering the data and start undestanding it, you can check that in 1st_cleanning folder where I got some new datasets that I stored in new csv files that can be found in 2nd_cleanning folder.
 
+
 Then it was time to keep on cleanning the data and trying to connect the data frames. That part was trricky because of the way the data was stored, but I ended up with 5 csv files, which I will store in main_project folder to work with them.
 
 In the next step I use MySQL to look at the 5 dataframes and get the data that I need in Python and test the Hypothesis that I developped.
