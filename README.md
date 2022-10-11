@@ -38,7 +38,7 @@ I colected the data from different open-data sources:
 
 
 <h2><a id='license'>License</a></h2>
-<h6 color='#C3BFBE'>Copyright (c) [2020] [Julia Vázquez Pérez]
+<h6 colour='#C3BFBE'>Copyright (c) [2020] [Julia Vázquez Pérez]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
