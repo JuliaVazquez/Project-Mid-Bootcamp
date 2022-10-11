@@ -1,25 +1,34 @@
 <img src="readme/img_1.jpg"/>
 
-## Project description
+Julia Vázquez Pérez
 
-## Table of contents
+## Description
+Galicia: North-West of Spain (just on top of Portugal)
+This project allows us to get a look over the tourism of this region, the types of tourists and accommodations, and it gives a positive view of it's recovery over Covid-19.
 
-* [One](#one)
-* [Two](#section2)
+## Content
 
-## How to install and run the project
+* [Install and run](#install)
+* [Use this project](#use)
+* [Presentation] (#presentation)
+* [Credits](#credits)
+* [License](#license)
 
-## How to use the project
+<h2><a id='install'>How to install and run the project</a></h2>
 
-## Credits
 
-## License
 
-<a id='section1'></a>
-<h4>Tableau presentation</h4>
+<h2><a id='use'>How to use the project</a></h2>
 
+
+
+<h2><a id='credits'>Credits</a></h2>
+
+
+
+<h2><a id='license'>License</a></h2>
+
+<h2><a id='presentation'>Presentation</a></h2>
 [Tableu Presentation](https://public.tableau.com/app/profile/julia.v.zquez/viz/Mid-BootcampProject_16654964405130/ProjectPresentation)
 
 
-<h3><a id='one'>One</a></h3>
-<a id='section2'></a>
