@@ -1,5 +1,5 @@
 # Project-Mid-Bootcamp
-* [One](#section1)
+* [One](#one)
 * [Two](#section2)
 
 
