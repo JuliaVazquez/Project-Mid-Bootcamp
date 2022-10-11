@@ -1,4 +1,4 @@
-# Proyect-Mid-Bootcamp
+# Project-Mid-Bootcamp
 * one
 * two
 
