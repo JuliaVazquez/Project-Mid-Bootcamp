@@ -3,8 +3,14 @@
 Julia Vázquez Pérez
 
 ## Description
-Galicia: North-West of Spain (just on top of Portugal)
-This project allows us to get a look over the tourism of this region, the types of tourists and accommodations, and it gives a positive view of it's recovery over Covid-19.
+Galicia: North-West of Spain (just on top of Portugal).
+
+The aim of this project is to get a look over the tourism of this region pre and post Covid-19.
+
+For that I am going to check the travellers, nights, average stay, zones, types of accommodation and travellers' origin and compare this data throught the months and years since 2001 to 2022.
+
+I presented some hypothesis around the idea of the tourism regeneration after 2020 and I can confirm that the data shows that tourism in Galicia has indeed increased.
+
 
 ## Content
 
