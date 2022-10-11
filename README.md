@@ -29,6 +29,6 @@ This project allows us to get a look over the tourism of this region, the types 
 <h2><a id='license'>License</a></h2>
 
 <h2><a id='presentation'>Presentation</a></h2>
-[Tableu Presentation] (#https://public.tableau.com/app/profile/julia.v.zquez/viz/Mid-BootcampProject_16654964405130/ProjectPresentation)
+[[Tableu Presentation]](https://public.tableau.com/app/profile/julia.v.zquez/viz/Mid-BootcampProject_16654964405130/ProjectPresentation)
 
 
