@@ -29,13 +29,13 @@ You will need:
 
 
 <h2><a id='use'>How to use the project</a></h2>
-<p>The first part of this project is gathering the data and start undestanding it, you can check that in 1st_cleanning folder where I got some new datasets that I stored in new csv files that can be found in 2nd_cleanning folder.</p>
-<p>Then it was time to keep on cleanning the data and trying to connect the data frames. That part was trricky because of the way the data was stored, but I ended up with 5 csv files, which I will store in main_project folder to work with them.</p>
-<p>In the next step I use MySQL to look at the 5 dataframes and get the data that I need in Python and test the Hypothesis that I developped.</p>
+<p>The first part of this project is gathering the data and start undestanding it. You can check that in 1st_cleanning folder where I got all the downloaded data from my sources.</p>
+<p>After that first understanding I got some new datasets that I stored in new csv files. They can be found in 2nd_cleanning folder where I keep on cleanning this new datasets and trying to connect them. That part was trricky because of the way the data was stored, but I ended up with 5 new csv files.</p>
+<p>In the next step I use the main_project folder, where those new files are storeed, to work with them using MySQL. I got the data that I need in Python and test the Hypothesis that I developped.</p>
 <p>Finally I used all the information gathered from the dataframes, the insights from my Hypothesis testing and the visualization of the charts in Tableau to explain visualy in my presentation all the knowledge I extracted from it.</p>
 
 <h2><a id='presentation'>Project Presentation</a></h2>
-<a href='https://public.tableau.com/app/profile/julia.v.zquez/viz/Mid-BootcampProject_16654964405130/ProjectPresentation'>Tableau Presentation</a>
+Here you can find the <a href='https://public.tableau.com/app/profile/julia.v.zquez/viz/Mid-BootcampProject_16654964405130/ProjectPresentation'>Tableau Presentation</a> of this project where is all the graphic information.
 
 
 <h2><a id='credits'>Credits</a></h2>
