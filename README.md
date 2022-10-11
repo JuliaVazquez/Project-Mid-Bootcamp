@@ -23,8 +23,13 @@ I presented some hypothesis around the idea of the tourism regeneration after 20
 <h2><a id='install'>How to install and run the project</a></h2>
 You will need:
 
-* Jupyter Notebook or another platform to read .ipynb files.
-    * import pandas, numpy, pymysql, sqlalchemy : create_engine, getpass, scipy.stats : ttest_1samp
+* Jupyter Notebook (or another platform to read .ipynb files) and you'll need to import:
+    * pandas
+    * numpy
+    * pymysql
+    * sqlalchemy : create_engine
+    * getpass
+    * scipy.stats : ttest_1samp
 * MySQL.
 
 
