@@ -1,6 +1,6 @@
 # Proyect-Mid-Bootcamp
-*one
-*two
+* one
+* two
 
 
 <h4>Tableau presentation</h4>
