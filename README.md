@@ -29,9 +29,9 @@ You will need:
 
 
 <h2><a id='use'>How to use the project</a></h2>
-<p>The first part of this project is gathering the data and start undestanding it. You can check that in 1st_cleanning folder where I got all the downloaded data from my sources.</p>
-<p>After that first understanding I got some new datasets that I stored in new csv files. They can be found in 2nd_cleanning folder where I keep on cleanning this new datasets and trying to connect them. That part was trricky because of the way the data was stored, but I ended up with 5 new csv files.</p>
-<p>In the next step I use the main_project folder, where those new files are storeed, to work with them using MySQL. I got the data that I need in Python and test the Hypothesis that I developped.</p>
+<p>The first part of this project is gathering the data and start undestanding it. You can check that in [1st_cleanning](https://github.com/JuliaVazquez/Project-Mid-Bootcamp/tree/main/1st_cleanning) folder where I got all the downloaded data from my sources. I used 3 jupyter notebooks for this first cleanning.</p>
+<p>After that first understanding I got some new datasets that I stored in new csv files. They can be found in [2nd_cleanning](https://github.com/JuliaVazquez/Project-Mid-Bootcamp/tree/main/2nd_cleanning) folder where I keep on cleanning this new datasets and trying to connect them. That part was tricky because of the way the data was stored, but I ended up with 5 new csv files. For this second cleanning I also used 3 diferent jupyter notebooks to work the 3 differents sets of data</p>
+<p>In the next step I use the [main_project](https://github.com/JuliaVazquez/Project-Mid-Bootcamp/tree/main/main_project) folder, where those new files are storeed, to work with them using MySQL. I got the data that I need in Python and test the Hypothesis that I developped.</p>
 <p>Finally I used all the information gathered from the dataframes, the insights from my Hypothesis testing and the visualization of the charts in Tableau to explain visualy in my presentation all the knowledge I extracted from it.</p>
 
 <h2><a id='presentation'>Project Presentation</a></h2>
